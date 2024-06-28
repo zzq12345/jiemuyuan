@@ -92,7 +92,16 @@
 			]
 		},
 
-  
+  		{
+			"key": "快看",
+			"name": "快看",
+			"type": 3,
+			"api": "csp_Kuaikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"filterable": 1
+		},
 {"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
                                    {
 			"key": "快看",
