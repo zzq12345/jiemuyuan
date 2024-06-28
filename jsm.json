@@ -47,7 +47,7 @@
     "分类url": "https://www.dubokuz.com/vodtype/{cateId}.html?year={year}&country={area}&page={catePg}",
     "分类": "电影$movie#剧集$tv#综艺$show#动漫$anime"
   },
-  "jar": "./lib/xbpq.jar"
+  "jar": "./lib/XBPQ.jar"
 },
 {
 			"key": "haiwaikan",
