@@ -91,7 +91,17 @@
 				"经典片"
 			]
 		},
-
+{
+        "key": "黑木资源",
+        "name": "黑木资源",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json",
+        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    },
   		{
 			"key": "快看",
 			"name": "快看",
@@ -147,17 +157,7 @@
 
  {"key":"白嫖影视","name":"🔴白嫖影视","type":3,"api":"csp_BaiPiao","jar":"./3366.jar"},
 {"key":"py_cctv","name":"央视主要栏目","type":3,"api":"./cctv.py"},      
-{
-        "key": "黑木资源",
-        "name": "黑木资源",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json",
-        "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },
+
 {
         "key": "天龙影视",
         "name": "天龙影视",
