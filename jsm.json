@@ -881,18 +881,12 @@
     },
 
 
-{
-            "name": "央视频",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-            "type": 0,
-            "url": "./嗅探.m3u"
-},
                                     {
                                                    "name": "myTV SUPER",
                                                  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6476.0 Safari/537.36 Edg/124.0.2478.97",
      
                                               "type": 0,
-      "url": "./mytv.m3u",
+      "url": "https://yang-1989.eu.org/m3u/MyTV",
       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp1.112114.xyz/logo/{name}.png"
     },
@@ -929,7 +923,12 @@
                                "logo": "https://diyp1.112114.xyz/logo/{name}.png"
                           }, 
 			
-	
+	{
+            "name": "央视频",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+            "type": 0,
+            "url": "./嗅探.m3u"
+},
 	
 	                {
 				"name": "印尼",
