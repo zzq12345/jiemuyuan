@@ -35,8 +35,8 @@
 			"ext": "./lib/douban.json"
 		},
 {
-  "key": "独播库1",
-  "name": "独播库1",
+  "key": "独播库",
+  "name": "独播库",
   "type": 3,
   "api": "csp_XBPQ",
   "ext": {
