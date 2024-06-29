@@ -274,7 +274,7 @@
           {
             "key": "X视频",
             "name": "xvideos",
-            "type": 3,
+            "type": 1,
             "api": "./js/lib/drpy2.min.js",
             "ext": "./js/XVIDEOS.js",
             "style": {
