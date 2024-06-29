@@ -88,6 +88,9 @@
 
   ],
   "sites": [
+	  { "key":"afasu", "name":"小湿妹资源", "type":0, "api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{ "key":"黄AV资源", "name":"黄AV资源", "type":0, "api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"色色资源","name":"色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "泥巴",
       "name": "泥巴",
