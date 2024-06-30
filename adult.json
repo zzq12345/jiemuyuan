@@ -137,7 +137,45 @@
   }
 },
 
-	  
+	{
+            "key": "csp_XBPQ_JAV目錄大全",
+            "name": "🔞JAV｜大全",
+            "type": 3,
+            "jar": "./lib/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "热门推荐": "1",
+                "直接播放": "0",
+                "数组": "<div class=\"card mx-1\">&&</a>[替换:alt=\"watermark\">>空]",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://javmenu.cc/zh/search?wd={wd}&page={pg}",
+                "搜索模式": "1",
+                "搜索数组": "<div class=\"card mx-1\">&&</a>[替换:alt=\"watermark\">>空]",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索标题": "alt=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "播放二次截取": "id=\"pills-tabContent\">&&<div class=\"mb-3 col-12\">",
+                "播放数组": "<div class=\"single-video\">&&var server_count",
+                "状态": "更新：&&</span>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "简介：&&</span>",
+                "播放列表": "<video id=\"&&</script>",
+                "播放标题": "couhe",
+                "播放链接": "m3u8.push(\"&&\"",
+                "嗅探词": ".m3u8",
+                "播放请求头": "",
+                "分类": "国产$chinese#五码$uncensored#欧美$western#fc2$fc2#女同性$115#三级字幕$442#91探花$455#偷拍自拍$278#国产传媒$390#台湾涩情$412",
+                "分类url": "https://javmenu.cc/zh/{cateId}/online?page={catePg}",
+                "筛选": "263",
+                "页面代理": "127.0.0.1:10075"
+            }
+        },  
 
     {
       "key": "玩偶",
