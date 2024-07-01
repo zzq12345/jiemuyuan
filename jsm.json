@@ -970,8 +970,8 @@
      
                                         
       "url": "https://yang-1989.eu.org/m3u/MyTV",
-      
-     "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+     "epg": 
 					    "logo": "https://diyp1.112114.xyz/logo/{name}.png"
     },
  
