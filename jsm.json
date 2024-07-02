@@ -93,7 +93,7 @@
 			"changeable":1, "filterable":1,
 			"timeout":60,
 			"ext":"./lib/tokenm.json",
-			"spider":"./pg12.jar"
+			 "jar": "./lib/pg.jar"
 		},
 
 		
