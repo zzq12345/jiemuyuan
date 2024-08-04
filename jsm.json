@@ -1572,7 +1572,26 @@
 	                         "playerType": 2,
                                  "url": "./lib/yo22.txt"
 			},
+{
+				"name": "墙外印尼",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "./yinni.m3u"
+			},
+			
 
+  {
+				"name": "mimipipi22",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist24"
+			},
+{
+				"name": "jedi-sambora",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tv3"
+			},
  {
 				"name": "yang1989",
 				 "ua": "okhttp/4.12.0",
