@@ -1,0 +1,16 @@
+
+{
+  "key": "独播库",
+  "name": "独播库",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "线路数组": "class=\"myui-panel__head active&&</div>",
+    "线路标题": "class=\"title titlego\">&&</h3",
+    "分类url": "https://www.dubokuz.com/vodtype/{cateId}.html?year={year}&country={area}&page={catePg}",
+    "分类": "电影$movie#剧集$tv#综艺$show#动漫$anime"
+  },
+  "jar": "./lib/xbpq.jar"
+}
