@@ -531,7 +531,8 @@ ausbiz TV [Geo-blocked][1,https://d9quh89lh7dtw.cloudfront.net/public-output/ind
 TD Ameritrade Network,https://tdameritrade-distro.amagi.tv/playlist.m3u8
 Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 沙特,#genre#
-Dubai One HD,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
+Dubai One HD,https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
 MBC 1 HD,http://supersonictv.live:8080/160392/424004/84003
 MBC 2 HD,http://supersonictv.live:8080/160392/424004/84004
 MBC 2 SD,http://supersonictv.live:8080/160392/424004/84005
