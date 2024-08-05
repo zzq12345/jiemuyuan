@@ -7,7 +7,7 @@
             "name": "黑木耳",
             "type": 1,
             "api": "https://json.heimuer.xyz/api.php/provide/vod",
-	    "jar": "./pg2.jar",
+	    ####"jar": "./pg2.jar",
             "categories": [
  
 		    "国产动漫",
