@@ -672,8 +672,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="三星",smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="沙特",Dubai One HD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
 
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="沙特",MBC 1 HD
 http://supersonictv.live:8080/160392/424004/84003
 #EXTINF:-1 group-title="沙特",MBC 2 HD
