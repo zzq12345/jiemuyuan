@@ -1,29 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-          {
-    "key": "T4-heimuer",
-    "name": "黑木耳(T4)",
-    "type": 4,
-    "api": "https://tang.hz.cz/power/hme?token=",
-		"jar": "./fongmi.jar",  
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-},
-{
-    "key": "T4-安博",
-    "name": "安博(T4)",
-    "type": 4,
-    "api": "https://tang.hz.cz/power/ub18?token=",
-
-"jar": "./fongmi.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-},
+        
 		{
             "key": "黑木耳",
             "name": "黑木耳",
