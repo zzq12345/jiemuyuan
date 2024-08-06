@@ -1562,7 +1562,7 @@
 	                         "name": "央視頻",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "./0709YSP.txt",
+                                 "url": "./0719YSP.txt",
 	                         ###"url": "./mytvsuper.m3u",
                                  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
