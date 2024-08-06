@@ -122,15 +122,7 @@
    "searchable": 1,
    "quickSearch": 1
   },
-{
-    "key":"采集之王",
-    "name":"采集之王",
-    "type":3,
-    "api":"./lib/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "##ext":"./js/采集之王.js?type=url&params=./js/采集静态.json"
-},
+
   
 		{
             "key": "唐人街",
