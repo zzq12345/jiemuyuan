@@ -1557,10 +1557,20 @@
                                  "url": "./lib/yo22.txt"
 			},
 {
-				"name": "墙外印尼",
+	
+	
+	                         "name": "央視頻",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "./yinni.m3u"
+                                 "url": "./0709YSP.txt",
+	                         ###"url": "./mytvsuper.m3u",
+                                 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+	
+	
+	
+				 
+	               
 			},
 			
 
