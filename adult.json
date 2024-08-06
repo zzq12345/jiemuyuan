@@ -7,7 +7,7 @@
 
 "url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt",
 "type": 0,
-"playerType": 1,
+"playerType": 2,
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -16,7 +16,7 @@
 	"name":"成人 IPTV",
 	"url":"https://parlay12.serv00.net/xhamters/paylist.php",
 	"type": 0,
-"playerType": 1,
+"playerType": 2,
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
