@@ -1655,31 +1655,31 @@
 				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
-			},			
- {
+		        },				
+                        {
 				"name": "mytvsuper",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://tv.iill.top/m3u/MyTV",
-	  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
-{
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },
+                        {
 				"name": "smarttv",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "./1.txt",
-	  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
-{
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       },
+                       {
 				"name": "thetv最新版",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/Thetv_dussl.m3u",
-	  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },
 
 			{
 				"name": "Tvb播放列表地址",
@@ -1687,59 +1687,59 @@
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/Tvb_dussl.m3u",
 				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+                                "logo": "https://epg.112114.xyz/logo/{name}.png"
 				
-           },
+                        },
 			
 		
-{
+                        {
 				"name": "Beesport播放列表地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "   https://www.mytvsuper.com.mp/beesport_dussl.m3u ",
-	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       },
 			
 		
-{
+                       {
 				"name": "Thetv播放列表地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "  https://www.mytvsuper.com.mp/Thetv_dussl.m3u",
-	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       },
 			
 		
-{
+                       {
 				"name": "itv播放列表地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/itv_dussl.m3u",
-	 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       },
 			
 		
-{
+                       {
 				"name": "4GTV播放列表地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/4gtv_dussl.m3u",
-	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },
 			
 		
-{
+                        {
 				"name": "🇫🇷巴黎奥运会地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/Aoyun_dussl.m3u",
-	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
-           },
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },
     
                            {
                            "name": "适合移动宽带",
