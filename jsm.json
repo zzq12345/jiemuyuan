@@ -8,6 +8,7 @@
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod",
 	    ####"jar": "./pg2.jar",
+		###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",	
             "categories": [
  
 		    "国产动漫",
@@ -217,8 +218,8 @@
 	
 },
 {
-            "key": "黑木耳",
-            "name": "黑木耳",
+            "key": "黑木耳旧版",
+            "name": "黑木耳旧版",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/https://json.heimuer.xyz/api.php/provide/vod",
 	    "jar": "./pg2.jar",
@@ -292,7 +293,7 @@
             "name": "🟢黑木耳新版",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+           ###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
         },
         
 	{
@@ -495,7 +496,7 @@
       "api": "  http://127.0.0.1:10079/p/0/proxy/https://hw8.live/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
-	"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+	###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "categories": [
                 "日本动漫",
                 "国产动漫",
@@ -573,8 +574,8 @@
                 "科幻片",
                 "纪录片",
                 "经典片"
-            ],
-	   "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=" 
+            ]
+	   ###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=" 
     },
  
   {
