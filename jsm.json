@@ -1573,7 +1573,8 @@
 	               
 			},
 			
-｛
+{
+			"name": "hami",
 			"ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://www.dussl.icu/hami_dussl.m3u",
