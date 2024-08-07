@@ -1578,7 +1578,7 @@
 			"name": "hami",
 			"ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "https://www.mytvsuper.com.mp/hami_dussl.m3u",
+                                 "url": "https://www.mytvsuper.com.mp/Hami_dussl.m3u",
 	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
            },
