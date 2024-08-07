@@ -1618,7 +1618,16 @@
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
 
-		   {
+		{
+			"name": "yang-1989 sport",
+		  "url":"https://tv.iill.top/m3u/Sport",
+
+		 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				
+	  ###"epg": "https://epg.iill.top/epg",
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ },	
+			{
 
 				"name": "国内酒店",
 				 "ua": "okhttp/3.0",
