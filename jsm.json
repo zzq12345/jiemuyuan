@@ -1578,7 +1578,7 @@
 			},
 			
 {
-			"name": "hami",
+			"name": "hami目前失效",
 			"ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/Hami_dussl.m3u",
@@ -1628,18 +1628,7 @@
 				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
-			},
-{
-				"name": "mytvsuper  temperaly",
-				 "ua": "okhttp/3.0",
-	                         "playerType": 2,
-                                 "url": "http://xg.52sw.top:5000/mytvsuper.m3u",
-	                         ###"url": "./mytvsuper.m3u",
-	###"url":"https://www.mytvsuper.com.mp/Tvb_dussl.m3u",
-                                 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-	                  
- },
+			},			
  {
 				"name": "mytvsuper",
 				 "ua": "okhttp/3.0",
