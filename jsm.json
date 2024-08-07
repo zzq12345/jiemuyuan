@@ -1617,19 +1617,8 @@
 	  ###"epg": "https://epg.iill.top/epg",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
-{
-				"name": "湖北移动",
-				 "ua": "okhttp/3.0",
-	                         "playerType": 2,
-	                         ###"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				
-                                 "url": "./hubeimobile.txt",
-	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-	                  
-			},
 
-			{
+		   {
 
 				"name": "国内酒店",
 				 "ua": "okhttp/3.0",
