@@ -1663,7 +1663,7 @@
 				"name": "smarttv",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "http://wp.coms.su/1.txt",
+                                 "url": "./1.txt",
 	  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
            },
