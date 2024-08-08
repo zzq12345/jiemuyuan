@@ -1578,7 +1578,14 @@
 				 
 	               
 			},
-			
+		{
+                      "name":"新视界",
+                      "url":"./xinshijie.txt",
+                      "type": 0,
+                       "playerType": 2,
+                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                       "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },	
 {
 			"name": "hami目前失效",
 			"ua": "okhttp/3.0",
