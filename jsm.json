@@ -66,7 +66,43 @@
             "changeable": 1
             
 },
-		
+	{
+	    "key": "AnFuns",
+            "name": "💕AnFuns",
+            "type": 3,
+            "api": "csp_XBPQ",
+	    "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "主页url": "https://www.anfuns.cc/",
+                "数组": "\"hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\"&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "hl-lc-1 remarks\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "简介：&&</li>",
+                "分类url": "https://www.anfuns.cc/type/{cateId}-{catePg}.html",
+                "分类": "新旧番剧$1#蓝光无修$2#动漫剧场$3#欧美动漫$4"
+            }
+        },	
+	{
+	    "key": "风车动漫",
+            "name": "💕风车动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+	    "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "主页url": "https://www.dmla7.com/",
+                "数组": "stui-vodlist__box\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "pic-text text-right\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "text text-overflow text-muted hidden-xs\">&&</p>",
+                "分类url": "https://www.dmla7.com/type/{cateId}-{catePg}.html",
+                "分类": "日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+            }
+        },	
+
 		
 		{
 		   "key": "VS影院", 
