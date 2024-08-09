@@ -114,7 +114,15 @@
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"
             }
         },
-		
+		{
+      "key": "浮力ASMR",
+      "name": "🔞浮力ASMR",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "style": {"type": "rect","ratio": 1.5},
+        "ext": {"首页 ": "浮力ASMR$/","主页url": "https://flasmr.lol/","分类url": "https://flasmr.lol/page/{catePg}/[https://flasmr.lol/];;z","分类": "浮力ASMR$/"}
+    },
 		{
 		   "key": "VS影院", 
 		   "name": "VS影院", 
