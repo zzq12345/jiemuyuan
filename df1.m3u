@@ -4328,6 +4328,21 @@ https://php.shy0.eu.org/now_mpd.php?id=332
 https://php.shy0.eu.org/now_mpd.php?id=630
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c236ef44730935c5a25b470be0b8231d:35cc1579b2b3944baf79db7e339d2161
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now直播 
+https://php.shy0.eu.org/now_mpd.php?id=331
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b91265093169312da08607e9c5628445:0fd51a305a44323b2ce1371a3a6fd1aa
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now新闻
+https://php.shy0.eu.org/now_mpd.php?id=332
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f110eeb7ef23edf9a6200e253da8f9c:3d30412a844dfcc7cc01fce01692c130
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now体育
+https://php.shy0.eu.org/now_mpd.php?id=630
 
 
 
