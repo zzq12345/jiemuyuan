@@ -4299,10 +4299,13 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now新闻
 
+https://php.shy0.eu.org/now_mpd.php?id=331
 
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now直播
 
-
+https://php.shy0.eu.org/now_mpd.php?id=332
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫视
