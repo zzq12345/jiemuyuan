@@ -4299,13 +4299,36 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now新闻
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key==c236ef44730935c5a25b470be0b8231d:35cc1579b2b3944baf79db7e339d2161
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now直播 
 https://php.shy0.eu.org/now_mpd.php?id=331
 
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now直播
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b91265093169312da08607e9c5628445:0fd51a305a44323b2ce1371a3a6fd1aa
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now新闻
 https://php.shy0.eu.org/now_mpd.php?id=332
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f110eeb7ef23edf9a6200e253da8f9c:3d30412a844dfcc7cc01fce01692c130
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now体育
+https://php.shy0.eu.org/now_mpd.php?id=630
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫视
