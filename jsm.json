@@ -65,8 +65,42 @@
 	
             "changeable": 1
             
-},
-	
+        },
+	{
+            "key": "php2_del_ads_hmezy",
+            "name": "🤪 黑木耳(无广告)(T4_PHP)",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/del_ads_heimuer.php",
+	    "jar":"https://t4.doube.eu.org/spider.jar",
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "changeable":0
+        },
+        {
+            "key": "php2_hmezy",
+            "name": "🤪 黑木耳(T4_PHP)",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/heimuer.php",
+            "jar":"https://t4.doube.eu.org/spider.jar",
+
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "changeable":0
+        },
+        {
+            "key": "php_huaweiba",
+            "name": "🤪 华为吧(T4_PHP)",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/huaweiba.php",
+            "jar":"https://t4.doube.eu.org/spider.jar",
+
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "changeable":0
+        },
 
       
 		{
