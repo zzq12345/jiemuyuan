@@ -7,7 +7,7 @@
             "name": "黑木耳",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod",
-	    ####"jar": "./pg2.jar",
+	    "jar": "./spider.jar",
            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",	
             "categories": [
  
@@ -71,7 +71,7 @@
             "name": "🤪 黑木耳(无广告)(T4_PHP)",
             "type": 4,
             "api": "https://t4.doube.eu.org/del_ads_heimuer.php",
-	    "jar":"https://t4.doube.eu.org/spider.jar",
+	    "jar":"./spider.jar",
             "searchable": 1,
             "quickSearch":0,
             "filterable":0,
