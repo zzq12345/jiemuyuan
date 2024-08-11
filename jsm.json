@@ -1786,7 +1786,7 @@
 				"name": "Tvb播放列表地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "https://www.mytvsuper.com.mp/Tvb_dussl.m3u",
+                                 "url": "http://zzqwe.giize.com:12229/mytvsuper.php",
 				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
 				
