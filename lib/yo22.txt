@@ -39,7 +39,8 @@ GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=hcxLMIfxi0A
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 cctv4,https://www.youtube.com/watch?v=twhG7_jvA8g
 環宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
-台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
+台視新聞 TTV NEWS,
+https://m.youtube.com/watch?v=xL0ch83RAK8&pp=ygUM5Y-w6KaW5paw6IGe
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
