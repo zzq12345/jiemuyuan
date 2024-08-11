@@ -4342,9 +4342,9 @@ https://now.kg2024.site/ott/nowtv.php?channel=332
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f110eeb7ef23edf9a6200e253da8f9c:3d30412a844dfcc7cc01fce01692c130
 #EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now体育
-https://php.shy0.eu.org/now_mpd.php?id=630
+#https://php.shy0.eu.org/now_mpd.php?id=630
 
-
+https://now.kg2024.site/ott/nowtv.php?channel=630
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
