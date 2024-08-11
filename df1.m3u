@@ -4345,6 +4345,14 @@ https://now.kg2024.site/ott/nowtv.php?channel=332
 #https://php.shy0.eu.org/now_mpd.php?id=630
 
 https://now.kg2024.site/ott/nowtv.php?channel=630
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6068d92965783581b56a4766e4fd61f5:7a4bef5083e73b07774ddd40db20c145
+#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now报价
+#https://php.shy0.eu.org/now_mpd.php?id=336
+
+https://now.kg2024.site/ott/nowtv.php?channel=336
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
