@@ -1859,7 +1859,7 @@
             },
              {
                      "name":"新加坡",
-                     "url":"http://127.0.0.1/sgtv.php",
+                     "url":"http://127.0.0.1:8081/sgtv.php",
 		     "playerType": 2,
                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
