@@ -1,39 +1,4 @@
-臨時直播,#genre#
-我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
-藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
-廉政英雄,https://www.youtube.com/watch?v=b35xJXmJ-8I
-新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
-中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
-Radio Hits Music,https://www.youtube.com/watch?v=uNd5kvrGHjk
-愛爾達綜合台,https://www.youtube.com/watch?v=Ul9z5eUphFY
-愛爾達綜合台,https://www.youtube.com/watch?v=I7yYOp7Tqdw
-愛爾達綜合台,https://www.youtube.com/watch?v=yh3ZLBl7kt0
-愛爾達綜合台,https://www.youtube.com/watch?v=iOxw4bgNxa4
-愛爾達綜合台,https://www.youtube.com/watch?v=6st08Em5RbM
-Explore Bears & Bison,https://www.youtube.com/watch?v=3szkFHfr6sA
-台灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
-豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
-Kitten Academy,https://www.youtube.com/watch?v=R7vrbiDi0Tc
-愛爾達影劇台,https://www.youtube.com/watch?v=be6L9zpVqw4
-愛爾達影劇台,https://www.youtube.com/watch?v=FdoVTSTSMho
-12K Scenic Relaxation,https://www.youtube.com/watch?v=vQP8AwAFzI8
-飢餓遊戲Hunger Games,https://www.youtube.com/watch?v=A98LJq71BZg
-華視綜藝頻道,https://www.youtube.com/watch?v=IsFtLpSuf_g
-Eight FM,https://www.youtube.com/watch?v=o1ipHJUfFTM
-民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=hbm8Uov-YOE
-民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=dZNl1pqkPuA
-大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
-愛爾達綜合台,https://www.youtube.com/watch?v=Vu_eDZF3PXU
-民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=wJ5i4x9_kEY
-中視經典戲劇,https://www.youtube.com/watch?v=jkF7cseHZ5s
-不良林,https://www.youtube.com/watch?v=uSkT4MwpCYA
-GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=u1uU2AzsD0k
-台灣啟示錄,https://www.youtube.com/watch?v=5TRvk38m59M
-GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=hcxLMIfxi0A
-龍華電視,https://www.youtube.com/watch?v=UrBH5NwAAB8
-三立華劇 SET Drama,https://www.youtube.com/watch?v=XrLUbJJ3S2M
-三立華劇 SET Drama,https://www.youtube.com/watch?v=he_Zx7smZqk
-梦歌,https://www.youtube.com/watch?v=xG-md3G1ylk
+
 新聞,#genre#
 鳳凰衛視資訊台,https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
@@ -80,6 +45,44 @@ LIVE NOW,https://www.youtube.com/watch?v=twhG7_jvA8g
 東森新聞 CH51,https://www.youtube.com/watch?v=V1p33hqPrUk
 寰宇新聞頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞 頻道,https://www.youtube.com/watch?v=w87VGpgd90U
+
+臨時直播,#genre#
+我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
+藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
+廉政英雄,https://www.youtube.com/watch?v=b35xJXmJ-8I
+新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
+中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
+Radio Hits Music,https://www.youtube.com/watch?v=uNd5kvrGHjk
+愛爾達綜合台,https://www.youtube.com/watch?v=Ul9z5eUphFY
+愛爾達綜合台,https://www.youtube.com/watch?v=I7yYOp7Tqdw
+愛爾達綜合台,https://www.youtube.com/watch?v=yh3ZLBl7kt0
+愛爾達綜合台,https://www.youtube.com/watch?v=iOxw4bgNxa4
+愛爾達綜合台,https://www.youtube.com/watch?v=6st08Em5RbM
+Explore Bears & Bison,https://www.youtube.com/watch?v=3szkFHfr6sA
+台灣地震監視,https://www.youtube.com/watch?v=Owke6Quk7T0
+豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
+Kitten Academy,https://www.youtube.com/watch?v=R7vrbiDi0Tc
+愛爾達影劇台,https://www.youtube.com/watch?v=be6L9zpVqw4
+愛爾達影劇台,https://www.youtube.com/watch?v=FdoVTSTSMho
+12K Scenic Relaxation,https://www.youtube.com/watch?v=vQP8AwAFzI8
+飢餓遊戲Hunger Games,https://www.youtube.com/watch?v=A98LJq71BZg
+華視綜藝頻道,https://www.youtube.com/watch?v=IsFtLpSuf_g
+Eight FM,https://www.youtube.com/watch?v=o1ipHJUfFTM
+民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=hbm8Uov-YOE
+民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=dZNl1pqkPuA
+大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
+愛爾達綜合台,https://www.youtube.com/watch?v=Vu_eDZF3PXU
+民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=wJ5i4x9_kEY
+中視經典戲劇,https://www.youtube.com/watch?v=jkF7cseHZ5s
+不良林,https://www.youtube.com/watch?v=uSkT4MwpCYA
+GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=u1uU2AzsD0k
+台灣啟示錄,https://www.youtube.com/watch?v=5TRvk38m59M
+GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=hcxLMIfxi0A
+龍華電視,https://www.youtube.com/watch?v=UrBH5NwAAB8
+三立華劇 SET Drama,https://www.youtube.com/watch?v=XrLUbJJ3S2M
+三立華劇 SET Drama,https://www.youtube.com/watch?v=he_Zx7smZqk
+
+
 國外新聞,#genre#
 DZRH News Television,https://www.youtube.com/watch?v=rTczxU43uSs
 DW News,https://www.youtube.com/watch?v=6HodCcEW_oQ
