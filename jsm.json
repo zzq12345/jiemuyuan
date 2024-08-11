@@ -1858,8 +1858,8 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"              
             },
              {
-                     "name":"mewatch体育",
-                     "url":"./mewatchsport.m3u",
+                     "name":"新加坡",
+                     "url":"http://127.0.0.1/sgtv.php",
 		     "playerType": 2,
                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
