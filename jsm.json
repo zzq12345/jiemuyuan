@@ -1798,7 +1798,7 @@
 				"name": "Beesport播放列表地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "   https://www.mytvsuper.com.mp/beesport_dussl.m3u ",
+                                 "url": "https://www.mytvsuper.com.mp/beesport_dussl.m3u ",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
                        },
@@ -1808,7 +1808,7 @@
 				"name": "Thetv播放列表地址",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "  https://www.mytvsuper.com.mp/Thetv_dussl.m3u",
+                                 "url": "https://www.mytvsuper.com.mp/Thetv_dussl.m3u",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
                        },
