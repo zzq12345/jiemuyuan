@@ -3415,7 +3415,323 @@
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$./lib/pushshare.101.txt$$$$$1"
         },
+       {
+
+            "key": "PushShare101",
+
+            "name": "🔞我的资源分享101",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.101.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare102",
+
+            "name": "🔞我的资源分享102",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.102.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare103",
+
+            "name": "🔞我的资源分享103",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.103.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare104",
+
+            "name": "🔞我的资源分享104",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.104.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare105",
+
+            "name": "🔞我的资源分享105",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.105.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare106",
+
+            "name": "🔞我的资源分享106",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.106.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare107",
+
+            "name": "🔞我的资源分享107",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.107.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare108",
+
+            "name": "🔞我的资源分享108",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.108.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare109",
+
+            "name": "🔞我的资源分享109",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.109.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare110",
+
+            "name": "🔞我的资源分享110",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.110.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare111",
+
+            "name": "🔞我的资源分享111",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.111.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare112",
+
+            "name": "🔞我的资源分享112",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.112.txt$$$$$1"
+
+        },
+
+        {
+
+            "key": "PushShare113",
+
+            "name": "🔞我的资源分享113",
+
+            "type": 3,
+
+            "api": "csp_PushShare",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "changeable": 1,
+
+            "filterable": 0,
+
+            "timeout": 60,
+
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.113.txt$$$$$1"
+
+        },
+
         
+
+            
+
+ 
     {
       "key": "*KK写真资源",
       "name": "*KK写真资源",
