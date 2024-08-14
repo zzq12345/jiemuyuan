@@ -21,11 +21,13 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 公視,https://m.youtube.com/watch?v=C6gYqSHLRw4&pp=ygUG5YWs6KaW
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 57東森財經新聞,https://www.youtube.com/watch?v=LbS-xQ67fos
+東森新聞51,https://m.youtube.com/watch?v=oIgbl7t0S_w&pp=ygUM5Lit5aSp5paw6IGe
 
 三立iNEWS,https://m.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,https://m.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUP5LiJ56uL5paw6IGe5Y-w
+中天新聞,https://m.youtube.com/watch?v=oIgbl7t0S_w&pp=ygUM5Lit5aSp5paw6IGe
 
-
+CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
 新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=WIhgU_mc05A
@@ -36,8 +38,8 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 寰宇新聞頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
-公視網路直播頻道,https://www.youtube.com/watch?v=C6gYqSHLRw4
-CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
+
+
 國會頻道,https://www.youtube.com/watch?v=Lj8OWF6nzcg
 國會頻道,https://www.youtube.com/watch?v=IvAXtzx5cUI
 國會頻道,https://www.youtube.com/watch?v=Af0TFVbxvAQ
