@@ -23,6 +23,96 @@
 	  
   ],
   "sites": [  
+
+	  {
+  "key": "ppp",
+            "name": "玩偶表姐",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            },
+            "ext": {
+                "主页url": "https://ppp.porn/",
+                "直接播放": "1",
+                "数组": "<figure class=\"aspect-ratio\">&&</a",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://ppp.porn/search/{wd}/",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索数组": "<figure class=\"aspect-ratio\">&&</a",
+                "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a",
+                "分类": "中國AV$china-av#日本片商$japan-producer#素人自拍$amateur#中國$china#台灣$taiwan#日本$japan#東南亞$se-asia#韓國$korea#香港$hongkon#Cosplay$cosplay#主播$streamer#主觀視角$first-person-pov#凌辱$bdsm#劇情$drama#多P$threesome#探花$91-tanhua#流出$released#無碼$uncensored#百合$lesbian#野外露出$exhibitionists#OL$office-lady#動漫$ac#古裝$costume#女僕$maid#學生$student#旗袍$cheongsam#獸耳$kemonomimi#瑜伽褲$yoga-pants#真理褲$dolfin-shorts#空姐$flight-attendant#絲襪$pantyhose#護士$nurse#過膝襪$knee-socks"
+            }
+        },
+        {
+        "key": "TaiAv",
+            "name": "姐姐玩偶",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://taiav.com/",
+                "搜索url": "https://taiav.com/search?q={wd}",
+                "数组": "uk-card-media-top\"&&</a>",
+                "图片": "src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</span>&&</div>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://taiav.com/cn/category/{cateId}?page={catePg};;z",
+                "分类": "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码"
+            }
+        },
+   {
+        "key": "SOAV",
+            "name": "妹妹玩偶",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://777080.xyz/",
+                "搜索url": "https://777080.xyz/?s={wd}",
+                "数组": "data-video-uid=&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
+                "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
+            }
+        },
+        {
+         "key": "MustJAV",
+            "name": "亲亲表姐",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://mustjav.com/",
+                "直接播放": "1",
+                "数组": "\"video-elem\"&&\"colVideoList\"",
+                "图片": "style=\"background-image: url('&&')",
+                "标题": "class=\"title text-sub-title*>&&</a>",
+                "链接": "<a target=\"_blank\" class=\"display d-block\" href=\"&&\"",
+                "分类url": "https://mustjav.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "有码$22#无码$23#自拍$24#国产$50#欧美$25#日本自拍$26#动画$38#虚拟实景$27"
+            }
+        },
 {
          "key": "MustJAV",
             "name": "亲亲表姐",
