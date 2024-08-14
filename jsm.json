@@ -1,8 +1,18 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-        
-		{
+             {
+            "key": "php2_del_ads_hmezy",
+            "name": "🤪 黑木耳(无广告)(T4_PHP)",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/del_ads_heimuer.php",
+	    "jar":"./spider.jar",
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "changeable":0
+            },
+	    {
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
@@ -66,17 +76,6 @@
 	
             "changeable": 1
             
-        },
-	{
-            "key": "php2_del_ads_hmezy",
-            "name": "🤪 黑木耳(无广告)(T4_PHP)",
-            "type": 4,
-            "api": "https://t4.doube.eu.org/del_ads_heimuer.php",
-	    "jar":"./spider.jar",
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0,
-            "changeable":0
         },
         {
             "key": "php2_hmezy",
