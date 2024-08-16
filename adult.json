@@ -30,7 +30,9 @@
           "api":"https://www.md91.cc/api.php/provide/vod/",
 	"api": "csp_XBPQ",
              "jar": "./lib/XBPQ.jar",
-          "style":{"ratio":1.7}
+          "style":[
+		  "ratio":1.7
+	  ]
         },
 	  {
   "key": "ppp",
