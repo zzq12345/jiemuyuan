@@ -1739,7 +1739,7 @@
                        },
                        {
 				"name": "thetv最新版",
-				 "ua": "okhttp/3.0",
+				 "ua": "okhttp/5.2.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/Thetv_dussl.m3u",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -1759,7 +1759,7 @@
 		
                         {
 				"name": "Beesport播放列表地址",
-				 "ua": "okhttp/3.0",
+				 "ua": "okhttp/5.2.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/beesport_dussl.m3u ",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -1769,7 +1769,7 @@
 		
                        {
 				"name": "Thetv播放列表地址",
-				 "ua": "okhttp/3.0",
+				 "ua": "okhttp/5.2.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/Thetv_dussl.m3u",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -1779,7 +1779,7 @@
 		
                        {
 				"name": "itv播放列表地址",
-				 "ua": "okhttp/3.0",
+				 "ua": "okhttp/5.2.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/itv_dussl.m3u",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -1789,7 +1789,7 @@
 		
                        {
 				"name": "4GTV播放列表地址",
-				 "ua": "okhttp/3.0",
+				 "ua": "okhttp/5.2.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/4gtv_dussl.m3u",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -1799,7 +1799,7 @@
 		
                         {
 				"name": "🇫🇷巴黎奥运会地址",
-				 "ua": "okhttp/3.0",
+				 "ua": "okhttp/5.2.0",
 	                         "playerType": 2,
                                  "url": "https://www.mytvsuper.com.mp/Aoyun_dussl.m3u",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
