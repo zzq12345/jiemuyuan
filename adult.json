@@ -23,7 +23,15 @@
 	  
   ],
   "sites": [  
-
+{
+          "key":"麻豆",
+          "name":"麻豆姐姐",
+          "type":1,
+          "api":"https://www.md91.cc/api.php/provide/vod/",
+	"api": "csp_XBPQ",
+             "jar": "./lib/XBPQ.jar",
+          "style":{"ratio":1.7}
+        },
 	  {
   "key": "ppp",
             "name": "玩偶表姐",
