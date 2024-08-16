@@ -27,9 +27,11 @@
 {
             "key": "麻豆",
             "name": "麻豆姐姐",
-            "type": 4,
+            ####"type": 4,
+	  "type": 3,
             "api": "https://www.md91.cc/api.php/provide/vod/",
-	    "jar":"./spider.jar",
+	    ####"jar":"./spider.jar",
+	"jar": "./lib/XBPQ.jar",
             "searchable": 1,
             "quickSearch":0,
             "filterable":0,
