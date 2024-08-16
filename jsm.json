@@ -1626,7 +1626,14 @@
 	                  
 			},      
 		
-                
+                {
+				"name": "小白专用mytvsuper",
+				 "ua": "okhttp/5.2.0",
+	                         "playerType": 2,
+                                 "url": "https://www.mytvsuper.us.kg/live.m3u",
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },
 
   {
 				"name": "mimipipi22",
