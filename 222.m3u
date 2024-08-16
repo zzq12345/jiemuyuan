@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://zzqwe.giize.com:12228/epg4gtv2.xml,http://epg.51zmt.top:8000/e.xml,https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epganywhere.xml,https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://weareblahs.github.io/epg/astro.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="http://zzqwe.giize.com:12228/epg4gtv2.xml,http://zzqwe.giize.com:12228/epgmysuper.xml,http://zzqwe.giize.com:12228/epganywhere.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南IP6",﻿4K测试-24M2160HEVC
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000459/1.m3u8
