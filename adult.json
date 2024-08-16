@@ -29,10 +29,12 @@
           "type":1,
           "api":"https://www.md91.cc/api.php/provide/vod/",
 	"api": "csp_XBPQ",
-             "jar": "./lib/XBPQ.jar",
-          "style":[
-		  "ratio":1.7
-	  ]
+	"style": {
+                "type": "rect",
+                "ratio": 1.6
+            },
+             "jar": "./lib/XBPQ.jar"
+          
         },
 	  {
   "key": "ppp",
