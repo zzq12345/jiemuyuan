@@ -1671,14 +1671,7 @@
 	                         "playerType": 2,
                                  "url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tst"
 			},
-			{
-			         "name": "马来西亚",
-				 "ua": "okhttp/3.0",
-	                         "playerType": 2,
-	                         ###"epg": "https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml",
-                               "epg":"https://gohhh1234.github.io/iptv/EPG.xml",
-				"url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tv2"
-			},
+			
 			
                         {
 				"name": "jedi-sambora",
@@ -1878,6 +1871,16 @@
 	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
            },
+			
+			{
+			         "name": "马来西亚失效",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+	                         ###"epg": "https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml",
+                               "epg":"https://gohhh1234.github.io/iptv/EPG.xml",
+				"url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tv2"
+			},
+			
 			{
 				"name": "livetv",
 				"type": 0,
