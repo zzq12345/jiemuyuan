@@ -1,8 +1,11 @@
 var rule = {
   title: '爱欧乐影院',
   host: 'https://www.olehdtv.com/index.php/',
-  url: '/vodshow/fyclass--------fypage---.html',
-  searchUrl: '/vodsearch/page/fypage/wd/*.html',
+  url: '/vod/show/fyclass--------fypage---.html',
+
+
+  
+  searchUrl: '/vod/search/page/fypage/wd/*.html',
   class_parse: '.top_nav li;a&&Text;a&&href;.*/(.*?).html',
   searchable: 2,
   quickSearch: 0,
