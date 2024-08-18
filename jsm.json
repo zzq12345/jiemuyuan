@@ -1617,6 +1617,64 @@
 		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
+		
+		{
+            "key": "网盘集合",
+            "name": "真心网盘集合|4K",
+            "type": 3,
+            "api": "csp_网盘集合",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "jar": "./真心.jar",
+            "ext": {
+                "commonConfig": "./js/tokenm.json",
+                "share": "./js/真心.json"
+            }
+        },
+        {
+            "key": "真心115网盘",
+            "name": "真心115网盘",
+            "type": 3,
+            "api": "csp_网盘集合",
+            "jar": "./真心.jar",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "commonConfig": "./js/tokenm.json",
+                "share": "./js/115网盘.json"
+            }
+        },
+        {
+            "key": "真心UC网盘",
+            "name": "真心UC网盘",
+            "type": 3,
+            "api": "csp_网盘集合",
+            "jar": "./真心.jar",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "commonConfig": "./js/tokenm.json",
+                "share": "./js/UC网盘.json"
+            }
+        },
+        {
+            "key": "真心夸克网盘",
+            "name": "真心夸克网盘",
+            "type": 3,
+            "api": "csp_网盘集合",
+            "jar": "./真心.jar",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "commonConfig": "./js/tokenm.json",
+                "share": "./js/夸克网盘.json"
+            }
+        },
+		
 		{
 			"key":"MV_vod",
 			"name":"电视┃MTV",
