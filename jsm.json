@@ -108,6 +108,20 @@
                 "播放数组": "<div class=\"scroll-content\">&&</div>"
             }
         },
+
+	
+     
+        {
+            "key": "07104K-剧院",
+            "name": "紫薇｜4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4K剧院.js"
+        },
         {
             "key": "php2_hmezy",
             "name": "🤪 黑木耳(T4_PHP)",
