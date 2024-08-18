@@ -59,9 +59,17 @@
         },
 
 	
-	  
-
-        
+	  {
+            "key": "JS",
+            "name": "甄嬛｜4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4KAV.js"
+        },   
 {
             "api": "./py/吃瓜大队.py",
             "filterable": 1,
