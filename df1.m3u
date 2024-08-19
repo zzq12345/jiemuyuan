@@ -4195,32 +4195,8 @@ http://127.0.0.1:8081/france24arabic.php
 http://127.0.0.1:8081/cnbcarabic.php
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:749d60e3e0c7bc24aeaa21c29c2ec854
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
-KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:749d60e3e0c7bc24aeaa21c29c2ec854
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
 
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=451d2f5521f03118ab0b08fff91b7bce:c1997f65812cdf0c0651991c6c5a8c5b
-#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
-https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
-
-KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=451d2f5521f03118ab0b08fff91b7bce:c1997f65812cdf0c0651991c6c5a8c5b
-#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
-https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
 
 
 
@@ -4228,15 +4204,10 @@ https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/mas
 
 #EXTINF:-1 group-title="香港" tvg-id="無綫新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb1.php?id=NEWS
-#EXTINF:-1 group-title="香港" tvg-id="無綫財經" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",無線財經
-http://127.0.0.1:8081/tvb1.php?id=FINA 
 
 
 #EXTINF:-1 group-title="香港" tvg-id="無綫新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb2.php?id=2
-#EXTINF:-1 group-title="香港" tvg-id="無綫財經"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png", 無綫財經
-http://127.0.0.1:8081/tvb2.php?id=3
-
 
 
 
@@ -4244,30 +4215,9 @@ http://127.0.0.1:8081/tvb2.php?id=3
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bba574b22adb328fad3e0496157d4568:749d60e3e0c7bc24aeaa21c29c2ec854
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
 
-#EXTINF:-1 tvg-id="香港電台32" tvg-name="香港電台32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台32
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=451d2f5521f03118ab0b08fff91b7bce:c1997f65812cdf0c0651991c6c5a8c5b
-https://rthktv32-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch32)/master.mpd
 
-
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apip01.rthk.hk/drm/token.php?cid=tv32&uid=MTEzLjIxLjIxMy41Ml9Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI2LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzEyNi4wLjAuMA==
-https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
-
-
-#EXTINF:-1 tvg-id="香港電台31" tvg-name="香港電台31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="香港",香港電台31
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rthk.live.ott.irdeto.com/licenseServer/widevine/v1/rthk/license?contentId=RTHK_CH31_Pull_DASH_WV_PR
-https://rthktv31-vos-live.akamaized.net/Content/DASH/Live/channel(rthk_ch31)/master.mpd
 
 
 
@@ -4283,100 +4233,13 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPla
 
 
 
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="香港",TVB Jade
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
-https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key==c236ef44730935c5a25b470be0b8231d:35cc1579b2b3944baf79db7e339d2161
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now直播 
-https://php.shy0.eu.org/now_mpd.php?id=331
 
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b91265093169312da08607e9c5628445:0fd51a305a44323b2ce1371a3a6fd1aa
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now新闻
-https://php.shy0.eu.org/now_mpd.php?id=332
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f110eeb7ef23edf9a6200e253da8f9c:3d30412a844dfcc7cc01fce01692c130
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now体育
-https://php.shy0.eu.org/now_mpd.php?id=630
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c236ef44730935c5a25b470be0b8231d:35cc1579b2b3944baf79db7e339d2161
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now直播 
-
-https://now.kg2024.site/ott/nowtv.php?channel=331
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c236ef44730935c5a25b470be0b8231d:35cc1579b2b3944baf79db7e339d2161
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now直播 
-
-https://now.kg2024.site/ott/nowtv.php?channel=331
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b91265093169312da08607e9c5628445:0fd51a305a44323b2ce1371a3a6fd1aa
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now新闻
-
-https://now.kg2024.site/ott/nowtv.php?channel=332
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b91265093169312da08607e9c5628445:0fd51a305a44323b2ce1371a3a6fd1aa
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now新闻
-
-https://now.kg2024.site/ott/nowtv.php?channel=332
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f110eeb7ef23edf9a6200e253da8f9c:3d30412a844dfcc7cc01fce01692c130
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now体育
-
-
-https://now.kg2024.site/ott/nowtv.php?channel=630
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6068d92965783581b56a4766e4fd61f5:7a4bef5083e73b07774ddd40db20c145
-#EXTINF:-1 tvg-id="" group-title="香港" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", now报价
-
-
-https://now.kg2024.site/ott/nowtv.php?channel=336
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫视
-http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-id="蓮花衛視" tvg-name="蓮花衛視" tvg-logo="https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E8%93%AE%E8%8A%B1%E8%A1%9B%E8%A6%96#/media/File:Lotus_Macau.png" group-title="澳门",蓮花衛視
 http://127.0.0.1:8081/lotustv1.php?id=lotustv
-#EXTINF:-1 tvg-id="蓮花衛視" tvg-name="蓮花衛視" tvg-logo="https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E8%93%AE%E8%8A%B1%E8%A1%9B%E8%A6%96#/media/File:Lotus_Macau.png" group-title="澳门",蓮花衛視
-http://live.cooltv.top/tv/lotus.php
-
-
-#EXTINF:-1 tvg-id="澳亞衛視" tvg-name="澳亞衛視" tvg-logo="" group-title="澳门",澳亞衛視
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="" tvg-logo="" group-title="澳门",澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
@@ -4393,15 +4256,6 @@ https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳門CCTV1
 https://live5.tdm.com.mo/tv/cgtn71/playlist.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="MOMO綜合台" tvg-name="MOMO綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="臺灣",MOMO綜合台
-http://127.0.0.1:8081/myvideoapp.php?id=04
 #EXTINF:-1 tvg-id=" " tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="臺灣",民視
 http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv002
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="臺灣",民視台灣台
@@ -4416,13 +4270,6 @@ http://127.0.0.1:8081/minshi.php?id=litv-ftv13
 http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv004
 #EXTINF:-1 tvg-id="litv-ftv09" tvg-name="" tvg-logo="" group-title="臺灣",民視影劇台
 http://127.0.0.1:8081/minshi.php?id=litv-ftv09
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="litv-ftv16" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="臺灣",好消息电视1
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
