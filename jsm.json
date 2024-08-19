@@ -1740,7 +1740,28 @@
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
                         },
+{
+			"name": "小米境外",
+		  "url":"./xiaomi.m3u",
 
+		 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				
+	  ###"epg": "https://epg.iill.top/epg",
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ },	
+			
+		{
+			"name": "tcl境外",
+		  "url":"./tcl.m3u",
+
+		 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				
+	  ###"epg": "https://epg.iill.top/epg",
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ },	
+				
+			
+			
   {
 				"name": "mimipipi22",
 				 "ua": "okhttp/3.0",
