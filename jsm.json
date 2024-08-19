@@ -1874,7 +1874,7 @@
 				"name": "4GTV播放列表地址",
 				 "ua": "okhttp/5.2.0",
 	                         "playerType": 2,
-                                 "url": "http://cn-hk-bgp-4.ofalias.net:22027/4gtv.m3u",
+                                 "url": "https://www.mytvsuper.com.mp/4gtv_dussl.m3u",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
                         },
