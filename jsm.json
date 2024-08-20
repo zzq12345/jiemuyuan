@@ -6,7 +6,7 @@
             "key": "del_ads_hmezy",
             "name": "🤪 黑木耳(无广告唐三)",
             "type": 4,
-"api": "https://tang.hz.cz/api/user?token=",
+"api": "https://tang.hz.cz/api/user?token=a18a0965",
 	"jar":"./spider.jar",
             "searchable": 1,
             "quickSearch":0,
