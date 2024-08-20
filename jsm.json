@@ -1868,7 +1868,16 @@
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
                         },
-{
+
+			{
+				"name": "星世界",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url": "./星世界.txt",
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       },
+                       {
 				"name": "新世界",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
