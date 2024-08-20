@@ -33,7 +33,7 @@
 	    "jar": "./spider.jar",
        ########"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=https://tang.hz.cz/api/user?token=",	
            
-		   "playUrl": "json:https://tang.hz.cz/api/user?token=",
+	 "playUrl": "https://tang.hz.cz/api/user?token=&url=",
 		    
 		    "categories": [
  
