@@ -222,7 +222,34 @@
 	  }
 	 
 	   },
-
+     {
+      "key": "自营666",
+      "name": "✨蓝光┃4K",
+      "playerType": 2,
+      "type": 3,
+      "api": "csp_AppYsV2",
+	"jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://122.228.85.203:1000/api.php/app/"
+    },
+    {
+      "key": "wanou",
+      "name": "✨云盘┃4K",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
 {
             "key": "xp_nuiyue",
             "name": "🤪 纽约影视(T3_csp_XPath)",
