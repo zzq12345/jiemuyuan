@@ -31,8 +31,11 @@
           #####"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod",
 			"api": "https://json.heimuer.xyz/api.php/provide/vod",
 	    "jar": "./spider.jar",
-       ########"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",	
-            "categories": [
+       ########"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=https://tang.hz.cz/api/user?token=",	
+           
+		   "playUrl": "json:https://tang.hz.cz/api/user?token=",
+		    
+		    "categories": [
  
 		    "国产动漫",
 		    "欧美动漫",
