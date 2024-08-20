@@ -57,7 +57,17 @@
                 "分类url": "https://ptt.red/p/{cateId}?page={catePg}"
             }
         },
-
+{
+            "key": "农夫与少妇",
+            "name": "农夫与少妇",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/农夫与少妇.json"
+        },
 	{
             "key": "✨R撸巴✨",
             "name": "✨R撸吧✨",
