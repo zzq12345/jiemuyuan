@@ -115,6 +115,25 @@
             "filterable":0,
             "changeable":0
         },
+
+        {
+	"key": "\u9ed1\u6728\u8033", 
+	"name": "\u9ed1\u6728\u8033", 
+	"type": 1,
+	"api": "https://json.heimuer.xyz/api.php/provide/vod/", 
+	"searchable": 1, 
+	"changeable": 1
+        }, 
+	{
+	"key": "\u6d77\u5916\u5427", 
+	"name": "\u6d77\u5916\u5427",
+	"type": 1,
+	"api": "https://hw8.live/api.php/provide/vod/",
+	"searchable": 0,
+	"changeable": 1
+	},
+
+		
 		{
             "key": "drpy_js",
             "name": "欧乐影院js",
