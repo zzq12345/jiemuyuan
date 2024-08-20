@@ -1,6 +1,18 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
+
+{
+            "key": "del_ads_hmezy",
+            "name": "🤪 黑木耳(无广告唐三)",
+            "type": 4,
+"api": "https://tang.hz.cz/api/user?token=",
+	"jar":"./spider.jar",
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "changeable":0
+            },	
              {
             "key": "php2_del_ads_hmezy",
             "name": "🤪 黑木耳(无广告)(T4_PHP)",
