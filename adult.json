@@ -95,7 +95,36 @@
       "ext": {"数组": "<a&&</a>","标题": "<p>&&</p>","图片": "<img> src=\"&&\"","链接": "href=\"&&\"","分类url": "https://www.lsshaofu.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","分类": "国产精品$1#日韩精选$2#国产传媒$3#国产自拍$27#网红网爆$5"}
     },
 
-
+{
+    "key": "csp_Doll",
+    "name": "Doll",
+    "type": 3,
+    "api": "csp_Doll",
+    "jar": "https://t4.doube.eu.org/spider.jar;md5;3f392906996ac13aaeb8c91956f95f7fl",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "csp_Eighteen",
+    "name": "Eighteen",
+    "type": 3,
+    "api": "csp_Eighteen",
+    "jar": "https://t4.doube.eu.org/spider.jar;md5;3f392906996ac13aaeb8c91956f95f7fl",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "csp_Miss",
+    "name": "Miss",
+    "type": 3,
+    "api": "csp_Miss",
+    "jar": "https://t4.doube.eu.org/spider.jar;md5;3f392906996ac13aaeb8c91956f95f7fl",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
 
 
 	  
