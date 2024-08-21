@@ -115,7 +115,20 @@
             "filterable":0,
             "changeable":0
         },
-
+{
+        "key":"csp_XBPQ_hainai",
+          "jar": "./lib/XBPQ.jar",
+           "name":"海纳TV",
+             "type":3,
+             "api":"csp_XBPQ",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1,
+           "ext":{
+      "分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$59#解说$64"
+}
+},
         {
 	"key": "\u9ed1\u6728\u8033", 
 	"name": "\u9ed1\u6728\u8033", 
