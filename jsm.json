@@ -129,7 +129,20 @@
     "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$59#解说$64"
 }
 },
-        {
+         {
+      "key": "卧龙",
+      "name": "🦄卧龙┃资源",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "api": "http://wolongzyw.com/api.php/provide/vod/?ac=list",
+      "jar": "./spider.jar",
+      "playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url="
+    },
+		
+		
+		{
 	"key": "\u9ed1\u6728\u8033", 
 	"name": "\u9ed1\u6728\u8033", 
 	"type": 1,
