@@ -28,6 +28,7 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 三立新聞海外,https://m.youtube.com/watch?v=FoBfXvlOR6I
 三立iNEWS,https://m.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,https://m.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUP5LiJ56uL5paw6IGe5Y-w
+三立新聞台灣版,https://m.youtube.com/watch?v=oZdzzvxTfUY
 中天新聞,https://m.youtube.com/watch?v=oIgbl7t0S_w&pp=ygUM5Lit5aSp5paw6IGe
 
 CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
