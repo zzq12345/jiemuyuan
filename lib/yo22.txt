@@ -37,7 +37,8 @@ CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 國會頻道,https://www.youtube.com/watch?v=4HysYHJ6GkY
 三立LIVE新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVB56,https://m.youtube.com/watch?v=2mCSYvcfhtc
+TVB新聞海外,https://m.youtube.com/watch?v=2mCSYvcfhtc
+TVBS海外,https://m.youtube.com/watch?v=hP6_jfCFxyQ
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 寰宇新聞頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
 
