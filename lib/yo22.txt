@@ -1,4 +1,3 @@
-
 新聞,#genre#
 鳳凰衛視資訊台,https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
@@ -11,7 +10,6 @@ cctv4,https://www.youtube.com/watch?v=twhG7_jvA8g
 華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
-
 大愛電視台1台台灣,https://m.youtube.com/watch?v=oV_i3Hsl_zg&pp=ygUP5aSn5oSb6Zu76KaW5Y-w
 大愛電視台2台台灣,https://m.youtube.com/watch?v=OKvWtVoDR8I&pp=ygUP5aSn5oSb6Zu76KaW5Y-w
 大愛電視台1台全球,https://m.youtube.com/watch?v=MIqUplvSRWA&pp=ygUP5aSn5oSb6Zu76KaW5Y-w
@@ -28,11 +26,8 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 三立新聞海外,https://m.youtube.com/watch?v=FoBfXvlOR6I
 三立iNEWS,https://m.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,https://m.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUP5LiJ56uL5paw6IGe5Y-w
-
-
 三立新聞台灣版,https://m.youtube.com/watch?v=oZdzzvxTfUY
 中天新聞,https://m.youtube.com/watch?v=oIgbl7t0S_w&pp=ygUM5Lit5aSp5paw6IGe
-
 CTIASIA 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -46,8 +41,6 @@ TVB新聞海外,https://m.youtube.com/watch?v=2mCSYvcfhtc
 TVBS海外,https://m.youtube.com/watch?v=hP6_jfCFxyQ
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 寰宇新聞頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
-
-
 國會頻道,https://www.youtube.com/watch?v=Lj8OWF6nzcg
 國會頻道,https://www.youtube.com/watch?v=IvAXtzx5cUI
 國會頻道,https://www.youtube.com/watch?v=Af0TFVbxvAQ
@@ -56,7 +49,7 @@ TVBS海外,https://m.youtube.com/watch?v=hP6_jfCFxyQ
 國會頻道,https://www.youtube.com/watch?v=tDg3bJFYLzI
 寰宇新聞頻道,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇財經新聞,https://m.youtube.com/watch?v=WTRQiVWK1jY
-LIVE NOW,https://www.youtube.com/watch?v=twhG7_jvA8g
+CCTV-4國際,https://www.youtube.com/watch?v=twhG7_jvA8g
 東森新聞 CH51,https://www.youtube.com/watch?v=V1p33hqPrUk
 寰宇新聞頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞 頻道,https://www.youtube.com/watch?v=w87VGpgd90U
