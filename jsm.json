@@ -1927,7 +1927,8 @@
 				"name": "国内酒店",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-                                 "url": "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+				"url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+                                 ###"url": "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
 				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
