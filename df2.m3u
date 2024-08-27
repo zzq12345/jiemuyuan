@@ -4919,7 +4919,7 @@ http://192.168.10.250/litvapp.php?id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_pc.png" group-title="litv",民視台灣台
 http://192.168.10.250/litvapp.php?id=4gtv-4gtv001
 #EXTINF:-1 tvg-id="4gtv-4gtv155" tvg-name="民視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_pc.png" group-title="litv",民視
-http://192.168.10.250/litvapp.php?id=4gtv-4gtv155
+http://192.168.10.250/litvapp.php?id=4gtv-4gtv002
 
 #EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",台視
 http://192.168.10.250/litvapp.php?id=4gtv-4gtv066
