@@ -2004,7 +2004,7 @@
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://tv.iill.top/m3u/Sport",
-	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
                  },
 			
 			{
