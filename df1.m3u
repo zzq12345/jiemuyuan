@@ -4943,7 +4943,7 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv004
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊台
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn17
 
-#EXTINF:-1 tvg-id="4gtv-4gtv109" tvg-name="中天亞洲台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv109_pc.png" group-title="litv",中天亞洲台不能
+#EXTINF:-1 tvg-id="4gtv-4gtv109" tvg-name="中天亞洲台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv109_pc.png" group-title="litv",中天亞洲台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv109
 
 #EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龍華戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_pc.png" group-title="litv",龍華戲劇台
