@@ -1850,10 +1850,7 @@
 {
 			"name": "小米境外",
 		  "url":"./xiaomi.m3u",
-
 		 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				
-	  ###"epg": "https://epg.iill.top/epg",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
  },	
 			
@@ -1862,14 +1859,12 @@
 		  "url":"./tcl.m3u",
 
 		 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				
-	  ###"epg": "https://epg.iill.top/epg",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+		 "logo": "https://epg.112114.xyz/logo/{name}.png"
  },	
 				
 			
 			
-  {
+                             {
 				"name": "mimipipi22",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
@@ -1879,8 +1874,7 @@
 				"name": "jedi-sambora1",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
-	  ###"epg": "https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml",
-                                 "url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tv3"
+	                          "url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tv3"
 			},
 			
 {
@@ -1889,8 +1883,6 @@
 	                         "playerType": 2,
                                  "url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tst"
 			},
-			
-			
                         {
 				"name": "jedi-sambora",
 				 "ua": "okhttp/3.0",
@@ -1904,32 +1896,25 @@
 				"name": "yang1989",
 				 "ua": "okhttp/4.12.0",
 	                         "playerType": 2,
-                                 #####"url": "https://yang-1989.eu.org/m3u/Gather",
-
+                        
 	"url":"https://tv.iill.top/m3u/Gather",
 	 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				
-	  ###"epg": "https://epg.iill.top/epg",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
 
 		{
-			"name": "yang-1989 sport",
+		"name": "yang-1989 sport",
 		  "url":"https://tv.iill.top/m3u/Sport",
-
 		 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				
-	  ###"epg": "https://epg.iill.top/epg",
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
- },	
+	          "logo": "https://epg.112114.xyz/logo/{name}.png"
+                 },	
 			{
 
 				"name": "国内酒店",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
 				"url": "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-                                 ###"url": "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},			
@@ -2019,8 +2004,8 @@
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "https://tv.iill.top/m3u/Sport",
-	  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                 },
 			
 			{
 			         "name": "马来西亚失效",
