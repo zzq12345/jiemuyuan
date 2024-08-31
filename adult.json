@@ -276,36 +276,6 @@
   }
 },
 
-	
-            
-
-
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.309
-      }
-    },
-{
-  "key": "Zuise",
-            "name": "最色",
-            "type": 3,
-            "api": "csp_Zuise",
-            "jar": "./pg.jar",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "null$$$null$$$1$$$socks5://127.0.0.1:10073"
-        },
-    
-            
         
 	  {
 		  "key":"Eighteen",
