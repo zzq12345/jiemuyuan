@@ -32,7 +32,7 @@
             "changeable": 0
 	},
 {
-            "key": "py_emby1",
+            "key": "py_emby",
             "name": "🍏EMBY公益服•py1",
             "type": 3,
             "api": "./py/py_emby.py",
@@ -50,7 +50,7 @@
         },
             
 {
-            "key": "py_emby2",
+            "key": "py_emby",
             "name": "🍏EMBY公益服•py2",
             "type": 3,
             "api": "./py/py_emby.py",
@@ -68,7 +68,7 @@
         },
 
 {
-            "key": "py_emby3",
+            "key": "py_emby",
             "name": "🍏EMBY公益服•py3",
             "type": 3,
             "api": "./py/py_emby.py",
@@ -86,7 +86,7 @@
         },
 
 {
-            "key": "py_emby4",
+            "key": "py_emby",
             "name": "🍏EMBY公益服•py4",
             "type": 3,
             "api": "./py/py_emby.py",
