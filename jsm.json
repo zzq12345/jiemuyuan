@@ -31,7 +31,23 @@
             "filterable": 1,
             "changeable": 0
 	},
-
+{
+            "key": "py_emby",
+            "name": "🍏EMBY公益服•py",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://emby.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
             
              {
             "key": "php2_del_ads_hmezy",
