@@ -32,8 +32,8 @@
             "changeable": 0
 	},
 {
-            "key": "py_emby",
-            "name": "🍏EMBY公益服•py",
+            "key": "py_emby1",
+            "name": "🍏EMBY公益服•py1",
             "type": 3,
             "api": "./py/py_emby.py",
             "searchable": 1,
@@ -49,6 +49,60 @@
             "changeable": 0
         },
             
+{
+            "key": "py_emby2",
+            "name": "🍏EMBY公益服•py2",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://jellyfin.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
+
+{
+            "key": "py_emby3",
+            "name": "🍏EMBY公益服•py3",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://movie.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
+
+{
+            "key": "py_emby4",
+            "name": "🍏EMBY公益服•py4",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://servers.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
+
              {
             "key": "php2_del_ads_hmezy",
             "name": "🤪 黑木耳(无广告)(T4_PHP)",
