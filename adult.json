@@ -162,15 +162,7 @@
 },
 
 
-{
-            "key": "php_madou",
-            "name": "麻豆",
-            "type": 4,
-            "api": "https://demobe.serv00.net/madou.php",
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0
-        },
+
 	 {
             "key": "PTT",
             "name": "ptt",
@@ -222,44 +214,8 @@
                 "ratio": 1.485
             }
         },
-{
-            "key": "222cuo",
-            "name": "🔞222cuo",
-            "type": 3,
-            "api": "csp_XBPQ",
-	    "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "主页url": "http://224cuo.com/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
-                "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
-            }
-        },
-{
-            "key": "555电影",
-            "name": "💕555电影",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "主页url": "https://5srn5.com/",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "播放链接": "href=\"&&\"",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "线路数组": "<div class=\"module-tab-item&&</div>",
-                "线路标题": "<span>&&</small>",
-                "分类url": "https://c5ine.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
-                "分类": "福利$124"
-            }
-        },
+
+
 	  {
 "key":"18insta",
 "name":"💗┃💋18insta┃💠",
@@ -279,19 +235,7 @@
 "分类":"中文$offset=0#中文2$offset=60#最新$autoTagNew"
 }
 },
-{
-            "key": "pronlulu",
-            "name": "🔞pronlulu(T)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "直接播放": "1",
-                "嗅探词": ".m3u8#.mp4",
-                "分类url": "https://www.pornlulu.com/cat/{cateId}?page={catePg}",
-                "分类": "國產自拍$263#中文字幕$48#日本有碼$269國產情色460#日本無碼$270#國產精品$249強姦亂倫$13#歐美精品$260#制服誘惑$92#蘿莉少女$103#成人動漫$274#美女主播$264#亞洲有碼$105#國產主播$268#國產視頻$304#巨乳美乳$93#歐美極品$266#自拍偷拍$28#騎兵有碼$261#無碼專區$254#抖陰視頻$25"
-            }
-        },
+
 
 	  
     {
