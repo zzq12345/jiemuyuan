@@ -1901,7 +1901,7 @@
 		
                 {
 				"name": "小白专用mytvsuper",
-				 "ua": "okhttp/5.2.0",
+				 ###"ua": "okhttp/5.2.0",
 	                         "playerType": 2,
                                  "url": "http://127.0.0.1:8081/mytvsuper.php",
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
