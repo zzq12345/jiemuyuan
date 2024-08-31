@@ -84,7 +84,22 @@
     },
 
   
-
+{
+            "key": "emby18",
+            "name": "EMBY18",
+            "type": 3,
+            "api": "./emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "server": "https://cherrytv.one:443",
+                "username": "ghost",
+                "password": "ghost",
+                "thread": 0
+            }
+        },
 
 
 
