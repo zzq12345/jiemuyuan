@@ -31,6 +31,23 @@
             "filterable": 1,
             "changeable": 0
 	},
+
+		{
+            "key": "py_emby5",
+            "name": "🍏EMBY公益服•py5",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "http://kr.emby.cyou:8096",
+                "username": "feverss",
+                "password": "",
+                "thread": 0
+            },
+            "changeable": 0
+        },
 {
             "key": "py_emby1",
             "name": "🍏EMBY公益服•py1",
