@@ -20,105 +20,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "T4-安博",
-            "name": "安博唐三(T4)",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/ub18?token=a18a0965",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
 	},
 
-		{
-            "key": "py_emby5",
-            "name": "🍏EMBY公益服•py5",
-            "type": 3,
-            "api": "./py/py_emby.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "https://1.4545.cf:4002",
-                "username": "",
-                "password": "",
-                "thread": 0
-            },
-            "changeable": 0
-        },
-{
-            "key": "py_emby1",
-            "name": "🍏EMBY公益服•py1",
-            "type": 3,
-            "api": "./py/py_emby1.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
-            "ext": {
-                "server": "https://emby.xeton.dev:443",
-                "username": "普拉斯影业",
-                "password": "plusisbest",
-                "thread": 0
-            },
-            "changeable": 0
-        },
-            
-{
-            "key": "py_emby2",
-            "name": "🍏EMBY公益服•py2",
-            "type": 3,
-            "api": "./py/py_emby1.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
-            "ext": {
-                "server": "https://jellyfin.xeton.dev:443",
-                "username": "普拉斯影业",
-                "password": "plusisbest",
-                "thread": 0
-            },
-            "changeable": 0
-        },
-
-{
-            "key": "py_emby3",
-            "name": "🍏EMBY公益服•py3",
-            "type": 3,
-            "api": "./py/py_emby1.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
-            "ext": {
-                "server": "https://movie.xeton.dev:443",
-                "username": "普拉斯影业",
-                "password": "plusisbest",
-                "thread": 0
-            },
-            "changeable": 0
-        },
-
-{
-            "key": "py_emby4",
-            "name": "🍏EMBY公益服•py4",
-            "type": 3,
-            "api": "./py/py_emby1.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
-            "ext": {
-                "server": "https://servers.xeton.dev:443",
-                "username": "普拉斯影业",
-                "password": "plusisbest",
-                "thread": 0
-            },
-            "changeable": 0
-        },
 
              {
             "key": "php2_del_ads_hmezy",
@@ -730,7 +633,77 @@
         },	
 
 
+{
+            "key": "py_emby1",
+            "name": "🍏EMBY公益服•py1",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://emby.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
+            
+{
+            "key": "py_emby2",
+            "name": "🍏EMBY公益服•py2",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://jellyfin.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
 
+{
+            "key": "py_emby3",
+            "name": "🍏EMBY公益服•py3",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://movie.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
+
+{
+            "key": "py_emby4",
+            "name": "🍏EMBY公益服•py4",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	######https://github.com/craftchai/emby-free-server?tab=readme-ov-file
+            "ext": {
+                "server": "https://servers.xeton.dev:443",
+                "username": "普拉斯影业",
+                "password": "plusisbest",
+                "thread": 0
+            },
+            "changeable": 0
+        },
 
 
 		
