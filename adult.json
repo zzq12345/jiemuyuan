@@ -133,17 +133,7 @@
                 "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
             }
         },
-	  {
-            "key": "JS",
-            "name": "甄嬛｜4K影院",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/4KAV.js"
-        },   
+	
 {
             "api": "./py/吃瓜大队.py",
             "filterable": 1,
@@ -157,33 +147,9 @@
             },
             "type": 3
         },
+	  
+            
 	  {
-            "key": "KanAV",
-            "name": "🔞KanAV",
-            "type": 3,
-            "api": "csp_XBPQ",
-	    "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "主页url": "https://kanav.info/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"video-item\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#自拍泄密$30#探花约炮$31#主播录制$32#动漫番剧$20#里番$25#泡面番$26#Motion Anime$27#3D动画$28#同人作品$29"
-            }
-        },
-	  { 
-		  "key":"afasu", 
-		  "name":"小湿妹资源", 
-		  "type":0,
-		  "api":"https://www.afasu.com/api/xml.php",
-		  "searchable":1,
-		  "quickSearch":1,
-		  "filterable":1
-	  },
 { 
 	"key":"黄AV资源", 
 	"name":"黄AV资源", 
@@ -196,22 +162,6 @@
 },
 
 
-{
-	"key":"SeHuaTang",
-	"name":"色花堂|磁力",
-	"type":3,
-	"api":"csp_SeHuaTang",
-	"searchable":1,
-	"quickSearch":1, 
-	"changeable":1, 
-	"filterable":0, 
-	"timeout":60, 
-	"ext":"./lib/tokenm.json$$$null$$$noproxy",
-                        "style": {
-                                "type": "list",
-                                "ratio": 1.1
-                        }
-    },
 {
             "key": "php_madou",
             "name": "麻豆",
