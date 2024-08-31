@@ -41,8 +41,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "server": "https://sg.sgp-01.emby.cyou:8096",
-                "username": "feverss",
+                "server": "https://1.4545.cf:4002",
+                "username": "",
                 "password": "",
                 "thread": 0
             },
