@@ -1898,7 +1898,13 @@
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},      
-		
+		{
+                     "name":"临时测试",
+                     "url":"./DS_IP.txt",
+		     "playerType": 2,
+                      "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },
                 {
 				"name": "小白专用mytvsuper",
 				 ###"ua": "okhttp/5.2.0",
