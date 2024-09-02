@@ -20,21 +20,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-	},
-
-
-             {
-            "key": "php2_del_ads_hmezy",
-            "name": "🤪 黑木耳(无广告)(T4_PHP)",
-            "type": 4,
-            "api": "https://t4.doube.eu.org/del_ads_heimuer.php",
-	    "jar":"./spider.jar",
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0,
-            "changeable":0
-            },
-	    {
+	},     
+	{
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
@@ -49,10 +36,8 @@
  
 		    "国产动漫",
 		    "欧美动漫",
-                "日本动漫",
-                
-                "港台动漫",
-                
+                    "日本动漫",
+                    "港台动漫",
 		    "国产剧",
                     "欧美剧",
 		    "港剧",
@@ -105,7 +90,7 @@
             "filterable":0,
             "changeable":0
         },
-{
+        {
         "key":"csp_XBPQ_hainai",
           "jar": "./lib/XBPQ.jar",
            "name":"海纳TV",
@@ -117,8 +102,8 @@
            "ext":{
       "分类url": "https://www.hainatv.net/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$59#解说$64"
-}
-},
+               }
+        },
          {
       "key": "卧龙",
       "name": "🦄卧龙┃资源",
