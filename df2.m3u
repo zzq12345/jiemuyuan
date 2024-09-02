@@ -3402,10 +3402,16 @@ http://192.168.10.250/cgtnweb.php?id=cgtnr
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",上海eye
 
 http://192.168.10.250/shanghaieye1.php
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="youtube中文新闻",CCTV-1
+http://192.168.10.250/ctvnews.php?id=cctv1&q=lg
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="youtube中文新闻",CCTV-2
+http://192.168.10.250/ctvnews.php?id=cctv2&q=lg
 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube中文新闻",CCTV-13HD
 
-http://192.168.10.250/newsweb.php
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
+http://192.168.10.250/ctvnews.php?id=cctv4&q=lg
+
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://192.168.10.250/douyin.php?id=69416429589
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
@@ -3414,9 +3420,12 @@ http://192.168.10.250/douyin.php?id=208823316033
 
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
-http://192.168.10.250/cctv4.php
 
+
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube中文新闻",CCTV-13HD
+
+http://192.168.10.250/ctvnews.php?id=cctv13&q=lg
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
 http://192.168.10.250/diyicaijing.php
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
@@ -3530,12 +3539,12 @@ http://192.168.10.250/youtube.php?v=C6gYqSHLRw4
 http://192.168.10.250/gongshi13.php
 #EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube中文新闻",公視台語台
 http://192.168.10.250/gongshi14.php
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
+http://192.168.10.250/gongshi151.php
 
 
 #EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 http://192.168.10.250/gongshi15.php
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
-http://192.168.10.250/youtube.php?v=O7pL-T-dm4g
 
 
 
@@ -4919,7 +4928,7 @@ http://192.168.10.250/litvapp.php?id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_pc.png" group-title="litv",民視台灣台
 http://192.168.10.250/litvapp.php?id=4gtv-4gtv001
 #EXTINF:-1 tvg-id="4gtv-4gtv155" tvg-name="民視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_pc.png" group-title="litv",民視
-http://192.168.10.250/litvapp.php?id=4gtv-4gtv002
+http://192.168.10.250/litvapp1.php?id=4gtv-4gtv002
 
 #EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",台視
 http://192.168.10.250/litvapp.php?id=4gtv-4gtv066
@@ -4943,8 +4952,8 @@ http://192.168.10.250/litvapp.php?id=4gtv-4gtv004
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊台
 http://192.168.10.250/litvapp.php?id=litv-longturn17
 
-#EXTINF:-1 tvg-id="4gtv-4gtv109" tvg-name="中天亞洲台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv109_pc.png" group-title="litv",中天亞洲台
-http://192.168.10.250/litvapp.php?id=4gtv-4gtv109
+#EXTINF:-1 tvg-id="4gtv-4gtv109" tvg-name="中天亞洲台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv109_pc.png" group-title="litv",中天亞洲台不能
+http://192.168.10.250/litvapp1.php?id=4gtv-4gtv109
 
 #EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龍華戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_pc.png" group-title="litv",龍華戲劇台
 http://192.168.10.250/litvapp.php?id=litv-longturn18
