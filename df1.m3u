@@ -3403,14 +3403,15 @@ http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
 
 http://127.0.0.1:8081/shanghaieye1.php
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="youtube中文新闻",CCTV-1
-http://127.0.0.1:8081/ctvnews.php?id=cctv1&q=lg
+http://127.0.0.1:8081/cctvnews.php?id=cctv1&q=lg
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="youtube中文新闻",CCTV-2
-http://127.0.0.1:8081/ctvnews.php?id=cctv2&q=lg
-
-
+http://127.0.0.1:8081/cctvnews.php?id=cctv2&q=lg
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
-http://127.0.0.1:8081/ctvnews.php?id=cctv4&q=lg
+http://127.0.0.1:8081/cctv4.php
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
+http://127.0.0.1:8081/cctvnews.php?id=cctv4&q=lg
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=69416429589
@@ -3425,7 +3426,7 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube中文新闻",CCTV-13HD
 
-http://127.0.0.1:8081/ctvnews.php?id=cctv13&q=lg
+http://127.0.0.1:8081/cctvnews.php?id=cctv13&q=lg
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
 http://127.0.0.1:8081/diyicaijing.php
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
