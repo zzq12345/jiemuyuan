@@ -3407,10 +3407,10 @@ http://127.0.0.1:8081/cctvnews.php?id=cctv1&q=lg
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="youtube中文新闻",CCTV-2
 http://127.0.0.1:8081/cctvnews.php?id=cctv2&q=lg
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
+#EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
 http://127.0.0.1:8081/cctv4.php
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
+#EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
 http://127.0.0.1:8081/cctvnews.php?id=cctv4&q=lg
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
