@@ -11,6 +11,17 @@
             "filterable": 1,
             "changeable": 0
         },
+{
+            "key": "超级影视",
+            "name": "超级影视",
+            "type": 4,
+            "api": "http://cjvip.free.hr/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+		
         {
             "key": "T4-欧乐",
             "name": "欧乐(T4)唐三",
