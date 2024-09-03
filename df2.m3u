@@ -3531,8 +3531,7 @@ http://192.168.10.250/sanliinews.php?id=1
 http://192.168.10.250/jingnews.php
 #EXTINF:-1 tvg-id="4gtv-live050"  tvg-name="新唐人亞太台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"  group-title="youtube中文新闻",新唐人亞太台
 http://192.168.10.250/youtube.php?v=WIhgU_mc05A
-#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",公視+
-
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
 #EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",公視
 http://192.168.10.250/youtube.php?v=C6gYqSHLRw4
