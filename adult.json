@@ -88,7 +88,7 @@
             "key": "emby18",
             "name": "EMBY18",
             "type": 3,
-            "api": "./emby.py",
+            "api": "./lib/emby.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
