@@ -110,39 +110,9 @@
 	
 	
 
-		
-		
-            
-		{
-            "key": "你好帅",
-            "name": "短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "分类url": "https://nhsyy.com/vodtype/{cateId}-{catePg}.html",
-                "分类": "穿越$fenlei1#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$gudai#神医$shenyi#玄幻$xuanhuan#言情$yanqing",
-                "线路标题": "<span>&&</small>[替换:【你好帅影院】播放器>>HD共]+集",
-                "播放数组": "<div class=\"scroll-content\">&&</div>"
-            }
-        },
-
 	
      
-        {
-            "key": "07104K-剧院",
-            "name": "紫薇｜4K影院",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/4K剧院.js"
-        },
+        
         {
             "key": "php2_hmezy",
             "name": "🤪 黑木耳(T4_PHP)",
