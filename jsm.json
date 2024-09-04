@@ -143,38 +143,7 @@
 			  "分类url":"https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html",
 			  "分类":"短剧$5#国产剧$17#港台剧$18#日韩剧$20#电视剧$2#电影$1#动作片$6#喜剧片$7#爱情片$8#恐怖片$10#动漫$4#综艺$3"
 	  }
-	 
-	   },
-     
-    
-    
-{
-            "key": "xp_nuiyue",
-            "name": "🤪 纽约影视(T3_csp_XPath)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-	    "jar":"./spider.jar",
-
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable":0,
-            "filterable": 1,
-            "ext": "https://t4.doube.eu.org/site/xp_nuiyue.json"
-        },
-        {
-            "key": "xp_olehdtv",
-            "name": "🤪 欧乐影院(翻)(T3_csp_XPath)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-	    "jar":"https://t4.doube.eu.org/spider.jar",
-
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable":0,
-            "filterable": 1,
-            "ext": "https://t4.doube.eu.org/site/xp_olehdtv.json"
-        },
-		
+	   },	
 	{
 		"key": "蛙视频",
             "name": "💕蛙视频",
