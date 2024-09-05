@@ -3532,7 +3532,6 @@ http://127.0.0.1:8081/jingnews.php
 #EXTINF:-1 tvg-id="4gtv-live050"  tvg-name="新唐人亞太台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"  group-title="youtube中文新闻",新唐人亞太台
 http://127.0.0.1:8081/youtube.php?v=WIhgU_mc05A
 #EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
-
 https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
 #EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",公視
 http://127.0.0.1:8081/youtube.php?v=C6gYqSHLRw4
@@ -5309,7 +5308,7 @@ http://127.0.0.1:8081/mbc.php?id=6&chid=18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",mbn
 http://127.0.0.1:8081/mbn.php
-127.0.0.1:8081
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",ebs FM 
 http://127.0.0.1:8081/ebc.php?id=FM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",ebs bandi
@@ -5343,152 +5342,156 @@ http://127.0.0.1:8081/sbs.php?id=S19
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩国",SBS-POP
 http://127.0.0.1:8081/sbs.php?id=S20
 
-#EXTINF:-1 group-title="韩国",sbs金浩中
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",sbs金浩中
 http://127.0.0.1:8081/sbszhibo.php?id=S21
-#EXTINF:-1 group-title="韩国",sbs跑步看电视
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",sbs跑步看电视
 http://127.0.0.1:8081/sbszhibo.php?id=S22
-#EXTINF:-1 group-title="韩国",火热的牧师
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",火热的牧师
 http://127.0.0.1:8081/sbszhibo.php?id=S23
-#EXTINF:-1 group-title="韩国",流浪看电视
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",流浪看电视
 http://127.0.0.1:8081/sbszhibo.php?id=S24
-#EXTINF:-1 group-title="韩国",贵州电视
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",贵州电视
 http://127.0.0.1:8081/sbszhibo.php?id=S25
-#EXTINF:-1 group-title="韩国",最后的尊严
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",最后的尊严
 http://127.0.0.1:8081/sbszhibo.php?id=S26
-#EXTINF:-1 group-title="韩国",绿豆花
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",绿豆花
 http://127.0.0.1:8081/sbszhibo.php?id=S27
-#EXTINF:-1 group-title="韩国",秘密饰品
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",秘密饰品
 http://127.0.0.1:8081/sbszhibo.php?id=S28
-#EXTINF:-1 group-title="韩国",一开始我爱你
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",一开始我爱你
 http://127.0.0.1:8081/sbszhibo.php?id=S29
-#EXTINF:-1 group-title="韩国",约翰电视医生
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",约翰电视医生
 http://127.0.0.1:8081/sbszhibo.php?id=S30
-#EXTINF:-1 group-title="韩国",英俊的郑恩美
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",英俊的郑恩美
 http://127.0.0.1:8081/sbszhibo.php?id=S31
-#EXTINF:-1 group-title="韩国",家庭郊游
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",家庭郊游
 http://127.0.0.1:8081/sbszhibo.php?id=S32
+#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1 tvg-logo="" group-title="韩国",EBS1
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1 tvg-logo="" group-title="韩国",EBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1 tvg-logo="" group-title="韩国",EBS1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1 tvg-logo="" group-title="韩国",EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1 tvg-logo="" group-title="韩国",EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+#EXTINF:-1 tvg-id="EBS1" tvg-name=""EBS1 tvg-logo="" group-title="韩国",EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="" group-title="韩国",EBS2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="" group-title="韩国",EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="" group-title="韩国",EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS CHILD" tvg-name="EBS CHILD" tvg-logo="" group-title="韩国",EBS CHILD
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS CHILD" tvg-name="EBS CHILD" tvg-logo="" group-title="韩国",EBS CHILD
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
+#EXTINF:-1 tvg-id="EBS CHILD" tvg-name="EBS CHILD" tvg-logo="" group-title="韩国",EBS CHILD
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS PLUS1" tvg-name="EBS PLUS1" tvg-logo="" group-title="韩国",EBS PLUS1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS PLUS2" tvg-name="EBS PLUS2" tvg-logo="" group-title="韩国",EBS PLUS2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS PLUS2" tvg-name="EBS PLUS2" tvg-logo="" group-title="韩国",EBS PLUS2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="EBS EDUCATION" tvg-name="EBS EDUCATION" tvg-logo="" group-title="韩国",EBS EDUCATION
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="EBS EDUCATION" tvg-name="EBS EDUCATION" tvg-logo="" group-title="韩国",EBS EDUCATION
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
 
-#EXTINF:-1 group-title="韩国",SBS
+
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",SBS
 
 
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS Plus
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS Plus
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 group-title="韩国",SBS Star
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-#EXTINF:-1 group-title="韩国",SBS Star
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:-1 group-title="韩国",SBS Star
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",Arirang
 https://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang World
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang World
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",Arirang World
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CGNTV
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CGNTV
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",CJB
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CTS기독교TV
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CTS기독교TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index_2.m3u8
-#EXTINF:-1 group-title="韩国",KBC
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国",MBN
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",MBN
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
-#EXTINF:-1 group-title="韩国",MTN
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",MTN
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",SBS International
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 group-title="韩国",TJB
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",TJB
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="韩国",延边1
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",延边1
 http://live.ybtvyun.com:80/video/s10006-2830394bd713/index.m3u8
-#EXTINF:-1 group-title="韩国",延边1
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",延边1
 http://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 group-title="韩国",延边2
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",延边2
 http://live.ybtvyun.com:80/video/s10006-8b0aa301cdd8/index.m3u8
-#EXTINF:-1 group-title="韩国",延边卫视*
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",延边卫视*
 http://live.ybtvyun.com:80/video/s10006-a772df604950/index.m3u8
-#EXTINF:-1 group-title="韩国",YBTV1
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YBTV1
 http://live.ybtvyun.com/video/s10006-2830394bd713/index.m3u8
-#EXTINF:-1 group-title="韩国",YBTV2
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YBTV2
 http://live.ybtvyun.com/video/s10006-8b0aa301cdd8/index.m3u8
-#EXTINF:-1 group-title="韩国",YBWS
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YBWS
 http://live.ybtvyun.com/video/s10006-a772df604950/index.m3u8
 
-#EXTINF:-1 group-title="韩国",ARIRANG
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",Arirang HD
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CBS
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:-1 group-title="韩国",CBS
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CBS
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CBS
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",CGNTV
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 1
-http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
-#EXTINF:-1 group-title="韩国",EBS 1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 2
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS English
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
-#EXTINF:-1 group-title="韩国",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS Plus 1
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS Plus 2
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="韩国",EBS+2
-http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",EBSe
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",EBSi
-http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 group-title="韩国",ETN  SD
+
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",ETN  SD
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",G1
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",G1
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韩国",TV Chosun
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",TV CHOSUN
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",TV CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",TV Chosun
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 group-title="韩国",YTN
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YTN
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
-#EXTINF:-1 group-title="韩国",YTN DMB
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YTN DMB
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 group-title="韩国",YTN KOREA
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YTN KOREA
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b732000.m3u8
-#EXTINF:-1 group-title="韩国",YTN KOREA
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YTN KOREA
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
-#EXTINF:-1 group-title="韩国",YTN SCIENCE
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
-#EXTINF:-1 group-title="韩国",YTN SCIENCE
+#EXTINF:-1 tvg-id=" " tvg-name="" tvg-logo="" group-title="韩国",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
@@ -5827,16 +5830,14 @@ https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123a
 
 
 #EXTINF:-1 tvg-id="100659" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
-http://127.0.0.1:8081/hebei.php?id=1
 
+http://127.0.0.1:8081/hebei.php?id=1
 #EXTINF:-1 tvg-id="100660" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
 http://127.0.0.1:8081/hebei.php?id=2
 #EXTINF:-1 tvg-id="100661" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
 http://127.0.0.1:8081/hebei.php?id=3
 #EXTINF:-1 tvg-id="100662" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
 http://127.0.0.1:8081/hebei.php?id=4
-
-
 #EXTINF:-1 tvg-id="100663" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
 http://127.0.0.1:8081/hebei.php?id=5
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科技" tvg-logo="" group-title="地方",河北少儿科教
