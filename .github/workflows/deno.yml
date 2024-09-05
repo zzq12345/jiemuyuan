@@ -1,0 +1,103 @@
+name: EPG
+
+on:
+  schedule:
+    - cron: '10 16,22,4,10 * * *'  # 从UTC时间16:10（北京时间0:10）开始，每6小时执行一次
+    - cron: '0 17 * * *'  # 每天UTC时间17:00执行（北京时间1:00）
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Define file list and download URLs
+        run: |
+          files=(
+            "112114.xml https://epg.112114.xyz/pp.xml"
+            "112114.xml.gz https://epg.112114.xyz/pp.xml.gz"
+            "51zmt.xml http://epg.51zmt.top:8000/e.xml"
+            "51zmt.xml.gz http://epg.51zmt.top:8000/e.xml.gz"
+            "epgpw_cn.xml https://epg.pw/xmltv/epg_CN.xml"
+            "epgpw_cn.xml.gz https://epg.pw/xmltv/epg_CN.xml.gz"
+          )
+
+          for file in "${files[@]}"; do
+            filename=$(echo $file | cut -d ' ' -f 1)
+            url=$(echo $file | cut -d ' ' -f 2)
+            echo "Downloading $filename from $url"
+            wget -O "$filename" "$url" || echo "$filename 下载失败，跳过"
+          done
+          
+          # 将文件名列表写入 GITHUB_ENV，供后续步骤使用
+          for file in "${files[@]}"; do
+            filename=$(echo $file | cut -d ' ' -f 1)
+            echo "FILENAME_$filename=$filename" >> $GITHUB_ENV
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          files_to_add=""
+          for var in $(env | grep 'FILENAME_' | cut -d '=' -f 2); do
+            if [ -f "$var" ]; then
+              files_to_add="$files_to_add $var"
+            fi
+          done
+          
+          if [ -n "$files_to_add" ]; then
+            git add $files_to_add
+            now_time=$(date -u -d '+8 hour' '+%Y-%m-%d %H:%M:%S')
+            git commit -m "更新时间：$now_time"
+            git push origin main
+          else
+            echo "没有文件可提交"
+          fi
+          
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# This workflow will install Deno then run `deno lint` and `deno test`.
+# For more information see: https://github.com/denoland/setup-deno
+
+name: Deno
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        # uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@61fe2df320078202e33d7d5ad347e7dcfa0e8f31  # v1.1.2
+        with:
+          deno-version: v1.x
+
+      # Uncomment this step to verify the use of 'deno fmt' on each commit.
+      # - name: Verify formatting
+      #   run: deno fmt --check
+
+      - name: Run linter
+        run: deno lint
+
+      - name: Run tests
+        run: deno test -A
