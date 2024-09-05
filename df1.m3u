@@ -3380,7 +3380,7 @@ http://127.0.0.1:8081/huya.php?id=637218
 http://127.0.0.1:8081/fenghuangyoutube.php
 
 
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn俄语
+#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube中文新闻",cgtn俄语
 http://127.0.0.1:8081/cgtnrussia.php
 
 #EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
@@ -3388,23 +3388,23 @@ http://127.0.0.1:8081/cctvfrench.php
 
 #EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
 http://127.0.0.1:8081/cgtnweb.php?id=cgtn
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn记录
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" group-title="youtube中文新闻",cgtn英文记录片
 http://127.0.0.1:8081/cgtnweb.php?id=cgtnd
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn西班牙
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" group-title="youtube中文新闻",cgtn西班牙语
 http://127.0.0.1:8081/cgtnweb.php?id=cgtne
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn法语
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn法语" tvg-name="cgtn法语" group-title="youtube中文新闻",cgtn法语
 http://127.0.0.1:8081/cgtnweb.php?id=cgtnf
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn阿拉伯
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn阿拉伯语" tvg-name="cgtn阿拉伯语" group-title="youtube中文新闻",cgtn阿拉伯语
 http://127.0.0.1:8081/cgtnweb.php?id=cgtna
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",cgtn俄语
+#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube中文新闻",cgtn俄语
 http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
 
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",上海eye
 
 http://127.0.0.1:8081/shanghaieye1.php
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="youtube中文新闻",CCTV-1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="youtube中文新闻",CCTV-1
 http://127.0.0.1:8081/cctvnews.php?id=cctv1&q=lg
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="youtube中文新闻",CCTV-2
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="youtube中文新闻",CCTV-2
 http://127.0.0.1:8081/cctvnews.php?id=cctv2&q=lg
 
 #EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
@@ -3413,18 +3413,18 @@ http://127.0.0.1:8081/cctv4.php
 #EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
 http://127.0.0.1:8081/cctvnews.php?id=cctv4&q=lg
 
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=69416429589
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=208823316033
-#EXTINF:-1 tvg-id="800006" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV6电影
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube中文新闻",CCTV-13HD
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube中文新闻",cctv13
 
 http://127.0.0.1:8081/cctvnews.php?id=cctv13&q=lg
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
