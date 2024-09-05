@@ -92,7 +92,22 @@
             "filterable":0,
             "changeable":0
         },
-        
+        {
+		"key": "py_emby", 
+		"name": "🍏 MisakaF┃Emby",
+		"type": 3,
+		"api":"./jar/py_emby_new.py", 
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": {
+			"server": "https://emby2.misakaf.org:443",
+			"username":"schfnrj",
+			"password":"a1995557",
+			"thread": 0
+		},
+		"changeable": 1
+	},
          {
       "key": "卧龙",
       "name": "🦄卧龙┃资源",
