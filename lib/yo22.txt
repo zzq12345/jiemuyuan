@@ -92,6 +92,10 @@ GTV DRAMA 八大劇樂部,https://www.youtube.com/watch?v=hcxLMIfxi0A
 
 
 國外新聞,#genre#
+
+Talk7*24,https://www.youtube.com/live/DFYaNjzI1aI
+
+
 DZRH News Television,https://www.youtube.com/watch?v=rTczxU43uSs
 DW News,https://www.youtube.com/watch?v=6HodCcEW_oQ
 LA NACION,https://www.youtube.com/watch?v=LY2XEQ_SSXA
