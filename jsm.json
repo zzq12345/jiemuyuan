@@ -1743,6 +1743,18 @@
 	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
                         },
+
+{
+				"name": "mimipipi22",
+				 ###"ua": "okhttp/5.2.0",
+	                         "playerType": 2,
+
+			"url": "https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist24",
+                                ###$ "url": "http://127.0.0.1:8081/mytvsuper.php",
+	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        },
+			
 {
 			"name": "小米境外",
 		  "url":"./xiaomi.m3u",
