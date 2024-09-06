@@ -96,7 +96,7 @@
 		"key": "py_emby", 
 		"name": "🍏 MisakaF┃Emby",
 		"type": 3,
-		"api":"./py/py_emby_new.py", 
+		"api":"./py/py_emby_new2.py", 
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
