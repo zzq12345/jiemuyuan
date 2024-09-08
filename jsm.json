@@ -835,23 +835,11 @@
 			"changeable": 1 , 
 			"ext":"https://v.aikanbot.com$$$proxy"
 		},
-		{ 
-			"key":"csp_YingShi",
-			"name":"影视|海外",
-			"type":3,
-			"api":"csp_YingShi",
-			"ext":"noproxy"
-		},
-		{ 
-			"key": "泥巴", 
-			"name": "泥巴 | 海外", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$noproxy" 
-		},
+		
+		
+		
+			
+			
 		{
 			"key": "星星",
 			"name": "星星 | 海外",
@@ -861,23 +849,6 @@
 			"changeable": 0,
 			"ext":"noproxy"
 		},
-		
-		
-
- {
-	 "key":"白嫖影视",
-	 "name":"🔴白嫖影视",
-	 "type":3,
-	 "api":"csp_BaiPiao",
-	 "jar":"./3366.jar"
- },
-{
-	"key":"py_cctv",
-	"name":"央视主要栏目",
-	"type":3,
-	"api":"./cctv.py"
-},      
-
 {
         "key": "天龙影视",
         "name": "天龙影视",
