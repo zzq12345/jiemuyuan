@@ -634,7 +634,7 @@
       "key": "OK資源",
       "name": "OK資源",
       "type": 2,
-      "api": "http://127.0.0.1:10079/p/0/proxy/https://api.okzy.org/api.php/provide/vod",
+      "api":"https://api.okzy.org/api.php/provide/vod",
 	    
       "searchable": 1,
 	   
