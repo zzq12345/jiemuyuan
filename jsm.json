@@ -683,20 +683,8 @@
 	  "api": "csp_AppYsV2",
 	  "ext": "https://www.zjtu.one/api.php/app/"
   },
-  {
-	  "key": "河狸",
-	  "name": "河狸影视┃┃💠V2",
-	  "type": 3,
-	  "api": "csp_AppYsV2",
-	  "ext": "https://www.heli888.cc/api.php/app/"
-  },
-  {
-	  "key": "柠檬",
-	  "name": "柠檬影视┃┃💠V2",
-	  "type": 3,
-	  "api": "csp_AppYsV2",
-	  "ext": "http://mf.songshu.cyou/api.php/app/"
-  },
+  
+
   {
 	  "key": "影馆",
 	  "name": "影馆剧场┃┃💠V2",
@@ -765,20 +753,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-	    ###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-	    
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "./json/wogg.json"
-      }
-    },
+    
 		{
 			"key":"欧乐影院",
 			"name":"欧乐影院|在线播（海外）",
@@ -832,16 +807,7 @@
         "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json",
         "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
     },
-  		{
-			"key": "快看",
-			"name": "快看",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},
+  		
 {
 	"key":"py_cctv",
 	"name":"央视主要栏目",
@@ -874,7 +840,7 @@
 			"name":"影视|海外",
 			"type":3,
 			"api":"csp_YingShi",
-			"ext":"proxy"
+			"ext":"noproxy"
 		},
 		{ 
 			"key": "泥巴", 
@@ -884,7 +850,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$proxy" 
+			"ext":"0$$$noproxy" 
 		},
 		{
 			"key": "星星",
@@ -893,7 +859,7 @@
 			"api": "csp_Star",
 			"searchable": 1,
 			"changeable": 0,
-			"ext":"proxy"
+			"ext":"noproxy"
 		},
 		
 		
