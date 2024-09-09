@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/112114.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmysuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://epg.deny.vip/sh/tel-epg.xml,https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/112114.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmysuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="800063" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="央视频",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="800062" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视频",中国教育电视台-1
