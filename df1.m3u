@@ -5561,7 +5561,7 @@ http://127.0.0.1:8081/btv8k.php?id=brtv8k
 #浙江/7个频道
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="地方",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="ZJ01" tvg-name="浙江钱江都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png" group-title="地方",浙江钱江都市
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png" group-title="地方",浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png" group-title="地方",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -5651,21 +5651,6 @@ http://php.jdshipin.com:8880/chudian.php?id=gdxw
 http://php.jdshipin.com:8880/chudian.php?id=gdms
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",广东体育
 http://php.jdshipin.com:8880/chudian.php?id=gdty
-#EXTINF:-1 tvg-id="101014" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方",广东大湾区卫视
-http://php.jdshipin.com:8880/chudian.php?id=nfws
-#EXTINF:-1 tvg-id="101016" tvg-name="广东经济科教" tvg-logo="" group-title="地方",广东经济科教
-#http://php.jdshipin.com:8880/chudian.php?id=nfws
-#EXTINF:-1 tvg-id="101017" tvg-name="广东影视" tvg-logo="" group-title="地方",广东影视
-http://php.jdshipin.com:8880/chudian.php?id=gdys
-#EXTINF:-1 tvg-id="101018" tvg-name="广东综艺" tvg-logo="" group-title="地方",广东综艺
-#http://php.jdshipin.com:8880/chudian.php?id=gdse
-
-#EXTINF:-1 tvg-id="101020" tvg-name="广东少儿" tvg-logo="" group-title="地方",广东少儿
-http://php.jdshipin.com:8880/chudian.php?id=gdse
-#EXTINF:-1 tvg-id="101021" tvg-name="广东嘉佳卡通" tvg-logo="" group-title="地方",广东嘉佳卡通
-#http://php.jdshipin.com:8880/chudian.php?id=gdjh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东岭南戏曲
-#http://php.jdshipin.com:8880/chudian.php?id=gdjh
 
 
 
@@ -5697,7 +5682,7 @@ http://127.0.0.1:8081/touchtv.php?id=4
 http://127.0.0.1:8081/touchtv.php?id=5
 #EXTINF:-1 tvg-id="101013" tvg-name="广东公共" tvg-logo="" group-title="地方",广东公共
 http://127.0.0.1:8081/touchtv.php?id=6
-#EXTINF:-1 tvg-id="广东家和卡通" tvg-name="广东家和卡通" tvg-logo="" group-title="地方",广东家和卡通
+#EXTINF:-1 tvg-id="广东嘉禾卡通" tvg-name="广东嘉禾卡通" tvg-logo="" group-title="地方",广东嘉禾卡通
 http://127.0.0.1:8081/touchtv.php?id=7
 #EXTINF:-1 tvg-id="101020" tvg-name="广东国际" tvg-logo="" group-title="地方",广东国际
 http://127.0.0.1:8081/touchtv.php?id=8
@@ -5771,38 +5756,38 @@ http://127.0.0.1:8081/henan.php?id=1
 
 
 http://127.0.0.1:8081/henan.php?id=2
-#EXTINF:-1 tvg-id="101037" tvg-name="河南都市" tvg-logo="" group-title="地方",河南都市
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="" group-title="地方",河南都市
 http://127.0.0.1:8081/henan.php?id=3
-#EXTINF:-1 tvg-id="101038" tvg-name="河南民生" tvg-logo="" group-title="地方",河南民生
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="" group-title="地方",河南民生
 http://127.0.0.1:8081/henan.php?id=4
-#EXTINF:-1 tvg-id="101039" tvg-name="河南法制" tvg-logo="" group-title="地方",河南法制
+#EXTINF:-1 tvg-id="河南法制" tvg-name="河南法制" tvg-logo="" group-title="地方",河南法制
 http://127.0.0.1:8081/henan.php?id=5
-#EXTINF:-1 tvg-id="101043" tvg-name="河南公共" tvg-logo="" group-title="地方",河南公共
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="" group-title="地方",河南公共
 http://127.0.0.1:8081/henan.php?id=6
-#EXTINF:-1 tvg-id="101044" tvg-name="河南乡村" tvg-logo="" group-title="地方",河南乡村
+#EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="" group-title="地方",河南乡村
 
 http://127.0.0.1:8081/henan.php?id=7
 
-#EXTINF:-1 tvg-id="101040" tvg-name="河南电视剧" tvg-logo="" group-title="地方",河南电视剧
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="" group-title="地方",河南电视剧
 http://127.0.0.1:8081/henan.php?id=8
 
-#EXTINF:-1 tvg-id="101046" tvg-name="河南梨园戏曲" tvg-logo="" group-title="地方",河南梨园戏曲
+#EXTINF:-1 tvg-id="河南梨园戏曲" tvg-name="河南梨园戏曲" tvg-logo="" group-title="地方",河南梨园戏曲
 http://127.0.0.1:8081/henan.php?id=9
-#EXTINF:-1 tvg-id="101047" tvg-name="河南文物宝库" tvg-logo="" group-title="地方",河南文物宝库
+#EXTINF:-1 tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="" group-title="地方",河南文物宝库
 http://127.0.0.1:8081/henan.php?id=10
-#EXTINF:-1 tvg-id="101048" tvg-name="河南武术" tvg-logo="" group-title="地方",河南武术
+#EXTINF:-1 tvg-id="河南武术" tvg-name="河南武术" tvg-logo="" group-title="地方",河南武术
 http://127.0.0.1:8081/henan.php?id=11
-#EXTINF:-1 tvg-id="101049" tvg-name="河南睛彩中原" tvg-logo="" group-title="地方",河南睛彩中原
+#EXTINF:-1 tvg-id="河南睛彩中原" tvg-name="河南睛彩中原" tvg-logo="" group-title="地方",河南睛彩中原
 http://127.0.0.1:8081/henan.php?id=12
-#EXTINF:-1 tvg-id="101050" tvg-name="河南移动戏曲" tvg-logo="" group-title="地方",河南移动戏曲
+#EXTINF:-1 tvg-id="河南移动戏曲" tvg-name="河南移动戏曲" tvg-logo="" group-title="地方",河南移动戏曲
 http://127.0.0.1:8081/henan.php?id=13
 
-#EXTINF:-1 tvg-id="101051" tvg-name="河南象世界" tvg-logo="" group-title="地方",河南象世界
+#EXTINF:-1 tvg-id="河南象世界" tvg-name="河南象世界" tvg-logo="" group-title="地方",河南象世界
 http://127.0.0.1:8081/henan.php?id=14
 
-#EXTINF:-1 tvg-id="" tvg-name="河南象世界" tvg-logo="" group-title="地方",国学时代
+#EXTINF:-1 tvg-id="国学时代" tvg-name="国学时代界" tvg-logo="" group-title="地方",国学时代
 http://127.0.0.1:8081/henan.php?id=15
-#EXTINF:-1 tvg-id="" tvg-name="河南中华特产" tvg-logo="" group-title="地方",河南中华特产
+#EXTINF:-1 tvg-id="河南中华特产" tvg-name="河南中华特产" tvg-logo="" group-title="地方",河南中华特产
 http://127.0.0.1:8081/henan.php?id=16
 
 
@@ -5813,41 +5798,41 @@ http://127.0.0.1:8081/henan.php?id=16
 
 
 
-#EXTINF:-1 tvg-id="100659" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
 
 https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1963555056&k=a2a2ee6412906c8b2d9a6fd19116c6d9
-#EXTINF:-1 tvg-id="100660" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
+#EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
 https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1963555098&k=188078e4cff948b7252bb3e5f88306b2
-#EXTINF:-1 tvg-id="100661" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
+#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
 https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
-#EXTINF:-1 tvg-id="100662" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
 https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1711094393&k=70047c0cb4a0ee90aecae0661c9816eb
-#EXTINF:-1 tvg-id="100663" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
 https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1963555862&k=c1c7d65caa03f1cbd6c9585b5d840534
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科技" tvg-logo="" group-title="地方",河北少儿科教
 https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1963555882&k=3b5e2390e33ef21bf9697e4d1811e261
 
 
-#EXTINF:-1 tvg-id="100665" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
+#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
 https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1963555917&k=fc9fcfabd123ab877e24ee9a0ef0c862
 
 
-#EXTINF:-1 tvg-id="100659" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方",河北卫视
 
 http://127.0.0.1:8081/hebei.php?id=1
-#EXTINF:-1 tvg-id="100660" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
+#EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="" group-title="地方",河北经济
 http://127.0.0.1:8081/hebei.php?id=2
-#EXTINF:-1 tvg-id="100661" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
+#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="" group-title="地方",河北农民
 http://127.0.0.1:8081/hebei.php?id=3
-#EXTINF:-1 tvg-id="100662" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
 http://127.0.0.1:8081/hebei.php?id=4
-#EXTINF:-1 tvg-id="100663" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
+#EXTINF:-1 tvg-id="河北影视剧" tvg-name="河北影视剧" tvg-logo="" group-title="地方",河北影视剧
 http://127.0.0.1:8081/hebei.php?id=5
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科技" tvg-logo="" group-title="地方",河北少儿科教
 http://127.0.0.1:8081/hebei.php?id=6
 
 
-#EXTINF:-1 tvg-id="100665" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
+#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
 http://127.0.0.1:8081/hebei.php?id=7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄娱乐
@@ -5942,19 +5927,19 @@ http://127.0.0.1:8081/shandong.php?id=sdtv
 http://127.0.0.1:8081/shandong.php?id=qlpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="" group-title="地方",山东体育
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="" group-title="地方",山东体育
 http://127.0.0.1:8081/shandong.php?id=typd
-#EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="" group-title="地方",山东新闻
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="" group-title="地方",山东新闻
 http://127.0.0.1:8081/shandong.php?id=ggpd
-#EXTINF:-1 tvg-id="" tvg-name="山东生活" tvg-logo="" group-title="地方",山东生活
+#EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="" group-title="地方",山东生活
 http://127.0.0.1:8081/shandong.php?id=shpd
-#EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="" group-title="地方",山东综艺
+#EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="" group-title="地方",山东综艺
 http://127.0.0.1:8081/shandong.php?id=zypd
-#EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="" group-title="地方",山东农科
+#EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="" group-title="地方",山东农科
 http://127.0.0.1:8081/shandong.php?id=nkpd
-#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="" group-title="地方",山东文旅
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="" group-title="地方",山东文旅
 http://127.0.0.1:8081/shandong.php?id=yspd
-#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="" group-title="地方",山东少儿
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="" group-title="地方",山东少儿
 http://127.0.0.1:8081/shandong.php?id=sepd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山东居家购物
 http://127.0.0.1:8081/shandong.php?id=gwpd
@@ -6004,7 +5989,7 @@ http://127.0.0.1:8081/hainan.php?pd=hnws&id=3
 http://127.0.0.1:8081/hainan.php?pd=wsgq&id=19
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="地方",三沙卫视
 http://127.0.0.1:8081/hainan.php?pd=ssws&id=7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南经济
+#EXTINF:-1 tvg-id="海南经济" tvg-name="" tvg-logo="" group-title="地方",海南经济
 http://127.0.0.1:8081/hainan.php?pd=jjpd&id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海南新闻
 http://127.0.0.1:8081/hainan.php?pd=xwpd&id=5
