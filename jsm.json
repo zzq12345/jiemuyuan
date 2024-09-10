@@ -1800,18 +1800,6 @@
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},			
-                        
-
-			{
-                                 "name": "唐三测试",
-				###"url":"./anbo.txt",
-                                 "url": "https://tang.hz.cz/api/user?token=a18a0965",
-                                  "ua": "okhttp/4.12.0",
-				"type": 3,
-				"playerType": 2,
-				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-			},
 			{
                                  "name": "安博",
 				###"url":"./anbo.txt",
