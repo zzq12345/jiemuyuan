@@ -57,7 +57,24 @@
                 "分类url": "https://ptt.red/p/{cateId}?page={catePg}"
             }
         },
-
+{
+            "key": "JAVMMM25",
+            "name": "JAVMMM25",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+            "数组": "class=\"col-6 col- md-4 col-lg-3 col-xl-3\">&&class=\"video-block video-with-trailer",
+    "图片": "data-src=\"&&\"",
+    "标题": "title\">&&</span>",
+    "链接": "href=\"&&\"",
+    "播放标题": "title\">&&</span>",
+    "播放链接": "href=\"&&\"",
+    "直接播放": "1",
+    "分类": "日本有码$464#日本无码$465#国产情色$466#激情欧美$467#制服丝袜$468#熟女人妻$470#中文字幕$471#巨乳肥臀$472#国产传媒$478",
+    "分类url": "https://xn--2mxw8hnvi.javmmm25.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+  }
+        },
 	  {
       "key": "nu",
       "name": "Nuu|XBPQ",
