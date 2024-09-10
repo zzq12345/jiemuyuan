@@ -47,6 +47,7 @@
         "线路标题": "金牌影院",
         "播放数组": "listitem\">&&info\">",
         "播放列表": "<a&&</a >",
+	"播放链接": "href=\"&&\"",
         "倒序": "否",
         "搜索url": "https://www.cfkj86.com/vod/search/{wd}",
         "搜索副标题": "class=\"boottom\"*<div>&&</div",
