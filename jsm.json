@@ -54,7 +54,18 @@
         "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
       }
     },
+		{
+            "key": "超级影视",
+            "name": "超级影视",
+            "type": 1,
+            "api": "http://cjvip.free.hr/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "changeable": 0
+        },
 		
+		
+      
+    
 	{
             "key": "黑木耳",
             "name": "黑木耳",
