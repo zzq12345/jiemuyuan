@@ -23,6 +23,38 @@
             "filterable": 1,
             "changeable": 0
 	},     
+{
+      "key": "金牌影院",
+      "name": "金牌影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "changeable": 0,
+      "ext": {
+        "主页url": "http://www.cfkj86.com",
+        "简介": "</label>&&</div>",
+        "嗅探词": "m3u8",
+        "影片类型": "tags\">&&director\">",
+        "影片状态": "bottom\">&&</div>",
+        "二次截取": "videoList\":\\[&&\\]",
+        "数组": "{&&}[不包含:伦理剧]",
+        "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+        "标题": "vodName\":\"&&\"",
+        "副标题": "vodRemarks\":\"&&\"",
+        "链接": "https://www.cfkj86.com/detail/+vodId\":&&,",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "线路标题": "金牌影院",
+        "播放数组": "listitem\">&&info\">",
+        "播放列表": "<a&&</a >",
+        "倒序": "否",
+        "搜索url": "https://www.cfkj86.com/vod/search/{wd}",
+        "搜索副标题": "class=\"boottom\"*<div>&&</div",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+      }
+    },
+		
 	{
             "key": "黑木耳",
             "name": "黑木耳",
