@@ -5566,7 +5566,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png" group-title="地方",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江科教" tvg-name="浙江教科" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png" group-title="地方",浙江教科
+#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png" group-title="地方",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png" group-title="地方",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -5582,7 +5582,7 @@ http://127.0.0.1:8081/zhejiang.php?id=zjws
 http://127.0.0.1:8081/zhejiang.php?id=zjjjsh
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="" group-title="地方",浙江钱江都市
 http://127.0.0.1:8081/zhejiang.php?id=zjqj
-#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江科教" tvg-logo="" group-title="地方",浙江科教
+#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科" tvg-logo="" group-title="地方",浙江教科
 http://127.0.0.1:8081/zhejiang.php?id=zjjkys
 
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="" group-title="地方",浙江民生
@@ -6101,4 +6101,4 @@ http://127.0.0.1:8081/wuhanapp.php?id=16
 
 
 
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group
+
