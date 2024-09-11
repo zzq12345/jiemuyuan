@@ -1,4 +1,8 @@
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmysuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/51zmt.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmysuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xm,https://raw.githubusercontent.com/zzq12345/myepg/main/51zmt.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+
+
+
 
 #EXTINF:-1 tvg-id="800063" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="央视频",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
@@ -3403,16 +3407,11 @@ http://192.168.10.250/cgtnweb.php?id=cgtnr
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",上海eye
 
 http://192.168.10.250/shanghaieye1.php
-#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="youtube中文新闻",CCTV-1
-http://192.168.10.250/cctvnews.php?id=cctv1&q=lg
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="youtube中文新闻",CCTV-2
-http://192.168.10.250/cctvnews.php?id=cctv2&q=lg
+
 
 #EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
 http://192.168.10.250/cctv4.php
 
-#EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
-http://192.168.10.250/cctvnews.php?id=cctv4&q=lg
 
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://192.168.10.250/douyin.php?id=69416429589
@@ -3425,9 +3424,7 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 
 
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="youtube中文新闻",cctv13
 
-http://192.168.10.250/cctvnews.php?id=cctv13&q=lg
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
 http://192.168.10.250/diyicaijing.php
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
@@ -3513,10 +3510,23 @@ http://192.168.10.250/huashinews.php
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台
 http://192.168.10.250/youtube.php?v=ylYJSBUgaMA
 
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台1
 http://192.168.10.250/minshinews.php?id=1
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台2
 http://192.168.10.250/minshinews.php?id=2
+
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台3
+http://192.168.10.250/minshinews.php?id=3
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台4
+http://192.168.10.250/minshinews.php?id=4
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台5
+http://192.168.10.250/minshinews.php?id=5
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台6
+http://192.168.10.250/minshinews.php?id=6
+
+
+
+
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台
 http://192.168.10.250/linetv.php?id=minshinews
 
@@ -3540,12 +3550,7 @@ http://192.168.10.250/youtube.php?v=C6gYqSHLRw4
 http://192.168.10.250/gongshi13.php
 #EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube中文新闻",公視台語台
 http://192.168.10.250/gongshi14.php
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
-http://192.168.10.250/gongshi151.php
 
-
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
-http://192.168.10.250/gongshi15.php
 
 
 
