@@ -5535,22 +5535,7 @@ http://127.0.0.1:8081/qinghuatv.php
 
 
 
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://127.0.0.1:8081/btv8k.php?id=bjws
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实科教
-http://127.0.0.1:8081/btv8k.php?id=bjjskj
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://127.0.0.1:8081/btv8k.php?id=bjys
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://127.0.0.1:8081/btv8k.php?id=bjcj
-#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="" group-title="地方",卡酷卡通
-http://127.0.0.1:8081/btv8k.php?id=bjwy
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://127.0.0.1:8081/btv8k.php?id=bjsh
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://127.0.0.1:8081/btv8k.php?id=bjxw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
-http://127.0.0.1:8081/btv8k.php?id=brtv8k
+
 
 
 
@@ -5621,127 +5606,15 @@ http://127.0.0.1:8081/fujian.php?id=9
 http://127.0.0.1:8081/fujian.php?id=10
 #EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-logo="" group-title="地方",福建新闻
 http://127.0.0.1:8081/fujian.php?id=13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门1
-http://127.0.0.1:8081/hoge.php?id=xmtv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门2
-http://127.0.0.1:8081/hoge.php?id=xmtv2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门移动
-http://127.0.0.1:8081/hoge.php?id=xmyd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州综合
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州影视
-http://live.zohi.tv/video/s10001-fztv-2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州生活
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="100679" tvg-name="" tvg-logo="" group-title="地方",泉州综合
 http://127.0.0.1:8081/fjqz.php?id=news
 #EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",泉州闽南语
 http://127.0.0.1:8081/fjqz.php?id=mny
 
 
-#EXTINF:-1 tvg-id="101011" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
-http://php.jdshipin.com:8880/chudian.php?id=gdzj
-#EXTINF:-1 tvg-id="101012" tvg-name="广东新闻" tvg-logo="" group-title="地方",广东新闻
-http://php.jdshipin.com:8880/chudian.php?id=gdxw
-#EXTINF:-1 tvg-id="101013" tvg-name="广东公共" tvg-logo="" group-title="地方",广东民生
-http://php.jdshipin.com:8880/chudian.php?id=gdms
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",广东体育
-http://php.jdshipin.com:8880/chudian.php?id=gdty
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广东移动
-http://php.jdshipin.com:8880/chudian.php?id=gdyd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州新闻
-http://php.jdshipin.com:8880/gztv.php?id=xinwen
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州竞赛
-http://php.jdshipin.com:8880/gztv.php?id=jingsai
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州影视
-http://php.jdshipin.com:8880/gztv.php?id=yingshi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州法治
-http://php.jdshipin.com:8880/gztv.php?id=fazhi
-
-
-
-
-
-#EXTINF:-1 tvg-id="101011" tvg-name="珠江" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
-http://127.0.0.1:8081/touchtv.php?id=1
-#EXTINF:-1 tvg-id="101014" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方",广东大湾区卫视
-http://127.0.0.1:8081/touchtv.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="地方",广东体育
-http://127.0.0.1:8081/touchtv.php?id=3
-#EXTINF:-1 tvg-id="101012" tvg-name="广东新闻" tvg-logo="" group-title="地方",广东新闻
-http://127.0.0.1:8081/touchtv.php?id=4
-#EXTINF:-1 tvg-id="101010" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方",广东卫视
-http://127.0.0.1:8081/touchtv.php?id=5
-#EXTINF:-1 tvg-id="101013" tvg-name="广东公共" tvg-logo="" group-title="地方",广东公共
-http://127.0.0.1:8081/touchtv.php?id=6
-#EXTINF:-1 tvg-id="广东嘉禾卡通" tvg-name="广东嘉禾卡通" tvg-logo="" group-title="地方",广东嘉禾卡通
-http://127.0.0.1:8081/touchtv.php?id=7
-#EXTINF:-1 tvg-id="101020" tvg-name="广东国际" tvg-logo="" group-title="地方",广东国际
-http://127.0.0.1:8081/touchtv.php?id=8
-#EXTINF:-1 tvg-id="广东房产" tvg-name="广东房产" tvg-logo="" group-title="地方",广东房产
-http://127.0.0.1:8081/touchtv.php?id=9
-#EXTINF:-1 tvg-id="101016" tvg-name="广东经济科教" tvg-logo="" group-title="地方",广东经济科教
-http://127.0.0.1:8081/touchtv.php?id=10
-#EXTINF:-1 tvg-id="101018" tvg-name="广东综艺" tvg-logo="" group-title="地方",广东综艺
-http://127.0.0.1:8081/touchtv.php?id=11
-#EXTINF:-1 tvg-id="101017" tvg-name="广东影视" tvg-logo="" group-title="地方",广东影视
-http://127.0.0.1:8081/touchtv.php?id=12
-#EXTINF:-1 tvg-id="101020" tvg-name="广东少儿" tvg-logo="" group-title="地方",广东少儿
-http://127.0.0.1:8081/touchtv.php?id=13
-#EXTINF:-1 tvg-id="101020" tvg-name="广东南方购物" tvg-logo="" group-title="地方",广东南方购物
-http://127.0.0.1:8081/touchtv.php?id=14
-
-#EXTINF:-1 tvg-id="100698" tvg-name="" tvg-logo="" group-title="地方",广州综合
-http://127.0.0.1:8081/guangzhouapp.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州新闻
-http://127.0.0.1:8081/guangzhouapp.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州南国都市4K
-http://127.0.0.1:8081/guangzhouapp.php?id=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州法治
-http://127.0.0.1:8081/guangzhouapp.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州竞赛
-http://127.0.0.1:8081/guangzhouapp.php?id=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州影视
-http://127.0.0.1:8081/guangzhouapp.php?id=6
-#EXTINF:-1 tvg-id="100698" tvg-name="" tvg-logo="" group-title="地方",广州综合
-http://127.0.0.1:8081/guangzhou.php?id=zhonghe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州新闻
-http://127.0.0.1:8081/guangzhou.php?id=xinwen
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州法治
-http://127.0.0.1:8081/guangzhou.php?id=fazhi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州竞赛
-http://127.0.0.1:8081/guangzhou.php?id=jingsai
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州影视
-http://127.0.0.1:8081/guangzhou.php?id=yingshi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州南国都市4K
-http://127.0.0.1:8081/guangzhou.php?id=shenghuo
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳卫视
-http://127.0.0.1:8081/shenzhen.php?id=szws
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳娱乐
-http://127.0.0.1:8081/shenzhen.php?id=szyl
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳少儿
-http://127.0.0.1:8081/shenzhen.php?id=szse
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳公共
-http://127.0.0.1:8081/shenzhen.php?id=szgg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳财经
-http://127.0.0.1:8081/shenzhen.php?id=szcjsh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳电视剧
-http://127.0.0.1:8081/shenzhen.php?id=szdsj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳都市
-http://127.0.0.1:8081/shenzhen.php?id=szds
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动
-http://127.0.0.1:8081/shenzhen.php?id=szyd
 
 
 
