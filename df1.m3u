@@ -5615,6 +5615,18 @@ http://127.0.0.1:8081/fjqz.php?id=mny
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州综合
+http://127.0.0.1:8081/guangzhou.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州新闻
+http://127.0.0.1:8081/guangzhou.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州法治
+http://127.0.0.1:8081/guangzhou.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州竞赛
+http://127.0.0.1:8081/guangzhou.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州影视
+http://127.0.0.1:8081/guangzhou.php?id=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州南国都市4K
+http://127.0.0.1:8081/guangzhou.php?id=6
 
 
 
