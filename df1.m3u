@@ -3713,10 +3713,7 @@ http://127.0.0.1:8081/nhkworld.php
 http://127.0.0.1:8081/nhk.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube
 http://127.0.0.1:8081/skynewsweb.php
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube
-http://127.0.0.1:8081/skynews.php?id=1
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube 
-http://127.0.0.1:8081/skynews.php?id=2
+
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
 http://127.0.0.1:8081/skynewsweblive.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
@@ -3737,18 +3734,7 @@ http://127.0.0.1:8081/wion.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnn18
 http://127.0.0.1:8081/cnn18.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",foxnbusiness
-http://127.0.0.1:8081/foxbusiness.php?id=1
-#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="youtube world news",CNN International
-http://127.0.0.1:8081/cnn2.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cbc
-http://127.0.0.1:8081/cbc.php?id=1
-#EXTINF:-1 tvg-id="CNBC Asia Channel" tvg-name="CNBC Asia Channel" tvg-logo="" group-title="youtube world news",CNBC Asia Channel
-http://127.0.0.1:8081/cnbc.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",mscbn
-http://127.0.0.1:8081/mscbn.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",hln
-http://127.0.0.1:8081/hln.php?id=1
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",foxnews5cleveland
 http://127.0.0.1:8081/foxnews5cleveland.php 
@@ -3895,12 +3881,13 @@ http://127.0.0.1:8081/cbn.php?id=5721815535001
 http://127.0.0.1:8081/cbn.php?id=5721888200001   
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cbn spain
 http://127.0.0.1:8081/cbn.php?id=5721890224001   
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",美国abc news now youtube
-http://127.0.0.1:8081/abcnewsnow.php
+http://127.0.0.1:8081/youtube,php?v=-mvUkiILTqI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",美国abc news
 http://127.0.0.1:8081/abcnewsgo.php
-#EXTINF:-1 tvg-id="100496" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="youtube world news",美国ABC NEWS
-http://127.0.0.1:8081/abcnews.php
+
 
 #EXTINF:-1 tvg-id="100496" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="youtube world news",美国ABC NEWS
 http://127.0.0.1:8081/abcnewsapp.php
@@ -5532,40 +5519,25 @@ http://127.0.0.1:8081/shanghai.php?id=shics
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",清华大学
 http://127.0.0.1:8081/qinghuatv.php
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://127.0.0.1:8081/btimeapp?id=bjws
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实科教
-http://127.0.0.1:8081/btimeapp?id=bjjskj
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://127.0.0.1:8081/btimeapp?id=bjys
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://127.0.0.1:8081/btimeapp?id=bjcj
-#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="" group-title="地方",卡酷卡通
-http://127.0.0.1:8081/btimeapp?id=bjwy
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://127.0.0.1:8081/btimeapp?id=bjsh
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://127.0.0.1:8081/btimeapp?id=bjxw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
-http://127.0.0.1:8081/btimeapp?id=brtv8k
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://127.0.0.1:8081/beijingtime?id=bjws
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实科教
-http://127.0.0.1:8081/beijingtime?id=bjjskj
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://127.0.0.1:8081/beijingtime?id=bjys
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://127.0.0.1:8081/beijingtime?id=bjcj
-#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="" group-title="地方",卡酷卡通
-http://127.0.0.1:8081/beijingtime?id=bjwy
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://127.0.0.1:8081/beijingtime?id=bjsh
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://127.0.0.1:8081/beijingtime?id=bjxw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
-http://127.0.0.1:8081/beijingtime?id=brtv8k
 
 
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
+http://127.0.0.1:8081/btv8k.php?id=bjws
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实科教
+http://127.0.0.1:8081/btv8k.php?id=bjjskj
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
+http://127.0.0.1:8081/btv8k.php?id=bjys
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
+http://127.0.0.1:8081/btv8k.php?id=bjcj
+#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="" group-title="地方",卡酷卡通
+http://127.0.0.1:8081/btv8k.php?id=bjwy
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
+http://127.0.0.1:8081/btv8k.php?id=bjsh
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
+http://127.0.0.1:8081/btv8k.php?id=bjxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
+http://127.0.0.1:8081/btv8k.php?id=brtv8k
 
 
 
@@ -5581,7 +5553,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png" group-title="地方",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江科教" tvg-name="浙江科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png" group-title="地方",浙江科教
+#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png" group-title="地方",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png" group-title="地方",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -5597,7 +5569,7 @@ http://127.0.0.1:8081/zhejiang.php?id=zjws
 http://127.0.0.1:8081/zhejiang.php?id=zjjjsh
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="" group-title="地方",浙江钱江都市
 http://127.0.0.1:8081/zhejiang.php?id=zjqj
-#EXTINF:-1 tvg-id="浙江科教" tvg-name="浙江科教" tvg-logo="" group-title="地方",浙江科教
+#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江科教" tvg-logo="" group-title="地方",浙江科教
 http://127.0.0.1:8081/zhejiang.php?id=zjjkys
 
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="" group-title="地方",浙江民生
@@ -5636,13 +5608,27 @@ http://127.0.0.1:8081/fujian.php?id=9
 http://127.0.0.1:8081/fujian.php?id=10
 #EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-logo="" group-title="地方",福建新闻
 http://127.0.0.1:8081/fujian.php?id=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门1
+http://127.0.0.1:8081/hoge.php?id=xmtv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门2
+http://127.0.0.1:8081/hoge.php?id=xmtv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门移动
+http://127.0.0.1:8081/hoge.php?id=xmyd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州影视
+http://live.zohi.tv/video/s10001-fztv-2/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="100679" tvg-name="" tvg-logo="" group-title="地方",泉州综合
 http://127.0.0.1:8081/fjqz.php?id=news
 #EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",泉州闽南语
 http://127.0.0.1:8081/fjqz.php?id=mny
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州综合
@@ -5657,6 +5643,7 @@ http://127.0.0.1:8081/guangzhou.php?id=4
 http://127.0.0.1:8081/guangzhou.php?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州南国都市4K
 http://127.0.0.1:8081/guangzhou.php?id=6
+
 
 
 
