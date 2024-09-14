@@ -2,6 +2,9 @@
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="800063" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="央视频",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="800062" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视频",中国教育电视台-1
@@ -3713,7 +3716,10 @@ http://192.168.10.250/nhkworld.php
 http://192.168.10.250/nhk.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube
 http://192.168.10.250/skynewsweb.php
-
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube
+http://192.168.10.250/skynews.php?id=1
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube 
+http://192.168.10.250/skynews.php?id=2
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
 http://192.168.10.250/skynewsweblive.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
@@ -3734,7 +3740,18 @@ http://192.168.10.250/wion.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnn18
 http://192.168.10.250/cnn18.php
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",foxnbusiness
+http://192.168.10.250/foxbusiness.php?id=1
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="youtube world news",CNN International
+http://192.168.10.250/cnn2.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cbc
+http://192.168.10.250/cbc.php?id=1
+#EXTINF:-1 tvg-id="CNBC Asia Channel" tvg-name="CNBC Asia Channel" tvg-logo="" group-title="youtube world news",CNBC Asia Channel
+http://192.168.10.250/cnbc.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",mscbn
+http://192.168.10.250/mscbn.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",hln
+http://192.168.10.250/hln.php?id=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",foxnews5cleveland
 http://192.168.10.250/foxnews5cleveland.php 
@@ -3881,13 +3898,12 @@ http://192.168.10.250/cbn.php?id=5721815535001
 http://192.168.10.250/cbn.php?id=5721888200001   
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cbn spain
 http://192.168.10.250/cbn.php?id=5721890224001   
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",美国abc news now youtube
-http://192.168.10.250/youtube,php?v=-mvUkiILTqI
+http://192.168.10.250/abcnewsnow.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",美国abc news
 http://192.168.10.250/abcnewsgo.php
-
+#EXTINF:-1 tvg-id="100496" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="youtube world news",美国ABC NEWS
+http://192.168.10.250/abcnews.php
 
 #EXTINF:-1 tvg-id="100496" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="youtube world news",美国ABC NEWS
 http://192.168.10.250/abcnewsapp.php
@@ -4231,8 +4247,7 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
 
 
-#EXTINF:-1 tvg-id="香港電台33" tvg-name="香港電台33" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",香港電台33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="中央電視台綜合頻道-(港澳版)" tvg-name="中央電視台綜合頻道-(港澳版)" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",中央電視台綜合頻道-(港澳版)https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-id="cgtn" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="香港",cgtn
@@ -5523,22 +5538,37 @@ http://192.168.10.250/qinghuatv.php
 
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
-http://192.168.10.250/btv8k.php?id=bjws
+http://192.168.10.250/btimeapp?id=bjws
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实科教
-http://192.168.10.250/btv8k.php?id=bjjskj
+http://192.168.10.250/btimeapp?id=bjjskj
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
-http://192.168.10.250/btv8k.php?id=bjys
+http://192.168.10.250/btimeapp?id=bjys
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
-http://192.168.10.250/btv8k.php?id=bjcj
+http://192.168.10.250/btimeapp?id=bjcj
 #EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="" group-title="地方",卡酷卡通
-http://192.168.10.250/btv8k.php?id=bjwy
+http://192.168.10.250/btimeapp?id=bjwy
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
-http://192.168.10.250/btv8k.php?id=bjsh
+http://192.168.10.250/btimeapp?id=bjsh
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
-http://192.168.10.250/btv8k.php?id=bjxw
+http://192.168.10.250/btimeapp?id=bjxw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
-http://192.168.10.250/btv8k.php?id=brtv8k
-
+http://192.168.10.250/btimeapp?id=brtv8k
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
+http://192.168.10.250/beijingtime?id=bjws
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实科教
+http://192.168.10.250/beijingtime?id=bjjskj
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="地方",北京影视
+http://192.168.10.250/beijingtime?id=bjys
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
+http://192.168.10.250/beijingtime?id=bjcj
+#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="" group-title="地方",卡酷卡通
+http://192.168.10.250/beijingtime?id=bjwy
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
+http://192.168.10.250/beijingtime?id=bjsh
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
+http://192.168.10.250/beijingtime?id=bjxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
+http://192.168.10.250/beijingtime?id=brtv8k
 
 
 
@@ -5553,7 +5583,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png" group-title="地方",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png" group-title="地方",浙江教科
+#EXTINF:-1 tvg-id="浙江科教" tvg-name="浙江科教"  tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png" group-title="地方",浙江科教
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png" group-title="地方",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -5590,23 +5620,23 @@ http://192.168.10.250/zhejiang.php?id=zjzjjl
 
 #EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="" group-title="地方",福建少儿
 http://192.168.10.250/fujian.php?id=2
-#EXTINF:-1 tvg-id="100657" tvg-name="海峡卫视" tvg-logo="" group-title="地方",海峡卫视
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="地方",海峡卫视
 http://192.168.10.250/fujian.php?id=3
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="" group-title="地方",福建综合
 http://192.168.10.250/fujian.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="" group-title="地方",东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="地方",东南卫视
 http://192.168.10.250/fujian.php?id=5
 #EXTINF:-1 tvg-id="福建公共" tvg-name="福建公共" tvg-logo="" group-title="地方",福建公共
 http://192.168.10.250/fujian.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="福建电视剧" tvg-logo="" group-title="地方",福建电视剧
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="" group-title="地方",福建电视剧
 http://192.168.10.250/fujian.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="福建旅游" tvg-logo="" group-title="地方",福建旅游
+#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="" group-title="地方",福建旅游
 http://192.168.10.250/fujian.php?id=8
-#EXTINF:-1 tvg-id="" tvg-name="福建经济" tvg-logo="" group-title="地方",福建经济
+#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="" group-title="地方",福建经济
 http://192.168.10.250/fujian.php?id=9
-#EXTINF:-1 tvg-id="" tvg-name="福建体育" tvg-logo="" group-title="地方",福建体育
+#EXTINF:-1 tvg-id="福建体育" tvg-name="福建体育" tvg-logo="" group-title="地方",福建体育
 http://192.168.10.250/fujian.php?id=10
-#EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-logo="" group-title="地方",福建新闻
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="" group-title="地方",福建新闻
 http://192.168.10.250/fujian.php?id=13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门1
 http://192.168.10.250/hoge.php?id=xmtv1
@@ -5615,16 +5645,15 @@ http://192.168.10.250/hoge.php?id=xmtv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门移动
 http://192.168.10.250/hoge.php?id=xmyd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州综合
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-
+https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州影视
-http://live.zohi.tv/video/s10001-fztv-2/index.m3u8
+https://live.zohi.tv/video/s10001-fztv-2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州生活
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="100679" tvg-name="" tvg-logo="" group-title="地方",泉州综合
 http://192.168.10.250/fjqz.php?id=news
 #EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",泉州闽南语
@@ -5643,6 +5672,7 @@ http://192.168.10.250/guangzhou.php?id=4
 http://192.168.10.250/guangzhou.php?id=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州南国都市4K
 http://192.168.10.250/guangzhou.php?id=6
+
 
 
 
@@ -5999,7 +6029,6 @@ http://192.168.10.250/wuhanapp.php?id=9
 http://192.168.10.250/wuhanapp.php?id=2
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WETV.png" tvg-id="1795" tvg-name="武汉教育电视台" group-title="地方",武汉教育
 http://192.168.10.250/wuhanapp.php?id=16
-
 
 
 
