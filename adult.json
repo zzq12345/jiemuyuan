@@ -57,6 +57,24 @@
                 "分类url": "https://ptt.red/p/{cateId}?page={catePg}"
             }
         },
+
+	  {
+		"key": "蛙视频",
+            "name": "💕蛙视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+	    "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "主页url": "https://www.wvod.tv/",
+                "数组": "hl-col-lg-2\"&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "简介：&&</li>",
+                "分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"
+            }
+        },
 {
             "key": "JAVMMM25",
             "name": "JAVMMM25",
