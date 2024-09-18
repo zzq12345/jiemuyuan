@@ -1,0 +1,66 @@
+name: EPG
+
+on:
+  schedule:
+    - cron: '10 16,22,4,10 * * *'  # 从UTC时间16:10（北京时间0:10）开始，每6小时执行一次
+    - cron: '0 17 * * *'  # 每天UTC时间17:00执行（北京时间1:00）
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Define file list and download URLs
+        run: |
+          files=(
+            "epg.xml https://assets.livednow.com/epg.xml"
+            "112114.xml https://epg.112114.xyz/pp.xml"
+            "112114.xml.gz https://epg.112114.xyz/pp.xml.gz"
+            "51zmt.xml http://epg.51zmt.top:8000/e.xml"
+            "epg4gtv2.xml http://zzqwe.giize.com:12228/epg4gtv2.xml"
+            "epgshanghai.xml http://zzqwe.giize.com:12228/epgshanghai.xml",
+            "epgmytvsuper.xml http://zzqwe.giize.com:12228/epgmytvsuper.xml"
+            "epganywhere.xml http://zzqwe.giize.com:12228/epganywhere.xml"
+            "51zmt.xml.gz http://epg.51zmt.top:8000/e.xml.gz"
+            "epgpw_cn.xml https://epg.pw/xmltv/epg_CN.xml"
+            "epgpw_cn.xml.gz https://epg.pw/xmltv/epg_CN.xml.gz"
+          )
+
+          for file in "${files[@]}"; do
+            filename=$(echo $file | cut -d ' ' -f 1)
+            url=$(echo $file | cut -d ' ' -f 2)
+            echo "Downloading $filename from $url"
+            wget -O "$filename" "$url" || echo "$filename 下载失败，跳过"
+          done
+          
+          # 将文件名列表写入 GITHUB_ENV，供后续步骤使用
+          for file in "${files[@]}"; do
+            filename=$(echo $file | cut -d ' ' -f 1)
+            echo "FILENAME_$filename=$filename" >> $GITHUB_ENV
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          files_to_add=""
+          for var in $(env | grep 'FILENAME_' | cut -d '=' -f 2); do
+            if [ -f "$var" ]; then
+              files_to_add="$files_to_add $var"
+            fi
+          done
+          
+          if [ -n "$files_to_add" ]; then
+            git add $files_to_add
+            now_time=$(date -u -d '+8 hour' '+%Y-%m-%d %H:%M:%S')
+            git commit -m "更新时间：$now_time"
+            git push origin main
+          else
+            echo "没有文件可提交"
+          fi
+          
