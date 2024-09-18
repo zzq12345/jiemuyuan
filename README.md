@@ -21,7 +21,7 @@
 具体电视台名称参见 https://raw.githubusercontent.com/zzq12345/myepg/main/epg电视台目录.txt 主要是填写 tvg-id="电视台名称" tvg-name="电视台名称"
 
 具体格式 
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/112114.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epg112114.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://raw.githubusercontent.com/zzq12345/myepg/main/112114.xml://epg.51/tb1/CCTV/CCTV1.png" group-title="黑龙江移动",CCTV-1 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
