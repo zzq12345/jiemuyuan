@@ -18,14 +18,14 @@ jobs:
         run: |
           files=(
             "epg.xml https://assets.livednow.com/epg.xml"
-            "112114.xml https://epg.112114.xyz/pp.xml"
-            "112114.xml.gz https://epg.112114.xyz/pp.xml.gz"
-            "51zmt.xml http://epg.51zmt.top:8000/e.xml"
+            "epg112114.xml https://epg.112114.xyz/pp.xml"
+            "epg112114.xml.gz https://epg.112114.xyz/pp.xml.gz"
+            "epg51zmt.xml http://epg.51zmt.top:8000/e.xml"
             "epg4gtv2.xml http://zzqwe.giize.com:12228/epg4gtv2.xml"
             "epgshanghai.xml http://zzqwe.giize.com:12228/epgshanghai.xml",
             "epgmytvsuper.xml http://zzqwe.giize.com:12228/epgmytvsuper.xml"
             "epganywhere.xml http://zzqwe.giize.com:12228/epganywhere.xml"
-            "51zmt.xml.gz http://epg.51zmt.top:8000/e.xml.gz"
+            "epg51zmt.xml.gz http://epg.51zmt.top:8000/e.xml.gz"
             "epgpw_cn.xml https://epg.pw/xmltv/epg_CN.xml"
             "epgpw_cn.xml.gz https://epg.pw/xmltv/epg_CN.xml.gz"
           )
