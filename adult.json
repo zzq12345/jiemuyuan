@@ -22,7 +22,26 @@
     }
 	  
   ],
-  "sites": [        
+  "sites": [       
+{
+            "key": "微密猫",
+            "name": "🔞微密猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+	    "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "主页url": "https://maobao.vip/",
+                "首页": "无圣光视频$wushebgguang/无圣光视频",
+                "数组": "\"post grid\"&&\"post grid\"",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://maobao.vip/mid/{cateId}/page/{catePg};;z",
+                "分类": "无圣光视频$wushebgguang/无圣光视频#微密视频$weme/wmsp#森甜视频$stxl/stsp#网红视频$whxl/whsp"
+            }
+        },
+	  
 {
             "key": "PPT",
             "name": "❤️‍🔥〔PPT丨XP™〕",
