@@ -1660,8 +1660,8 @@
                         },
 			
 		{
-                     "name":"临时测试",
-                     "url":"./lib/DS_IP.m3u",
+                     "name":"临时测试ip6",
+                     "url":"https://raw.githubusercontent.com/Potato-66/SimpleTV/main/m3u/ipv6/IPTV.m3u",
 		     "playerType": 2,
                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
