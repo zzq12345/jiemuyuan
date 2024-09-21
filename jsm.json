@@ -92,35 +92,8 @@
             "filterable":0,
             "changeable":0
         },
-        {
-		"key": "py_emby", 
-		"name": "🍏 MisakaF┃Emby",
-		"type": 3,
-		"api": "./py/py_emby.py",
-		###"api":"./py/py_emby_new2.py", 
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": {
-			"server": "https://emby2.misakaf.org:443",
-			"username":"schfnrj",
-			"password":"a1995557",
-			"thread": 0
-		},
-		"changeable": 1
-	},
-         {
-      "key": "卧龙",
-      "name": "🦄卧龙┃资源",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "api": "http://wolongzyw.com/api.php/provide/vod/?ac=list",
-      "jar": "./spider.jar",
-      "playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url="
-    },
-		
+        
+      
 		
 		
 	
@@ -129,18 +102,6 @@
 	
      
         
-        {
-            "key": "php2_hmezy",
-            "name": "🤪 黑木耳(T4_PHP)",
-            "type": 4,
-            "api": "https://t4.doube.eu.org/heimuer.php",
-            "jar":"https://t4.doube.eu.org/spider.jar",
-
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0,
-            "changeable":0
-        },
         
 
       
