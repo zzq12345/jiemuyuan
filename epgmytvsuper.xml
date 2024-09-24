@@ -64464,6 +64464,122 @@
 <channel id="安徽综艺体育"><display-name lang="zh">安徽综艺体育</display-name></channel>
 <channel id="安徽人物"><display-name lang="zh">安徽人物</display-name></channel>
 <channel id="安徽国际"><display-name lang="zh">安徽国际</display-name></channel>
+<programme start="20240925000000 +0800" stop="20240925001600 +0800" channel="安徽卫视">
+<title lang="zh">旅游风景区天气预报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925001600 +0800" stop="20240925011000 +0800" channel="安徽卫视">
+<title lang="zh">跳进地理书的旅行第一季</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925011000 +0800" stop="20240925020000 +0800" channel="安徽卫视">
+<title lang="zh">雄风剧场 冰雪尖刀连</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925020000 +0800" stop="20240925025000 +0800" channel="安徽卫视">
+<title lang="zh">雄风剧场 冰雪尖刀连</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925025000 +0800" stop="20240925043000 +0800" channel="安徽卫视">
+<title lang="zh">2023男生女生向前冲</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925043000 +0800" stop="20240925050600 +0800" channel="安徽卫视">
+<title lang="zh">健康大问诊重播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925050600 +0800" stop="20240925053000 +0800" channel="安徽卫视">
+<title lang="zh">每日新闻报（重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925053000 +0800" stop="20240925063000 +0800" channel="安徽卫视">
+<title lang="zh">超级新闻场（重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925063000 +0800" stop="20240925073000 +0800" channel="安徽卫视">
+<title lang="zh">超级新闻场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925073000 +0800" stop="20240925081500 +0800" channel="安徽卫视">
+<title lang="zh">安徽新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925081500 +0800" stop="20240925083000 +0800" channel="安徽卫视">
+<title lang="zh">美食每刻</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925083000 +0800" stop="20240925090000 +0800" channel="安徽卫视">
+<title lang="zh">动画剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925090000 +0800" stop="20240925100018 +0800" channel="安徽卫视">
+<title lang="zh">海豚万家剧场 叛逆者</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925100018 +0800" stop="20240925110046 +0800" channel="安徽卫视">
+<title lang="zh">海豚万家剧场 叛逆者</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925110046 +0800" stop="20240925114500 +0800" channel="安徽卫视">
+<title lang="zh">海豚万家剧场 叛逆者</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925114500 +0800" stop="20240925134000 +0800" channel="安徽卫视">
+<title lang="zh">2024男生女生向前冲</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925134000 +0800" stop="20240925142000 +0800" channel="安徽卫视">
+<title lang="zh">美食每刻</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925142000 +0800" stop="20240925152000 +0800" channel="安徽卫视">
+<title lang="zh">海豚真情剧场 大宅门</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925152000 +0800" stop="20240925162000 +0800" channel="安徽卫视">
+<title lang="zh">海豚真情剧场 大宅门</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925162000 +0800" stop="20240925172000 +0800" channel="安徽卫视">
+<title lang="zh">海豚真情剧场 大宅门</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925172000 +0800" stop="20240925180000 +0800" channel="安徽卫视">
+<title lang="zh">海豚真情剧场 大宅门</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925180000 +0800" stop="20240925183000 +0800" channel="安徽卫视">
+<title lang="zh">每日新闻报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925183000 +0800" stop="20240925190000 +0800" channel="安徽卫视">
+<title lang="zh">安徽新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925190000 +0800" stop="20240925193300 +0800" channel="安徽卫视">
+<title lang="zh">新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925193300 +0800" stop="20240925202500 +0800" channel="安徽卫视">
+<title lang="zh">海豚第一剧场 冰雪尖刀连</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925202500 +0800" stop="20240925212000 +0800" channel="安徽卫视">
+<title lang="zh">海豚第一剧场 冰雪尖刀连</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925212000 +0800" stop="20240925220000 +0800" channel="安徽卫视">
+<title lang="zh">皖美工赋第二季</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925220000 +0800" stop="20240925224500 +0800" channel="安徽卫视">
+<title lang="zh">海豚经典剧场 非婚不可</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925224500 +0800" stop="20240925231500 +0800" channel="安徽卫视">
+<title lang="zh">新安夜空</title>
+<desc lang="zh"> </desc>
+</programme>
 <programme start="20240925053000 +0800" stop="20240925064700 +0800" channel="安徽经济">
 <title lang="zh">第一时间（重播）</title>
 <desc lang="zh"> </desc>
