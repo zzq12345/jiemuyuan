@@ -16231,6 +16231,7 @@
 <channel id="EGG"><display-name lang="zh">EGG</display-name></channel>
 <channel id="meWATCH LIVE 1"><display-name lang="zh">meWATCH LIVE 1</display-name></channel>
 <channel id="meWATCH LIVE 2"><display-name lang="zh">meWATCH LIVE 2</display-name></channel>
+<channel id="meWATCH LIVE 5"><display-name lang="zh">meWATCH LIVE 5</display-name></channel>
 <channel id="oktolidays"><display-name lang="zh">oktolidays</display-name></channel>
 <channel id="NOW 80s"><display-name lang="zh">NOW 80s</display-name></channel>
 <channel id="NOW 70s"><display-name lang="zh">NOW 70s</display-name></channel>
@@ -18648,6 +18649,30 @@
 <title lang="zh">No programme available now. Next broadcast on 27nd September, Friday 8.15am. CLASS 95 Muttons In The Morning</title>
 <desc lang="zh">LIVE 2 will commence broadcast of CLASS 95 Muttons In The Morning on 27nd September, Friday 8.15am. Please stay tuned!</desc>
 </programme>
+<programme start="20240923160000 +0000" stop="20240924160000 +0000" channel="meWATCH LIVE 5">
+<title lang="zh">No Programme available now. Next Broadcast on 2nd October, Wednesday 7.50pm. AFC Champions League Two 2024/25: Lee Man HKG vs Lee Man HKG</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924160000 +0000" stop="20240925160000 +0000" channel="meWATCH LIVE 5">
+<title lang="zh">No Programme available now. Next Broadcast on 2nd October, Wednesday 7.50pm. AFC Champions League Two 2024/25: Lee Man HKG vs Lee Man HKG</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924160000 +0000" stop="20240925160000 +0000" channel="meWATCH LIVE 5">
+<title lang="zh">No Programme available now. Next Broadcast on 2nd October, Wednesday 7.50pm. AFC Champions League Two 2024/25: Lee Man HKG vs Lee Man HKG</title>
+<desc lang="zh">LIVE 5 will commence broadcast of the AFC Champions League Two 2024/25: Lee Man (HKG) vs Lee Man (HKG) on 2nd October, Wednesday 7.50pm. Please stay tuned!</desc>
+</programme>
+<programme start="20240925160000 +0000" stop="20240926160000 +0000" channel="meWATCH LIVE 5">
+<title lang="zh">No Programme available now. Next Broadcast on 2nd October, Wednesday 7.50pm. AFC Champions League Two 2024/25: Lee Man HKG vs Lee Man HKG</title>
+<desc lang="zh">LIVE 5 will commence broadcast of the AFC Champions League Two 2024/25: Lee Man (HKG) vs Lee Man (HKG) on 2nd October, Wednesday 7.50pm. Please stay tuned!</desc>
+</programme>
+<programme start="20240925160000 +0000" stop="20240926160000 +0000" channel="meWATCH LIVE 5">
+<title lang="zh">No Programme available now. Next Broadcast on 2nd October, Wednesday 7.50pm. AFC Champions League Two 2024/25: Lee Man HKG vs Lee Man HKG</title>
+<desc lang="zh">LIVE 5 will commence broadcast of the AFC Champions League Two 2024/25: Lee Man (HKG) vs Lee Man (HKG) on 2nd October, Wednesday 7.50pm. Please stay tuned!</desc>
+</programme>
+<programme start="20240926160000 +0000" stop="20240927160000 +0000" channel="meWATCH LIVE 5">
+<title lang="zh">No Programme available now. Next Broadcast on 2nd October, Wednesday 7.50pm. AFC Champions League Two 2024/25: Lee Man HKG vs Lee Man HKG</title>
+<desc lang="zh">LIVE 5 will commence broadcast of the AFC Champions League Two 2024/25: Lee Man (HKG) vs Lee Man (HKG) on 2nd October, Wednesday 7.50pm. Please stay tuned!</desc>
+</programme>
 <programme start="20240923150022 +0000" stop="20240923160025 +0000" channel="oktolidays">
 <title lang="zh">无敌啦啦队/Syber Surfer Sam/Geng GajetThe Cheer Team</title>
 <desc lang="zh"></desc>
@@ -18952,85 +18977,89 @@
 <title lang="zh">Monday Night At The Movies!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923200000 +0000" stop="20240923210000 +0000" channel="NOW 80s">
-<title lang="zh">80s - To The Max!</title>
+<programme start="20240923161000 +0000" stop="20240923170000 +0000" channel="NOW 80s">
+<title lang="zh">Best Played At 45 Rpm!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923210000 +0000" stop="20240923220000 +0000" channel="NOW 80s">
-<title lang="zh">80s Hit After 80s Hit!</title>
+<programme start="20240923170000 +0000" stop="20240923193400 +0000" channel="NOW 80s">
+<title lang="zh">Timmy Mallett's Brilliant Bands!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923220000 +0000" stop="20240923230000 +0000" channel="NOW 80s">
-<title lang="zh">Wake Me Up Before You Go Go!</title>
+<programme start="20240923193400 +0000" stop="20240923200000 +0000" channel="NOW 80s">
+<title lang="zh">Best Played At 45 Rpm!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923230000 +0000" stop="20240924030000 +0000" channel="NOW 80s">
+<programme start="20240923200000 +0000" stop="20240923220000 +0000" channel="NOW 80s">
+<title lang="zh">Alternative 80s! With Wayne Hussey</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240923220000 +0000" stop="20240924000000 +0000" channel="NOW 80s">
+<title lang="zh">80s Stars - Then &amp; Now!</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924000000 +0000" stop="20240924030000 +0000" channel="NOW 80s">
+<title lang="zh">80s Stars - But Who Is The Oldest?</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924030000 +0000" stop="20240924050000 +0000" channel="NOW 80s">
+<title lang="zh">Love At The Movies! With Pat Sharp</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924050000 +0000" stop="20240924144000 +0000" channel="NOW 80s">
+<title lang="zh">Bruno's Forgotten Hits 1980-1989</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924144000 +0000" stop="20240924150000 +0000" channel="NOW 80s">
 <title lang="zh">Only The Biggest 80s Anthems!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924030000 +0000" stop="20240924040000 +0000" channel="NOW 80s">
-<title lang="zh">The 80s (What A Feeling!)</title>
+<programme start="20240924150000 +0000" stop="20240924160000 +0000" channel="NOW 80s">
+<title lang="zh">The 1989 Power Hour!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924040000 +0000" stop="20240924090000 +0000" channel="NOW 80s">
+<programme start="20240924160000 +0000" stop="20240924170000 +0000" channel="NOW 80s">
+<title lang="zh">Way Back When! 1989</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924160000 +0000" stop="20240924170000 +0000" channel="NOW 80s">
+<title lang="zh">Way Back When! 1989</title>
+<desc lang="zh">60 minutes of lesser heard hits from 1989. Including Jimmy Somerville, Roy Orbison, Debbie Gibson, Halo James &amp; Shakespear's Sister.</desc>
+</programme>
+<programme start="20240924170000 +0000" stop="20240924204000 +0000" channel="NOW 80s">
+<title lang="zh">Bruno's Forgotten Hits 1980-1989</title>
+<desc lang="zh">120 videos, In order, a forgotten hit from each &amp; every month of the 80s. Radio 1 legend Bruno Brookes is the man with the 10 hour musical plan!</desc>
+</programme>
+<programme start="20240924204000 +0000" stop="20240924210000 +0000" channel="NOW 80s">
 <title lang="zh">Only The Biggest 80s Anthems!</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20240924090000 +0000" stop="20240924100000 +0000" channel="NOW 80s">
-<title lang="zh">Bring Out The 80s!</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20240924100000 +0000" stop="20240924150000 +0000" channel="NOW 80s">
-<title lang="zh">80s Hit After 80s Hit!</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20240924150000 +0000" stop="20240924200000 +0000" channel="NOW 80s">
-<title lang="zh">Every Song A Number 1!</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20240924150000 +0000" stop="20240924200000 +0000" channel="NOW 80s">
-<title lang="zh">Every Song A Number 1!</title>
-<desc lang="zh">A choice selection of the 191 singles that reached the top of the UK charts in the 1980s!</desc>
-</programme>
-<programme start="20240924200000 +0000" stop="20240924210000 +0000" channel="NOW 80s">
-<title lang="zh">80s - To The Max!</title>
-<desc lang="zh">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
+<desc lang="zh">All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
 </programme>
 <programme start="20240924210000 +0000" stop="20240924220000 +0000" channel="NOW 80s">
-<title lang="zh">80s Hit After 80s Hit!</title>
-<desc lang="zh">Your 80s channel - 24/7!</desc>
+<title lang="zh">The 1989 Power Hour!</title>
+<desc lang="zh">Non-stop music power from the end of the decade! Earplugs at the ready as we rewind to 1989 with Then Jericho, Transvision Vamp, Roxette &amp; Bon Jovi.</desc>
 </programme>
-<programme start="20240924220000 +0000" stop="20240924230000 +0000" channel="NOW 80s">
-<title lang="zh">Wake Me Up Before You Go Go!</title>
-<desc lang="zh">Your eighties party channel - 24/7. Expect synth pop, soft rock, leg warmers, lycra and lots of big hair! Classic pop that has stood the test of time.</desc>
+<programme start="20240924220000 +0000" stop="20240925081000 +0000" channel="NOW 80s">
+<title lang="zh">Who Won Wot? 1980-1989</title>
+<desc lang="zh">From Smash Hits "Most Unwanted Person of 1980" to the Brits "Best Group" of 1989 - Mark Goodier's 10 hour marathon of 80s award winners lasts nearly as long as the Oscars!</desc>
 </programme>
-<programme start="20240924230000 +0000" stop="20240925030000 +0000" channel="NOW 80s">
-<title lang="zh">Only The Biggest 80s Anthems!</title>
-<desc lang="zh">All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
+<programme start="20240925081000 +0000" stop="20240925090000 +0000" channel="NOW 80s">
+<title lang="zh">1987 Unleashed!</title>
+<desc lang="zh">Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1987!</desc>
 </programme>
-<programme start="20240925030000 +0000" stop="20240925040000 +0000" channel="NOW 80s">
-<title lang="zh">The 80s (What A Feeling!)</title>
-<desc lang="zh">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
+<programme start="20240925090000 +0000" stop="20240925120000 +0000" channel="NOW 80s">
+<title lang="zh">The Now Yearbook 1987</title>
+<desc lang="zh">Jenny Powell flicks through the pages of another Yearbook. 1987 had 'No Limits' on the TV &amp; Stock, Aitken &amp; Waterman cranking an endless stream of massive, catchy hits!</desc>
 </programme>
-<programme start="20240925040000 +0000" stop="20240925090000 +0000" channel="NOW 80s">
-<title lang="zh">Only The Biggest 80s Anthems!</title>
-<desc lang="zh">All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
+<programme start="20240925120000 +0000" stop="20240925143500 +0000" channel="NOW 80s">
+<title lang="zh">Toyah's Sack The Stylist?! Top 30</title>
+<desc lang="zh">Pop legend Toyah brings 30 memorable videos featuring a cavalcade of clothing calamities from superstars including Bowie, Madonna, Adam Ant, and many more on this crazy countdown!</desc>
 </programme>
-<programme start="20240925090000 +0000" stop="20240925100000 +0000" channel="NOW 80s">
-<title lang="zh">Bring Out The 80s!</title>
-<desc lang="zh">Non-stop 80s -24/7. With synth pop, soft rock, leg warmers, lycra and big hair! Classic pop that has stood the test of time.</desc>
+<programme start="20240925143500 +0000" stop="20240925200000 +0000" channel="NOW 80s">
+<title lang="zh">Best Played At 45 Rpm!</title>
+<desc lang="zh">Before the CD, the perfect pop songs were spun by singers &amp; bands on 7 inch vinyl. From 1980-1984 these were the classic UK hits that invaded the world!</desc>
 </programme>
-<programme start="20240925100000 +0000" stop="20240925150000 +0000" channel="NOW 80s">
-<title lang="zh">80s Hit After 80s Hit!</title>
-<desc lang="zh">Your 80s channel - 24/7!</desc>
-</programme>
-<programme start="20240925150000 +0000" stop="20240925200000 +0000" channel="NOW 80s">
-<title lang="zh">80s Rock Anthems Night!</title>
-<desc lang="zh">Non-stop 80s rock &amp; power ballads - all night! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
-</programme>
-<programme start="20240925150000 +0000" stop="20240925200000 +0000" channel="NOW 80s">
-<title lang="zh">80s Rock Anthems Night!</title>
-<desc lang="zh">Non-stop 80s rock &amp; power ballads - all night! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
+<programme start="20240925143500 +0000" stop="20240925200000 +0000" channel="NOW 80s">
+<title lang="zh">Best Played At 45 Rpm!</title>
+<desc lang="zh">Before the CD, the perfect pop songs were spun by singers &amp; bands on 7 inch vinyl. From 1980-1984 these were the classic UK hits that invaded the world!</desc>
 </programme>
 <programme start="20240925200000 +0000" stop="20240925210000 +0000" channel="NOW 80s">
 <title lang="zh">80s - To The Max!</title>
@@ -19072,85 +19101,121 @@
 <title lang="zh">Monday Night At The Movies!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923200000 +0000" stop="20240923210000 +0000" channel="NOW 70s">
-<title lang="zh">80s - To The Max!</title>
+<programme start="20240923170000 +0000" stop="20240923171000 +0000" channel="NOW 70s">
+<title lang="zh">Tony Blackburn's 70s Soul!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923210000 +0000" stop="20240923220000 +0000" channel="NOW 70s">
-<title lang="zh">80s Hit After 80s Hit!</title>
+<programme start="20240923171000 +0000" stop="20240923180000 +0000" channel="NOW 70s">
+<title lang="zh">Sensational 70s!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923220000 +0000" stop="20240923230000 +0000" channel="NOW 70s">
-<title lang="zh">Wake Me Up Before You Go Go!</title>
+<programme start="20240923180000 +0000" stop="20240923200000 +0000" channel="NOW 70s">
+<title lang="zh">Essentials! 70s Crooners</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240923230000 +0000" stop="20240924030000 +0000" channel="NOW 70s">
-<title lang="zh">Only The Biggest 80s Anthems!</title>
+<programme start="20240923200000 +0000" stop="20240923220000 +0000" channel="NOW 70s">
+<title lang="zh">Essentials! 70s Rock Groups</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924030000 +0000" stop="20240924040000 +0000" channel="NOW 70s">
-<title lang="zh">The 80s (What A Feeling!)</title>
+<programme start="20240923220000 +0000" stop="20240924004500 +0000" channel="NOW 70s">
+<title lang="zh">Shake Your Groove Thing! Top 40</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924040000 +0000" stop="20240924090000 +0000" channel="NOW 70s">
-<title lang="zh">Only The Biggest 80s Anthems!</title>
+<programme start="20240924004500 +0000" stop="20240924020000 +0000" channel="NOW 70s">
+<title lang="zh">Boogie Wonderland!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924090000 +0000" stop="20240924100000 +0000" channel="NOW 70s">
-<title lang="zh">Bring Out The 80s!</title>
+<programme start="20240924020000 +0000" stop="20240924050000 +0000" channel="NOW 70s">
+<title lang="zh">Top Of The 70s Charts</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924100000 +0000" stop="20240924150000 +0000" channel="NOW 70s">
-<title lang="zh">80s Hit After 80s Hit!</title>
+<programme start="20240924050000 +0000" stop="20240924060000 +0000" channel="NOW 70s">
+<title lang="zh">Groovy Little Numbers!</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924150000 +0000" stop="20240924200000 +0000" channel="NOW 70s">
-<title lang="zh">Every Song A Number 1!</title>
+<programme start="20240924060000 +0000" stop="20240924141000 +0000" channel="NOW 70s">
+<title lang="zh">The Now 100 Of The 70s</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="20240924150000 +0000" stop="20240924200000 +0000" channel="NOW 70s">
-<title lang="zh">Every Song A Number 1!</title>
-<desc lang="zh">A choice selection of the 191 singles that reached the top of the UK charts in the 1980s!</desc>
+<programme start="20240924141000 +0000" stop="20240924150000 +0000" channel="NOW 70s">
+<title lang="zh">Groovy Little Numbers!</title>
+<desc lang="zh"></desc>
 </programme>
-<programme start="20240924200000 +0000" stop="20240924210000 +0000" channel="NOW 70s">
-<title lang="zh">80s - To The Max!</title>
-<desc lang="zh">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
+<programme start="20240924150000 +0000" stop="20240924170000 +0000" channel="NOW 70s">
+<title lang="zh">Art School Cool! 1970-79</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="20240924150000 +0000" stop="20240924170000 +0000" channel="NOW 70s">
+<title lang="zh">Art School Cool! 1970-79</title>
+<desc lang="zh">Art-school innovators, cool mavericks and risk-taking heroes all combine in this heady two-hour mix of stars who often pushed music way beyond the confines of chart-based pop.</desc>
+</programme>
+<programme start="20240924170000 +0000" stop="20240924201000 +0000" channel="NOW 70s">
+<title lang="zh">The Now 100 Of The 70s</title>
+<desc lang="zh">Exclusive to NOW 70s, Mark Goodier brings this marathon 100 countdown of the decade's biggest acts, based on global record sales, live concert takings, and awards. So who's no.1?</desc>
+</programme>
+<programme start="20240924201000 +0000" stop="20240924210000 +0000" channel="NOW 70s">
+<title lang="zh">Groovy Little Numbers!</title>
+<desc lang="zh">Over-bearded men &amp; leftfield ladies - all with fabulous tunes! These are alternative hits from the west coast, the underground &amp; the counter culture of the 1970s.</desc>
 </programme>
 <programme start="20240924210000 +0000" stop="20240924220000 +0000" channel="NOW 70s">
-<title lang="zh">80s Hit After 80s Hit!</title>
-<desc lang="zh">Your 80s channel - 24/7!</desc>
+<title lang="zh">Art School Cool! 1970-79</title>
+<desc lang="zh">Art-school innovators, cool mavericks and risk-taking heroes all combine in this heady two-hour mix of stars who often pushed music way beyond the confines of chart-based pop.</desc>
 </programme>
-<programme start="20240924220000 +0000" stop="20240924230000 +0000" channel="NOW 70s">
-<title lang="zh">Wake Me Up Before You Go Go!</title>
-<desc lang="zh">Your eighties party channel - 24/7. Expect synth pop, soft rock, leg warmers, lycra and lots of big hair! Classic pop that has stood the test of time.</desc>
+<programme start="20240924220000 +0000" stop="20240925004000 +0000" channel="NOW 70s">
+<title lang="zh">70s School Disco! Top 40</title>
+<desc lang="zh">Dig out your flares or your ripped jeans - whatever turns you on! It's our ultimate 70s school disco countdown, whether you like a bit of punk or a slice of bubblegum pop.</desc>
 </programme>
-<programme start="20240924230000 +0000" stop="20240925030000 +0000" channel="NOW 70s">
-<title lang="zh">Only The Biggest 80s Anthems!</title>
-<desc lang="zh">All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
+<programme start="20240925004000 +0000" stop="20240925020000 +0000" channel="NOW 70s">
+<title lang="zh">1977 Unleashed!</title>
+<desc lang="zh">Classic hits from just 1 year - 1977!</desc>
 </programme>
-<programme start="20240925030000 +0000" stop="20240925040000 +0000" channel="NOW 70s">
-<title lang="zh">The 80s (What A Feeling!)</title>
-<desc lang="zh">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
+<programme start="20240925020000 +0000" stop="20240925040500 +0000" channel="NOW 70s">
+<title lang="zh">Party Hits '76! With Dave Bartram</title>
+<desc lang="zh">Every song comes from that vintage year when the sun shone all summer &amp; Dave's band Showaddywaddy had their big number 1. Queen, Leo Sayer, Abba &amp; Smokie also kept the hits coming.</desc>
 </programme>
-<programme start="20240925040000 +0000" stop="20240925090000 +0000" channel="NOW 70s">
-<title lang="zh">Only The Biggest 80s Anthems!</title>
-<desc lang="zh">All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
+<programme start="20240925040500 +0000" stop="20240925050000 +0000" channel="NOW 70s">
+<title lang="zh">1976 Unleashed!</title>
+<desc lang="zh">Classic hits from just 1 year - 1976!</desc>
 </programme>
-<programme start="20240925090000 +0000" stop="20240925100000 +0000" channel="NOW 70s">
-<title lang="zh">Bring Out The 80s!</title>
-<desc lang="zh">Non-stop 80s -24/7. With synth pop, soft rock, leg warmers, lycra and big hair! Classic pop that has stood the test of time.</desc>
+<programme start="20240925050000 +0000" stop="20240925060000 +0000" channel="NOW 70s">
+<title lang="zh">Mark Goodier's No.1s Of 1976</title>
+<desc lang="zh">60 minutes of back to back number 1s from 1976 - including 3 huge chart toppers from Abba! With Mr Charts himself - Mark Goodier.</desc>
 </programme>
-<programme start="20240925100000 +0000" stop="20240925150000 +0000" channel="NOW 70s">
-<title lang="zh">80s Hit After 80s Hit!</title>
-<desc lang="zh">Your 80s channel - 24/7!</desc>
+<programme start="20240925060000 +0000" stop="20240925083000 +0000" channel="NOW 70s">
+<title lang="zh">Time Machine! 1968 V 78 V 88</title>
+<desc lang="zh">Jumping back &amp; forth through the decades - 30 songs separated by 30 years. One from 68, followed by 78 then 88 and finally back to the beginning!</desc>
 </programme>
-<programme start="20240925150000 +0000" stop="20240925200000 +0000" channel="NOW 70s">
-<title lang="zh">80s Rock Anthems Night!</title>
-<desc lang="zh">Non-stop 80s rock &amp; power ballads - all night! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
+<programme start="20240925083000 +0000" stop="20240925090000 +0000" channel="NOW 70s">
+<title lang="zh">1978 Unleashed!</title>
+<desc lang="zh">Classic hits from just 1 year - 1978!</desc>
 </programme>
-<programme start="20240925150000 +0000" stop="20240925200000 +0000" channel="NOW 70s">
-<title lang="zh">80s Rock Anthems Night!</title>
-<desc lang="zh">Non-stop 80s rock &amp; power ballads - all night! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
+<programme start="20240925090000 +0000" stop="20240925112500 +0000" channel="NOW 70s">
+<title lang="zh">Time Machine! 1969 V 79 V 89</title>
+<desc lang="zh">Jumping back &amp; forth - 30 songs separated by 3 decades. One from 69, followed by 79 then 89 and finally back to the beginning!</desc>
+</programme>
+<programme start="20240925112500 +0000" stop="20240925120000 +0000" channel="NOW 70s">
+<title lang="zh">1979 Unleashed!</title>
+<desc lang="zh">Classic hits from just 1 year - 1979!</desc>
+</programme>
+<programme start="20240925120000 +0000" stop="20240925134500 +0000" channel="NOW 70s">
+<title lang="zh">Glen Matlock's Punk &amp; New Wave 25</title>
+<desc lang="zh">He's sung and played bass with many over the years, but fame came as one of the original Sex Pistols in 1976. Currently with Blondie, Glen picks his 25 punk &amp; new wave favourites.</desc>
+</programme>
+<programme start="20240925134500 +0000" stop="20240925140000 +0000" channel="NOW 70s">
+<title lang="zh">New Wave Anthems!</title>
+<desc lang="zh">Non-stop punk &amp; new wave the cool kids were listening to in the latter half of the decade - expect skinny jeans, safety pins, guitars &amp; a few snarls!</desc>
+</programme>
+<programme start="20240925140000 +0000" stop="20240925141900 +0000" channel="NOW 70s">
+<title lang="zh">The Sex Pistols 1976 - 1979</title>
+<desc lang="zh">After debut hit Anarchy In The UK, it was top 10 hits all the way for the UK's most infamous punk act!</desc>
+</programme>
+<programme start="20240925141900 +0000" stop="20240925200000 +0000" channel="NOW 70s">
+<title lang="zh">New Wave Anthems!</title>
+<desc lang="zh">Non-stop punk &amp; new wave the cool kids were listening to in the latter half of the decade - expect skinny jeans, safety pins, guitars &amp; a few snarls!</desc>
+</programme>
+<programme start="20240925141900 +0000" stop="20240925200000 +0000" channel="NOW 70s">
+<title lang="zh">New Wave Anthems!</title>
+<desc lang="zh">Non-stop punk &amp; new wave the cool kids were listening to in the latter half of the decade - expect skinny jeans, safety pins, guitars &amp; a few snarls!</desc>
 </programme>
 <programme start="20240925200000 +0000" stop="20240925210000 +0000" channel="NOW 70s">
 <title lang="zh">80s - To The Max!</title>
@@ -21713,6 +21778,250 @@
 </programme>
 <programme start="20240925101500 +0800" stop="20240925235959 +0800" channel="Hami MLB 台">
 <title lang="zh">每天一場美國職棒直播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924000000 +0800" stop="20240924000800 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0923【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924000800 +0800" stop="20240924003200 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924003200 +0800" stop="20240924005600 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924005600 +0800" stop="20240924012000 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924012000 +0800" stop="20240924014400 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924014400 +0800" stop="20240924020800 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924020800 +0800" stop="20240924023200 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924023200 +0800" stop="20240924025600 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924025600 +0800" stop="20240924032000 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924032000 +0800" stop="20240924034400 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924034400 +0800" stop="20240924040800 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924040800 +0800" stop="20240924043200 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924043200 +0800" stop="20240924045600 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924045600 +0800" stop="20240924052000 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924052000 +0800" stop="20240924054400 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924054400 +0800" stop="20240924060800 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924060800 +0800" stop="20240924063200 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924063200 +0800" stop="20240924065600 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924065600 +0800" stop="20240924072000 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924072000 +0800" stop="20240924074400 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924074400 +0800" stop="20240924080800 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924080800 +0800" stop="20240924083200 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924083200 +0800" stop="20240924085600 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924085600 +0800" stop="20240924091900 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924091900 +0800" stop="20240924094300 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924094300 +0800" stop="20240924100700 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924100700 +0800" stop="20240924103100 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924103100 +0800" stop="20240924105500 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924105500 +0800" stop="20240924111900 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924111900 +0800" stop="20240924114300 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924114300 +0800" stop="20240924120700 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120700 +0800" stop="20240924123100 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924123100 +0800" stop="20240924125500 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924125500 +0800" stop="20240924131900 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924131900 +0800" stop="20240924134300 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924134300 +0800" stop="20240924140700 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924140700 +0800" stop="20240924143100 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924143100 +0800" stop="20240924145500 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924145500 +0800" stop="20240924151900 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924151900 +0800" stop="20240924154300 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924154300 +0800" stop="20240924160700 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924160700 +0800" stop="20240924163100 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924163100 +0800" stop="20240924165500 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924165500 +0800" stop="20240924171900 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924171900 +0800" stop="20240924174300 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924174300 +0800" stop="20240924180700 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924180700 +0800" stop="20240924183100 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924183100 +0800" stop="20240924185400 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924185400 +0800" stop="20240924191800 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924191800 +0800" stop="20240924194200 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924194200 +0800" stop="20240924200600 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924200600 +0800" stop="20240924203000 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924203000 +0800" stop="20240924205400 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924205400 +0800" stop="20240924211800 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924211800 +0800" stop="20240924214200 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924214200 +0800" stop="20240924220600 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924220600 +0800" stop="20240924223000 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924223000 +0800" stop="20240924225400 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924225400 +0800" stop="20240924231800 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924231800 +0800" stop="20240924234200 +0800" channel="空中英語教室">
+<title lang="zh">大家說英語-0924【普】</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924234200 +0800" stop="20240924235959 +0800" channel="空中英語教室">
+<title lang="zh">空中英語教室-0924【普】</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925000000 +0800" stop="20240925000600 +0800" channel="空中英語教室">
@@ -65263,6 +65572,82 @@
 <title lang="zh">新安夜空</title>
 <desc lang="zh"> </desc>
 </programme>
+<programme start="20240924053000 +0800" stop="20240924064700 +0800" channel="安徽经济">
+<title lang="zh">第一时间（重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924064700 +0800" stop="20240924073000 +0800" channel="安徽经济">
+<title lang="zh">帮女郎 帮你忙 （重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924073000 +0800" stop="20240924081054 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：东四牌楼东</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924081054 +0800" stop="20240924084000 +0800" channel="安徽经济">
+<title lang="zh">健康行天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924084000 +0800" stop="20240924114000 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：东四牌楼东</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924114000 +0800" stop="20240924121500 +0800" channel="安徽经济">
+<title lang="zh">经视一时间（直播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924121500 +0800" stop="20240924130000 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：夜市人生</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924130000 +0800" stop="20240924162200 +0800" channel="安徽经济">
+<title lang="zh">生活剧场：夜市人生</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924162200 +0800" stop="20240924171020 +0800" channel="安徽经济">
+<title lang="zh">经视一时间</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924171020 +0800" stop="20240924173500 +0800" channel="安徽经济">
+<title lang="zh">健康行天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924173500 +0800" stop="20240924182000 +0800" channel="安徽经济">
+<title lang="zh">帮女郎 帮你忙（重播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924182000 +0800" stop="20240924194000 +0800" channel="安徽经济">
+<title lang="zh">第一时间（直播）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924194000 +0800" stop="20240924203000 +0800" channel="安徽经济">
+<title lang="zh">钻石剧场：南来北往  </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924203000 +0800" stop="20240924212400 +0800" channel="安徽经济">
+<title lang="zh">钻石剧场：南来北往  </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924212400 +0800" stop="20240924220000 +0800" channel="安徽经济">
+<title lang="zh">钻石剧场：南来北往  </title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924220000 +0800" stop="20240924222500 +0800" channel="安徽经济">
+<title lang="zh"> 医道健康</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924222500 +0800" stop="20240924230500 +0800" channel="安徽经济">
+<title lang="zh">帮女郎帮你忙</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230500 +0800" stop="20240924231000 +0800" channel="安徽经济">
+<title lang="zh">健康行天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924231000 +0800" stop="20240924234000 +0800" channel="安徽经济">
+<title lang="zh">真实纪录 </title>
+<desc lang="zh"> </desc>
+</programme>
 <programme start="20240924052100 +0800" stop="20240924062000 +0800" channel="安徽公共">
 <title lang="zh">夜线60分</title>
 <desc lang="zh"> </desc>
@@ -65988,6 +66373,1721 @@
 </programme>
 <programme start="20240924220000 +0800" stop="20240924234000 +0800" channel="厦门2">
 <title lang="zh">电视剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<channel id="河北卫视"><display-name lang="zh">河北卫视</display-name></channel>
+<channel id="河北经济"><display-name lang="zh">河北经济</display-name></channel>
+<channel id="河北农民"><display-name lang="zh">河北农民</display-name></channel>
+<channel id="河北都市"><display-name lang="zh">河北都市</display-name></channel>
+<channel id="河北影视剧"><display-name lang="zh">河北影视剧</display-name></channel>
+<channel id="河北少儿科教"><display-name lang="zh">河北少儿科教</display-name></channel>
+<channel id="河北公共"><display-name lang="zh">河北公共</display-name></channel>
+<programme start="20240924003000 +0800" stop="20240924012500 +0800" channel="河北卫视">
+<title lang="zh">电视剧:侦察英雄</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924012500 +0800" stop="20240924045000 +0800" channel="河北卫视">
+<title lang="zh">电视剧:莲花楼</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924045000 +0800" stop="20240924063000 +0800" channel="河北卫视">
+<title lang="zh">电视剧:大决战</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924063000 +0800" stop="20240924070000 +0800" channel="河北卫视">
+<title lang="zh">冀时全播报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924070000 +0800" stop="20240924070100 +0800" channel="河北卫视">
+<title lang="zh">中华人民共和国国歌</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924070100 +0800" stop="20240924073000 +0800" channel="河北卫视">
+<title lang="zh">冀时全播报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924073000 +0800" stop="20240924080500 +0800" channel="河北卫视">
+<title lang="zh">美丽河北慢直播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924080500 +0800" stop="20240924083500 +0800" channel="河北卫视">
+<title lang="zh">动画片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924083500 +0800" stop="20240924175500 +0800" channel="河北卫视">
+<title lang="zh">电视剧:康熙微服私访记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924175500 +0800" stop="20240924183000 +0800" channel="河北卫视">
+<title lang="zh">家政女皇</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924183000 +0800" stop="20240924185500 +0800" channel="河北卫视">
+<title lang="zh">河北新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924185500 +0800" stop="20240924190000 +0800" channel="河北卫视">
+<title lang="zh">天气预报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924194500 +0800" channel="河北卫视">
+<title lang="zh">中央台新闻</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924194500 +0800" stop="20240924212500 +0800" channel="河北卫视">
+<title lang="zh">电视剧:侦察英雄6-7</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924212500 +0800" stop="20240924221500 +0800" channel="河北卫视">
+<title lang="zh">开卷有益</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924221500 +0800" stop="20240924230000 +0800" channel="河北卫视">
+<title lang="zh">美丽新风尚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230000 +0800" stop="20240924233500 +0800" channel="河北卫视">
+<title lang="zh">你好京津冀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924233500 +0800" stop="20240924235959 +0800" channel="河北卫视">
+<title lang="zh">电视剧:雪豹</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924003000 +0800" stop="20240924012500 +0800" channel="河北卫视">
+<title lang="zh">电视剧:侦察英雄</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924012500 +0800" stop="20240924045000 +0800" channel="河北卫视">
+<title lang="zh">电视剧:莲花楼</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924045000 +0800" stop="20240924063000 +0800" channel="河北卫视">
+<title lang="zh">电视剧:大决战</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924063000 +0800" stop="20240924070000 +0800" channel="河北卫视">
+<title lang="zh">冀时全播报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924070000 +0800" stop="20240924070100 +0800" channel="河北卫视">
+<title lang="zh">中华人民共和国国歌</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924070100 +0800" stop="20240924073000 +0800" channel="河北卫视">
+<title lang="zh">冀时全播报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924073000 +0800" stop="20240924080500 +0800" channel="河北卫视">
+<title lang="zh">美丽河北慢直播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924080500 +0800" stop="20240924083500 +0800" channel="河北卫视">
+<title lang="zh">动画片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924083500 +0800" stop="20240924175500 +0800" channel="河北卫视">
+<title lang="zh">电视剧:康熙微服私访记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924175500 +0800" stop="20240924183000 +0800" channel="河北卫视">
+<title lang="zh">家政女皇</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924183000 +0800" stop="20240924185500 +0800" channel="河北卫视">
+<title lang="zh">河北新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924185500 +0800" stop="20240924190000 +0800" channel="河北卫视">
+<title lang="zh">天气预报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924194500 +0800" channel="河北卫视">
+<title lang="zh">中央台新闻</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924194500 +0800" stop="20240924212500 +0800" channel="河北卫视">
+<title lang="zh">电视剧:侦察英雄6-7</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924212500 +0800" stop="20240924221500 +0800" channel="河北卫视">
+<title lang="zh">开卷有益</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924221500 +0800" stop="20240924230000 +0800" channel="河北卫视">
+<title lang="zh">美丽新风尚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230000 +0800" stop="20240924233500 +0800" channel="河北卫视">
+<title lang="zh">你好京津冀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924233500 +0800" stop="20240924235959 +0800" channel="河北卫视">
+<title lang="zh">电视剧:雪豹</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925063000 +0800" stop="20240925070000 +0800" channel="河北卫视">
+<title lang="zh">冀时全播报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925070000 +0800" stop="20240925070100 +0800" channel="河北卫视">
+<title lang="zh">中华人民共和国国歌</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925070100 +0800" stop="20240925073000 +0800" channel="河北卫视">
+<title lang="zh">冀时全播报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925073000 +0800" stop="20240925080500 +0800" channel="河北卫视">
+<title lang="zh">美丽河北慢直播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925080500 +0800" stop="20240925083500 +0800" channel="河北卫视">
+<title lang="zh">动画片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925083500 +0800" stop="20240925175500 +0800" channel="河北卫视">
+<title lang="zh">电视剧:康熙微服私访记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925175500 +0800" stop="20240925183000 +0800" channel="河北卫视">
+<title lang="zh">家政女皇</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925183000 +0800" stop="20240925185500 +0800" channel="河北卫视">
+<title lang="zh">河北新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925185500 +0800" stop="20240925190000 +0800" channel="河北卫视">
+<title lang="zh">天气预报</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925190000 +0800" stop="20240925194000 +0800" channel="河北卫视">
+<title lang="zh">中央台新闻</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925194000 +0800" stop="20240925212000 +0800" channel="河北卫视">
+<title lang="zh">电视剧:侦察英雄8-9</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925212000 +0800" stop="20240925221000 +0800" channel="河北卫视">
+<title lang="zh">城市烟火</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925221000 +0800" stop="20240925230000 +0800" channel="河北卫视">
+<title lang="zh">美丽新风尚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925230000 +0800" stop="20240925233500 +0800" channel="河北卫视">
+<title lang="zh">你好京津冀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925233500 +0800" stop="20240925235959 +0800" channel="河北卫视">
+<title lang="zh">电视剧:雪豹</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924004000 +0800" stop="20240924011000 +0800" channel="河北经济">
+<title lang="zh">运河风味(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924011000 +0800" stop="20240924014000 +0800" channel="河北经济">
+<title lang="zh">今日财经(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924014000 +0800" stop="20240924052000 +0800" channel="河北经济">
+<title lang="zh">经典剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924052000 +0800" stop="20240924060000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924060000 +0800" stop="20240924063000 +0800" channel="河北经济">
+<title lang="zh">乡里相亲</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924063000 +0800" stop="20240924071000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924071000 +0800" stop="20240924080000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924080000 +0800" stop="20240924084000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924084000 +0800" stop="20240924093000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924093000 +0800" stop="20240924101000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924101000 +0800" stop="20240924105000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924105000 +0800" stop="20240924113000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924113000 +0800" stop="20240924122000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924122000 +0800" stop="20240924130000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924130000 +0800" stop="20240924135000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924135000 +0800" stop="20240924143000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924143000 +0800" stop="20240924151500 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924151500 +0800" stop="20240924155500 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924155500 +0800" stop="20240924164000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924164000 +0800" stop="20240924172000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924172000 +0800" stop="20240924180000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924180000 +0800" stop="20240924185000 +0800" channel="河北经济">
+<title lang="zh">今日资讯</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924185000 +0800" stop="20240924191500 +0800" channel="河北经济">
+<title lang="zh">小吴来帮忙</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924191500 +0800" stop="20240924215000 +0800" channel="河北经济">
+<title lang="zh">第一剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924215000 +0800" stop="20240924222500 +0800" channel="河北经济">
+<title lang="zh">今日财经</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924222500 +0800" stop="20240924230000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230000 +0800" stop="20240924235959 +0800" channel="河北经济">
+<title lang="zh">今日资讯+小吴来帮忙(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924004000 +0800" stop="20240924011000 +0800" channel="河北经济">
+<title lang="zh">运河风味(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924011000 +0800" stop="20240924014000 +0800" channel="河北经济">
+<title lang="zh">今日财经(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924014000 +0800" stop="20240924050000 +0800" channel="河北经济">
+<title lang="zh">经典剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924050000 +0800" stop="20240924054000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924054000 +0800" stop="20240924061000 +0800" channel="河北经济">
+<title lang="zh">乡里相亲</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924061000 +0800" stop="20240924065000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924065000 +0800" stop="20240924073500 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924073500 +0800" stop="20240924081000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924081000 +0800" stop="20240924090000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924090000 +0800" stop="20240924094000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924094000 +0800" stop="20240924102500 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924102500 +0800" stop="20240924110500 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924110500 +0800" stop="20240924120000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120000 +0800" stop="20240924124000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924124000 +0800" stop="20240924133000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924133000 +0800" stop="20240924141000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924141000 +0800" stop="20240924151000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924151000 +0800" stop="20240924155000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924155000 +0800" stop="20240924164000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924164000 +0800" stop="20240924172000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924172000 +0800" stop="20240924180000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924180000 +0800" stop="20240924185000 +0800" channel="河北经济">
+<title lang="zh">今日资讯</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924185000 +0800" stop="20240924191500 +0800" channel="河北经济">
+<title lang="zh">小吴来帮忙</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924191500 +0800" stop="20240924215000 +0800" channel="河北经济">
+<title lang="zh">第一剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924215000 +0800" stop="20240924222500 +0800" channel="河北经济">
+<title lang="zh">今日财经</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924222500 +0800" stop="20240924230000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230000 +0800" stop="20240924235959 +0800" channel="河北经济">
+<title lang="zh">今日资讯+小吴来帮忙(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925003000 +0800" stop="20240925005500 +0800" channel="河北经济">
+<title lang="zh">运河风味(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925005500 +0800" stop="20240925050000 +0800" channel="河北经济">
+<title lang="zh">今日财经(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925050000 +0800" stop="20240925054000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925054000 +0800" stop="20240925061000 +0800" channel="河北经济">
+<title lang="zh">乡里相亲</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925061000 +0800" stop="20240925065000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925065000 +0800" stop="20240925073500 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925073500 +0800" stop="20240925081000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925081000 +0800" stop="20240925090000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925090000 +0800" stop="20240925094000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925094000 +0800" stop="20240925102500 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925102500 +0800" stop="20240925110500 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925110500 +0800" stop="20240925120000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925120000 +0800" stop="20240925124000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925124000 +0800" stop="20240925133000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925133000 +0800" stop="20240925141000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925141000 +0800" stop="20240925151000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925151000 +0800" stop="20240925155000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925155000 +0800" stop="20240925164000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925164000 +0800" stop="20240925172000 +0800" channel="河北经济">
+<title lang="zh">精品剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925172000 +0800" stop="20240925180000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925180000 +0800" stop="20240925185000 +0800" channel="河北经济">
+<title lang="zh">今日资讯</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925185000 +0800" stop="20240925191500 +0800" channel="河北经济">
+<title lang="zh">小吴来帮忙</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925191500 +0800" stop="20240925215000 +0800" channel="河北经济">
+<title lang="zh">第一剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925215000 +0800" stop="20240925222500 +0800" channel="河北经济">
+<title lang="zh">今日财经</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925222500 +0800" stop="20240925230000 +0800" channel="河北经济">
+<title lang="zh">健康节目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925230000 +0800" stop="20240925235959 +0800" channel="河北经济">
+<title lang="zh">今日资讯+小吴来帮忙(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924003000 +0800" stop="20240924003500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924003500 +0800" stop="20240924010000 +0800" channel="河北农民">
+<title lang="zh">农博士在行动(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924010000 +0800" stop="20240924013000 +0800" channel="河北农民">
+<title lang="zh">非常大中医(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924013000 +0800" stop="20240924013500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924013500 +0800" stop="20240924054500 +0800" channel="河北农民">
+<title lang="zh">星光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924054500 +0800" stop="20240924060500 +0800" channel="河北农民">
+<title lang="zh">专临1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924060500 +0800" stop="20240924061000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924061000 +0800" stop="20240924065000 +0800" channel="河北农民">
+<title lang="zh">晨光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924065000 +0800" stop="20240924071000 +0800" channel="河北农民">
+<title lang="zh">专临2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924071000 +0800" stop="20240924072000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924072000 +0800" stop="20240924080000 +0800" channel="河北农民">
+<title lang="zh">晨光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924080000 +0800" stop="20240924084000 +0800" channel="河北农民">
+<title lang="zh">健康节目1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924084000 +0800" stop="20240924085000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924085000 +0800" stop="20240924092000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924092000 +0800" stop="20240924094000 +0800" channel="河北农民">
+<title lang="zh">健康节目2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924094000 +0800" stop="20240924095500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924095500 +0800" stop="20240924103000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924103000 +0800" stop="20240924105000 +0800" channel="河北农民">
+<title lang="zh">健康节目3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924105000 +0800" stop="20240924110000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924110000 +0800" stop="20240924113000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924113000 +0800" stop="20240924115000 +0800" channel="河北农民">
+<title lang="zh">健康节目4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924115000 +0800" stop="20240924120000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120000 +0800" stop="20240924125000 +0800" channel="河北农民">
+<title lang="zh">非常帮助</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924125000 +0800" stop="20240924125500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924125500 +0800" stop="20240924132000 +0800" channel="河北农民">
+<title lang="zh">农博士在行动</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924132000 +0800" stop="20240924132500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924132500 +0800" stop="20240924140500 +0800" channel="河北农民">
+<title lang="zh">健康节目5</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924140500 +0800" stop="20240924141500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924141500 +0800" stop="20240924144000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924144000 +0800" stop="20240924150000 +0800" channel="河北农民">
+<title lang="zh">健康节目6</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924150000 +0800" stop="20240924151000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924151000 +0800" stop="20240924154000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924154000 +0800" stop="20240924160000 +0800" channel="河北农民">
+<title lang="zh">健康节目7</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924160000 +0800" stop="20240924160500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924160500 +0800" stop="20240924163500 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924163500 +0800" stop="20240924165500 +0800" channel="河北农民">
+<title lang="zh">健康节目8</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924165500 +0800" stop="20240924170500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924170500 +0800" stop="20240924173000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924173000 +0800" stop="20240924175000 +0800" channel="河北农民">
+<title lang="zh">健康节目9</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924175000 +0800" stop="20240924180000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924180000 +0800" stop="20240924185000 +0800" channel="河北农民">
+<title lang="zh">非常关注</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924185000 +0800" stop="20240924190000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924194000 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹36</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924194000 +0800" stop="20240924195500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924195500 +0800" stop="20240924203500 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹37</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924203500 +0800" stop="20240924204500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924204500 +0800" stop="20240924212500 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹38</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924212500 +0800" stop="20240924213500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924213500 +0800" stop="20240924220500 +0800" channel="河北农民">
+<title lang="zh">非常大中医</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924220500 +0800" stop="20240924221000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924221000 +0800" stop="20240924230000 +0800" channel="河北农民">
+<title lang="zh">非常帮助(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230000 +0800" stop="20240924230500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230500 +0800" stop="20240924235500 +0800" channel="河北农民">
+<title lang="zh">非常关注(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924235500 +0800" stop="20240924235959 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924003000 +0800" stop="20240924003500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924003500 +0800" stop="20240924010000 +0800" channel="河北农民">
+<title lang="zh">农博士在行动(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924010000 +0800" stop="20240924013000 +0800" channel="河北农民">
+<title lang="zh">非常大中医(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924013000 +0800" stop="20240924013500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924013500 +0800" stop="20240924054500 +0800" channel="河北农民">
+<title lang="zh">星光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924054500 +0800" stop="20240924060500 +0800" channel="河北农民">
+<title lang="zh">专临1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924060500 +0800" stop="20240924061000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924061000 +0800" stop="20240924065000 +0800" channel="河北农民">
+<title lang="zh">晨光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924065000 +0800" stop="20240924071000 +0800" channel="河北农民">
+<title lang="zh">专临2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924071000 +0800" stop="20240924072000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924072000 +0800" stop="20240924080000 +0800" channel="河北农民">
+<title lang="zh">晨光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924080000 +0800" stop="20240924084000 +0800" channel="河北农民">
+<title lang="zh">健康节目1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924084000 +0800" stop="20240924085000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924085000 +0800" stop="20240924092000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924092000 +0800" stop="20240924094000 +0800" channel="河北农民">
+<title lang="zh">健康节目2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924094000 +0800" stop="20240924095500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924095500 +0800" stop="20240924103000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924103000 +0800" stop="20240924105000 +0800" channel="河北农民">
+<title lang="zh">健康节目3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924105000 +0800" stop="20240924110000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924110000 +0800" stop="20240924113000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924113000 +0800" stop="20240924115000 +0800" channel="河北农民">
+<title lang="zh">健康节目4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924115000 +0800" stop="20240924120000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120000 +0800" stop="20240924125000 +0800" channel="河北农民">
+<title lang="zh">非常帮助</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924125000 +0800" stop="20240924125500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924125500 +0800" stop="20240924132000 +0800" channel="河北农民">
+<title lang="zh">农博士在行动</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924132000 +0800" stop="20240924132500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924132500 +0800" stop="20240924140500 +0800" channel="河北农民">
+<title lang="zh">健康节目5</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924140500 +0800" stop="20240924141500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924141500 +0800" stop="20240924144000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924144000 +0800" stop="20240924150000 +0800" channel="河北农民">
+<title lang="zh">健康节目6</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924150000 +0800" stop="20240924151000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924151000 +0800" stop="20240924154000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924154000 +0800" stop="20240924160000 +0800" channel="河北农民">
+<title lang="zh">健康节目7</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924160000 +0800" stop="20240924160500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924160500 +0800" stop="20240924163500 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924163500 +0800" stop="20240924165500 +0800" channel="河北农民">
+<title lang="zh">健康节目8</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924165500 +0800" stop="20240924170500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924170500 +0800" stop="20240924173000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924173000 +0800" stop="20240924175000 +0800" channel="河北农民">
+<title lang="zh">健康节目9</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924175000 +0800" stop="20240924180000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924180000 +0800" stop="20240924185000 +0800" channel="河北农民">
+<title lang="zh">非常关注</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924185000 +0800" stop="20240924190000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924194000 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹36</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924194000 +0800" stop="20240924195500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924195500 +0800" stop="20240924203500 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹37</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924203500 +0800" stop="20240924204500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924204500 +0800" stop="20240924212500 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹38</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924212500 +0800" stop="20240924213500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924213500 +0800" stop="20240924220500 +0800" channel="河北农民">
+<title lang="zh">非常大中医</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924220500 +0800" stop="20240924221000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924221000 +0800" stop="20240924230000 +0800" channel="河北农民">
+<title lang="zh">非常帮助(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230000 +0800" stop="20240924230500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924230500 +0800" stop="20240924235500 +0800" channel="河北农民">
+<title lang="zh">非常关注(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924235500 +0800" stop="20240924235959 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925000000 +0800" stop="20240925003000 +0800" channel="河北农民">
+<title lang="zh">非常大中医(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925003000 +0800" stop="20240925004000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925004000 +0800" stop="20240925060000 +0800" channel="河北农民">
+<title lang="zh">精彩十分</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925060000 +0800" stop="20240925062500 +0800" channel="河北农民">
+<title lang="zh">农博士在行动(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925062500 +0800" stop="20240925063000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925063000 +0800" stop="20240925071000 +0800" channel="河北农民">
+<title lang="zh">晨光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925071000 +0800" stop="20240925073000 +0800" channel="河北农民">
+<title lang="zh">专临2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925073000 +0800" stop="20240925074000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925074000 +0800" stop="20240925080000 +0800" channel="河北农民">
+<title lang="zh">晨光剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925080000 +0800" stop="20240925084000 +0800" channel="河北农民">
+<title lang="zh">健康节目1</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925084000 +0800" stop="20240925084500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925084500 +0800" stop="20240925092000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人55</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925092000 +0800" stop="20240925094000 +0800" channel="河北农民">
+<title lang="zh">健康节目2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925094000 +0800" stop="20240925095500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925095500 +0800" stop="20240925103000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:刀客家族的女人56</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925103000 +0800" stop="20240925104500 +0800" channel="河北农民">
+<title lang="zh">健康节目3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925104500 +0800" stop="20240925105500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925105500 +0800" stop="20240925113000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:红槐花</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925113000 +0800" stop="20240925115000 +0800" channel="河北农民">
+<title lang="zh">健康节目4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925115000 +0800" stop="20240925120000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925120000 +0800" stop="20240925125000 +0800" channel="河北农民">
+<title lang="zh">非常帮助</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925125000 +0800" stop="20240925125500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925125500 +0800" stop="20240925132000 +0800" channel="河北农民">
+<title lang="zh">农博士在行动</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925132000 +0800" stop="20240925132500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925132500 +0800" stop="20240925140500 +0800" channel="河北农民">
+<title lang="zh">健康节目5</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925140500 +0800" stop="20240925141500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925141500 +0800" stop="20240925144000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925144000 +0800" stop="20240925150000 +0800" channel="河北农民">
+<title lang="zh">健康节目6</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925150000 +0800" stop="20240925151000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925151000 +0800" stop="20240925154000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925154000 +0800" stop="20240925160000 +0800" channel="河北农民">
+<title lang="zh">健康节目7</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925160000 +0800" stop="20240925160500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925160500 +0800" stop="20240925163500 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925163500 +0800" stop="20240925165500 +0800" channel="河北农民">
+<title lang="zh">健康节目8</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925165500 +0800" stop="20240925170500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925170500 +0800" stop="20240925173000 +0800" channel="河北农民">
+<title lang="zh">热播剧场:倚天屠龙记</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925173000 +0800" stop="20240925175000 +0800" channel="河北农民">
+<title lang="zh">健康节目9</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925175000 +0800" stop="20240925180000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925180000 +0800" stop="20240925185000 +0800" channel="河北农民">
+<title lang="zh">非常关注</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925185000 +0800" stop="20240925190000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925190000 +0800" stop="20240925194000 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹39</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925194000 +0800" stop="20240925195500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925195500 +0800" stop="20240925203500 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹40</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925203500 +0800" stop="20240925204500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925204500 +0800" stop="20240925212500 +0800" channel="河北农民">
+<title lang="zh">幸福剧场:小娘惹41</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925212500 +0800" stop="20240925213500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925213500 +0800" stop="20240925220500 +0800" channel="河北农民">
+<title lang="zh">非常大中医</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925220500 +0800" stop="20240925221000 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925221000 +0800" stop="20240925230000 +0800" channel="河北农民">
+<title lang="zh">非常帮助(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925230000 +0800" stop="20240925230500 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925230500 +0800" stop="20240925235500 +0800" channel="河北农民">
+<title lang="zh">非常关注(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925235500 +0800" stop="20240925235959 +0800" channel="河北农民">
+<title lang="zh">宣传段</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924061000 +0800" stop="20240924110000 +0800" channel="河北都市">
+<title lang="zh">电视剧:</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924110000 +0800" stop="20240924112500 +0800" channel="河北都市">
+<title lang="zh">都市315</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924112500 +0800" stop="20240924123500 +0800" channel="河北都市">
+<title lang="zh">非常大牌午间版</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924123500 +0800" stop="20240924174000 +0800" channel="河北都市">
+<title lang="zh">电视剧:</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924174000 +0800" stop="20240924184000 +0800" channel="河北都市">
+<title lang="zh">非常大牌精编版</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924184000 +0800" stop="20240924210000 +0800" channel="河北都市">
+<title lang="zh">电视剧：背着奶奶进城21-23</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924210000 +0800" stop="20240924214000 +0800" channel="河北都市">
+<title lang="zh">名医来了</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924214000 +0800" stop="20240924221000 +0800" channel="河北都市">
+<title lang="zh">美丽新风尚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924221000 +0800" stop="20240924222000 +0800" channel="河北都市">
+<title lang="zh">好运伴你行</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924222000 +0800" stop="20240924231000 +0800" channel="河北都市">
+<title lang="zh">非常大牌</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924231000 +0800" stop="20240924235500 +0800" channel="河北都市">
+<title lang="zh">名医来了(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924235500 +0800" stop="20240924235959 +0800" channel="河北都市">
+<title lang="zh">重播栏目(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924061000 +0800" stop="20240924110000 +0800" channel="河北都市">
+<title lang="zh">电视剧:</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924110000 +0800" stop="20240924112500 +0800" channel="河北都市">
+<title lang="zh">都市315</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924112500 +0800" stop="20240924123500 +0800" channel="河北都市">
+<title lang="zh">非常大牌午间版</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924123500 +0800" stop="20240924174000 +0800" channel="河北都市">
+<title lang="zh">电视剧:</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924174000 +0800" stop="20240924184000 +0800" channel="河北都市">
+<title lang="zh">非常大牌精编版</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924184000 +0800" stop="20240924210000 +0800" channel="河北都市">
+<title lang="zh">电视剧：背着奶奶进城21-23</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924210000 +0800" stop="20240924214000 +0800" channel="河北都市">
+<title lang="zh">名医来了</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924214000 +0800" stop="20240924221000 +0800" channel="河北都市">
+<title lang="zh">美丽新风尚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924221000 +0800" stop="20240924222000 +0800" channel="河北都市">
+<title lang="zh">好运伴你行</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924222000 +0800" stop="20240924231000 +0800" channel="河北都市">
+<title lang="zh">非常大牌</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924231000 +0800" stop="20240924235500 +0800" channel="河北都市">
+<title lang="zh">名医来了(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924235500 +0800" stop="20240924235959 +0800" channel="河北都市">
+<title lang="zh">重播栏目(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925061000 +0800" stop="20240925110000 +0800" channel="河北都市">
+<title lang="zh">电视剧:</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925110000 +0800" stop="20240925112500 +0800" channel="河北都市">
+<title lang="zh">都市315</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925112500 +0800" stop="20240925123500 +0800" channel="河北都市">
+<title lang="zh">非常大牌午间版</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925123500 +0800" stop="20240925172000 +0800" channel="河北都市">
+<title lang="zh">电视剧:</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925172000 +0800" stop="20240925174000 +0800" channel="河北都市">
+<title lang="zh">健康河北</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925174000 +0800" stop="20240925182000 +0800" channel="河北都市">
+<title lang="zh">非常大牌精编版</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925182000 +0800" stop="20240925184000 +0800" channel="河北都市">
+<title lang="zh">科创河北</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925184000 +0800" stop="20240925210000 +0800" channel="河北都市">
+<title lang="zh">电视剧: 背着奶奶进城24-26</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925210000 +0800" stop="20240925214000 +0800" channel="河北都市">
+<title lang="zh">名医来了</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925214000 +0800" stop="20240925221000 +0800" channel="河北都市">
+<title lang="zh">美丽新风尚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925221000 +0800" stop="20240925222000 +0800" channel="河北都市">
+<title lang="zh">好运伴你行</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925222000 +0800" stop="20240925231000 +0800" channel="河北都市">
+<title lang="zh">非常大牌</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925231000 +0800" stop="20240925235500 +0800" channel="河北都市">
+<title lang="zh">名医来了(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925235500 +0800" stop="20240925235959 +0800" channel="河北都市">
+<title lang="zh">重播栏目</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924072000 +0800" stop="20240924114000 +0800" channel="河北影视剧">
+<title lang="zh">幸福剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924114000 +0800" stop="20240924120000 +0800" channel="河北影视剧">
+<title lang="zh">影视欢乐送</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120000 +0800" stop="20240924133000 +0800" channel="河北影视剧">
+<title lang="zh">有缘天空</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924133000 +0800" stop="20240924171000 +0800" channel="河北影视剧">
+<title lang="zh">欢乐剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924171000 +0800" stop="20240924182000 +0800" channel="河北影视剧">
+<title lang="zh">为爱转身</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924182000 +0800" stop="20240924190000 +0800" channel="河北影视剧">
+<title lang="zh">精彩剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924194500 +0800" channel="河北影视剧">
+<title lang="zh">完美的你</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924194500 +0800" stop="20240924224500 +0800" channel="河北影视剧">
+<title lang="zh">精彩剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924224500 +0800" stop="20240924235959 +0800" channel="河北影视剧">
+<title lang="zh">电影</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924072000 +0800" stop="20240924114000 +0800" channel="河北影视剧">
+<title lang="zh">幸福剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924114000 +0800" stop="20240924120000 +0800" channel="河北影视剧">
+<title lang="zh">影视欢乐送</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120000 +0800" stop="20240924133000 +0800" channel="河北影视剧">
+<title lang="zh">有缘天空</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924133000 +0800" stop="20240924175000 +0800" channel="河北影视剧">
+<title lang="zh">欢乐剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924175000 +0800" stop="20240924190000 +0800" channel="河北影视剧">
+<title lang="zh">为爱转身</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924224500 +0800" channel="河北影视剧">
+<title lang="zh">精彩剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924224500 +0800" stop="20240924235959 +0800" channel="河北影视剧">
+<title lang="zh">电影</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925072000 +0800" stop="20240925114000 +0800" channel="河北影视剧">
+<title lang="zh">幸福剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925114000 +0800" stop="20240925120000 +0800" channel="河北影视剧">
+<title lang="zh">影视欢乐送</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925120000 +0800" stop="20240925133000 +0800" channel="河北影视剧">
+<title lang="zh">有缘天空</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925133000 +0800" stop="20240925171000 +0800" channel="河北影视剧">
+<title lang="zh">欢乐剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925171000 +0800" stop="20240925182000 +0800" channel="河北影视剧">
+<title lang="zh">为爱转身</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925182000 +0800" stop="20240925190000 +0800" channel="河北影视剧">
+<title lang="zh">精彩剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925190000 +0800" stop="20240925194500 +0800" channel="河北影视剧">
+<title lang="zh">完美的你</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925194500 +0800" stop="20240925224500 +0800" channel="河北影视剧">
+<title lang="zh">精彩剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925224500 +0800" stop="20240925235959 +0800" channel="河北影视剧">
+<title lang="zh">电影</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924000100 +0800" stop="20240924031200 +0800" channel="河北少儿科教">
+<title lang="zh">家庭剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924031200 +0800" stop="20240924060000 +0800" channel="河北少儿科教">
+<title lang="zh">黄金剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924060000 +0800" stop="20240924065200 +0800" channel="河北少儿科教">
+<title lang="zh">梦想的翅膀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924065200 +0800" stop="20240924072200 +0800" channel="河北少儿科教">
+<title lang="zh">我爱记单词</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924072200 +0800" stop="20240924124000 +0800" channel="河北少儿科教">
+<title lang="zh">家庭剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924124000 +0800" stop="20240924132100 +0800" channel="河北少儿科教">
+<title lang="zh">漫游天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924132100 +0800" stop="20240924165500 +0800" channel="河北少儿科教">
+<title lang="zh">经典剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924165500 +0800" stop="20240924190500 +0800" channel="河北少儿科教">
+<title lang="zh">生活剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190500 +0800" stop="20240924195000 +0800" channel="河北少儿科教">
+<title lang="zh">梦想的翅膀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924195000 +0800" stop="20240924202500 +0800" channel="河北少儿科教">
+<title lang="zh">成长</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924202500 +0800" stop="20240924233200 +0800" channel="河北少儿科教">
+<title lang="zh">黄金剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924233200 +0800" stop="20240924235959 +0800" channel="河北少儿科教">
+<title lang="zh">家庭剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924000100 +0800" stop="20240924031200 +0800" channel="河北少儿科教">
+<title lang="zh">家庭剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924031200 +0800" stop="20240924060000 +0800" channel="河北少儿科教">
+<title lang="zh">黄金剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924060000 +0800" stop="20240924065200 +0800" channel="河北少儿科教">
+<title lang="zh">梦想的翅膀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924065200 +0800" stop="20240924072200 +0800" channel="河北少儿科教">
+<title lang="zh">我爱记单词</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924072200 +0800" stop="20240924124000 +0800" channel="河北少儿科教">
+<title lang="zh">家庭剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924124000 +0800" stop="20240924132100 +0800" channel="河北少儿科教">
+<title lang="zh">漫游天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924132100 +0800" stop="20240924165500 +0800" channel="河北少儿科教">
+<title lang="zh">经典剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924165500 +0800" stop="20240924190500 +0800" channel="河北少儿科教">
+<title lang="zh">生活剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190500 +0800" stop="20240924195000 +0800" channel="河北少儿科教">
+<title lang="zh">梦想的翅膀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924195000 +0800" stop="20240924202500 +0800" channel="河北少儿科教">
+<title lang="zh">成长</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924202500 +0800" stop="20240924233200 +0800" channel="河北少儿科教">
+<title lang="zh">黄金剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924233200 +0800" stop="20240924235959 +0800" channel="河北少儿科教">
+<title lang="zh">家庭剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925060000 +0800" stop="20240925065200 +0800" channel="河北少儿科教">
+<title lang="zh">梦想的翅膀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925065200 +0800" stop="20240925072200 +0800" channel="河北少儿科教">
+<title lang="zh">成长</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925072200 +0800" stop="20240925124000 +0800" channel="河北少儿科教">
+<title lang="zh">家庭剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925124000 +0800" stop="20240925132100 +0800" channel="河北少儿科教">
+<title lang="zh">漫游天下</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925132100 +0800" stop="20240925165500 +0800" channel="河北少儿科教">
+<title lang="zh">经典剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925165500 +0800" stop="20240925190500 +0800" channel="河北少儿科教">
+<title lang="zh">生活剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925190500 +0800" stop="20240925195000 +0800" channel="河北少儿科教">
+<title lang="zh">梦想的翅膀</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925195000 +0800" stop="20240925202500 +0800" channel="河北少儿科教">
+<title lang="zh">校园新鲜爆</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925202500 +0800" stop="20240925233200 +0800" channel="河北少儿科教">
+<title lang="zh">黄金剧场</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925233200 +0800" stop="20240925235959 +0800" channel="河北少儿科教">
+<title lang="zh">校园新鲜爆</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924002000 +0800" stop="20240924062500 +0800" channel="河北公共">
+<title lang="zh">纪录片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924062500 +0800" stop="20240924070000 +0800" channel="河北公共">
+<title lang="zh">新闻6号线(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924070000 +0800" stop="20240924090000 +0800" channel="河北公共">
+<title lang="zh">美丽河北(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924090000 +0800" stop="20240924113500 +0800" channel="河北公共">
+<title lang="zh">剧场：武则天秘史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924113500 +0800" stop="20240924120000 +0800" channel="河北公共">
+<title lang="zh">乐享河北(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120000 +0800" stop="20240924130500 +0800" channel="河北公共">
+<title lang="zh">美丽河北(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924130500 +0800" stop="20240924180000 +0800" channel="河北公共">
+<title lang="zh">剧场：武则天秘史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924180000 +0800" stop="20240924190000 +0800" channel="河北公共">
+<title lang="zh">新闻6号线(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924193500 +0800" channel="河北公共">
+<title lang="zh">中央新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924193500 +0800" stop="20240924200500 +0800" channel="河北公共">
+<title lang="zh">河北新闻联播(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924200500 +0800" stop="20240924203500 +0800" channel="河北公共">
+<title lang="zh">乐享河北(首)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924203500 +0800" stop="20240924234000 +0800" channel="河北公共">
+<title lang="zh">经典剧场：伪装者</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924234000 +0800" stop="20240924235959 +0800" channel="河北公共">
+<title lang="zh">你好京津冀(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924002000 +0800" stop="20240924062500 +0800" channel="河北公共">
+<title lang="zh">纪录片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924062500 +0800" stop="20240924070000 +0800" channel="河北公共">
+<title lang="zh">新闻6号线(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924070000 +0800" stop="20240924090000 +0800" channel="河北公共">
+<title lang="zh">美丽河北(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924090000 +0800" stop="20240924113500 +0800" channel="河北公共">
+<title lang="zh">剧场：武则天秘史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924113500 +0800" stop="20240924120000 +0800" channel="河北公共">
+<title lang="zh">乐享河北(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924120000 +0800" stop="20240924130500 +0800" channel="河北公共">
+<title lang="zh">美丽河北(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924130500 +0800" stop="20240924180000 +0800" channel="河北公共">
+<title lang="zh">剧场：武则天秘史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924180000 +0800" stop="20240924190000 +0800" channel="河北公共">
+<title lang="zh">新闻6号线(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924190000 +0800" stop="20240924193500 +0800" channel="河北公共">
+<title lang="zh">中央新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924193500 +0800" stop="20240924200500 +0800" channel="河北公共">
+<title lang="zh">河北新闻联播(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924200500 +0800" stop="20240924203500 +0800" channel="河北公共">
+<title lang="zh">乐享河北(首)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924203500 +0800" stop="20240924234000 +0800" channel="河北公共">
+<title lang="zh">经典剧场：伪装者</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240924234000 +0800" stop="20240924235959 +0800" channel="河北公共">
+<title lang="zh">你好京津冀(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925002000 +0800" stop="20240925062500 +0800" channel="河北公共">
+<title lang="zh">纪录片</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925062500 +0800" stop="20240925070000 +0800" channel="河北公共">
+<title lang="zh">新闻6号线(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925070000 +0800" stop="20240925090000 +0800" channel="河北公共">
+<title lang="zh">美丽河北(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925090000 +0800" stop="20240925113500 +0800" channel="河北公共">
+<title lang="zh">剧场：武则天秘史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925113500 +0800" stop="20240925120000 +0800" channel="河北公共">
+<title lang="zh">乐享河北(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925120000 +0800" stop="20240925130500 +0800" channel="河北公共">
+<title lang="zh">美丽河北(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925130500 +0800" stop="20240925180000 +0800" channel="河北公共">
+<title lang="zh">剧场：武则天秘史</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925180000 +0800" stop="20240925190000 +0800" channel="河北公共">
+<title lang="zh">新闻6号线(直)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925190000 +0800" stop="20240925193500 +0800" channel="河北公共">
+<title lang="zh">中央新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925193500 +0800" stop="20240925200500 +0800" channel="河北公共">
+<title lang="zh">河北新闻联播(重)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925200500 +0800" stop="20240925203500 +0800" channel="河北公共">
+<title lang="zh">乐享河北(首)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925203500 +0800" stop="20240925234000 +0800" channel="河北公共">
+<title lang="zh">经典剧场：伪装者</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925234000 +0800" stop="20240925235959 +0800" channel="河北公共">
+<title lang="zh">你好京津冀(重)</title>
 <desc lang="zh"> </desc>
 </programme>
 <channel id="山东卫视"><display-name lang="zh">山东卫视</display-name></channel>
