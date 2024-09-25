@@ -22,7 +22,34 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-	},     
+	},    
+
+       {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=d710cb29",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BiliBili",
+            "name": "哔哩哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "type": "沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
+        },
+
+		
 	{
             "key": "黑木耳",
             "name": "黑木耳",
