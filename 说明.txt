@@ -5,6 +5,12 @@ V7 32位
 https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/release/leanback-python-armeabi_v7a.apk
 安卓低版本 https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/kitkat/leanback.apk
 
+想看安博推荐
+V7 32位
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/2947e7627b1b84aad265ec7500b20b45a9d19692/apk/release/leanback-python-armeabi_v7a.apk
+V8  64位
+https://raw.githubusercontent.com/FongMi/Release/2947e7627b1b84aad265ec7500b20b45a9d19692/apk/release/leanback-python-arm64_v8a.apk
+
 感谢中国联通，中国移动提供上github服务，所有资料来源于互联网。
 联通移动可以看
 爱看，豆瓣，黑木耳，央视，天空云播，天龙，新浪云播，梦影，百度，贱贱，ikun,飞速，暴风，索尼，量子，巴士
