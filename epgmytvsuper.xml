@@ -3,11 +3,11 @@
 <tv generator-info-name="mytvsuper" generator-info-url="https://www.tdm.com.mo/c_tv/?ch=Satellite">
 <channel id="SUPER FREE"><display-name lang="zh">SUPER FREE</display-name></channel>
 <channel id="myTV SUPER 18台"><display-name lang="zh">myTV SUPER 18台</display-name></channel>
+<channel id="28 AI 智慧賽馬"><display-name lang="zh">28 AI 智慧賽馬</display-name></channel>
 <channel id="黃金翡翠台"><display-name lang="zh">黃金翡翠台</display-name></channel>
 <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name></channel>
 <channel id="TVB-Plus"><display-name lang="zh">TVB-Plus</display-name></channel>
 <channel id="無綫新聞台"><display-name lang="zh">無綫新聞台</display-name></channel>
-<channel id="28 AI 智慧賽馬"><display-name lang="zh">28 AI 智慧賽馬</display-name></channel>
 <channel id="明珠台"><display-name lang="zh">明珠台</display-name></channel>
 <channel id="千禧經典台"><display-name lang="zh">千禧經典台</display-name></channel>
 <channel id="亞洲劇台"><display-name lang="zh">亞洲劇台</display-name></channel>
@@ -23,6 +23,7 @@
 <channel id="美亞電影台"><display-name lang="zh">美亞電影台</display-name></channel>
 <channel id="Thrill"><display-name lang="zh">Thrill</display-name></channel>
 <channel id="天映經典頻道"><display-name lang="zh">天映經典頻道</display-name></channel>
+<channel id="中國電影頻道"><display-name lang="zh">中國電影頻道</display-name></channel>
 <channel id="ROCK Action"><display-name lang="zh">ROCK Action</display-name></channel>
 <channel id="PopC"><display-name lang="zh">PopC</display-name></channel>
 <channel id="KIX"><display-name lang="zh">KIX</display-name></channel>
@@ -486,6 +487,62 @@
 <title lang="zh">晨操解碼</title>
 <desc lang="zh">節目焦點聚焦於有程馬匹的試閘和晨操之上。馬房重視的馬匹經常會由副練馬師主理, 睇實「馬房看重」 </desc>
 </programme>
+<programme start="20240925060000 +0800" stop="20240925090000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
+</programme>
+<programme start="20240925090000 +0800" stop="20240925120000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
+</programme>
+<programme start="20240925120000 +0800" stop="20240925150000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
+</programme>
+<programme start="20240925150000 +0800" stop="20240925184500 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
+</programme>
+<programme start="20240925184500 +0800" stop="20240925230500 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">28AI數據賽馬</title>
+<desc lang="zh">28AI數據賽馬 </desc>
+</programme>
+<programme start="20240925230500 +0800" stop="20240926000000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映 </desc>
+</programme>
+<programme start="2024092603000000 +0800" stop="20240926060000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映 </desc>
+</programme>
+<programme start="2024092606000000 +0800" stop="2024092609000000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
+</programme>
+<programme start="2024092609000000 +0800" stop="2024092612000000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
+</programme>
+<programme start="2024092612000000 +0800" stop="2024092615000000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
+</programme>
+<programme start="2024092615000000 +0800" stop="2024092618000000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
+</programme>
+<programme start="2024092618000000 +0800" stop="2024092621000000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
+</programme>
+<programme start="2024092621000000 +0800" stop="2024092700000000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
+</programme>
+<programme start="2024092703000000 +0800" stop="20240927060000 +0800" channel="28 AI 智慧賽馬">
+<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
+<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映 </desc>
+</programme>
 <programme start="20240925060000 +0800" stop="20240925070000 +0800" channel="黃金翡翠台">
 <title lang="zh">武俠帝女花#31[粵]</title>
 <desc lang="zh">長平與雌雄公子大打出手，陰陽教主來至，把受傷昏倒的平帶返教壇。多爾袞借糧草給吳三桂，讓桂與劉宗敏自相殘殺，欲收漁人之利。李自成知周世顯組軍對付他，左雲苓請纓出戰遭宋獻策阻，苓不滿殺策。平與皇弟終重逢。 </desc>
@@ -732,7 +789,7 @@
 </programme>
 <programme start="20240925144500 +0800" stop="20240925154500 +0800" channel="翡翠台">
 <title lang="zh">奸人堅#13[粵][PG]</title>
-<desc lang="zh">其堅激動下認蘇飛作父，但要蘇飛及在場的玉碧保守秘密，並稱不會原諒蘇飛過往��一切，更給蘇飛一個「試用期」，蘇飛為寶藏無奈答應。其堅要蘇飛陪他踢足球，二人巧遇天圓及有成兩父子，更合力擊敗二人。飛鴻得眾人鼓勵功約會玉翠郊遊，但木納的飛鴻竟將郊遊變為採藥，玉翠大感納悶。其堅發現阿威的屍首，德才向蘇飛查問，令他懷疑蘇飛。其堅凝望玉佩時，玉佩竟在燈火下出現裂紋。蘇飛向其堅道出玉佩來歷，兩人更合力奪得其餘玉佩。 </desc>
+<desc lang="zh">其堅激動下認蘇飛作父，但要蘇飛及在場的玉碧��守秘密，並稱不會原諒蘇飛過往的一切，更給蘇飛一個「試用期」，蘇飛為寶藏無奈答應。其堅要蘇飛陪他踢足球，二人巧遇天圓及有成兩父子，更合力擊敗二人。飛鴻得眾人鼓勵功約會玉翠郊遊，但木納的飛鴻竟將郊遊變為採藥，玉翠大感納悶。其堅發現阿威的屍首，德才向蘇飛查問，令他懷疑蘇飛。其堅凝望玉佩時，玉佩竟在燈火下出現裂紋。蘇飛向其堅道出玉佩來歷，兩人更合力奪得其餘玉佩。 </desc>
 </programme>
 <programme start="20240925154500 +0800" stop="20240925162000 +0800" channel="翡翠台">
 <title lang="zh">交易現場[粵]</title>
@@ -776,7 +833,7 @@
 </programme>
 <programme start="20240925193000 +0800" stop="20240925200000 +0800" channel="翡翠台">
 <title lang="zh">東張西望[粵] 及 餵母乳 關我事!?[粵]</title>
-<desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。 </desc>
+<desc lang="zh">港人夫婦遊濟州島期間，妻子疑在汗蒸幕禁拍照區用手機拍攝被捕，丈夫對伴侶滯留當地感無奈。龍翔道的士相撞事故，涉事司機曾稱鄰線司機切線釀意外，車Cam片卻揭出另一版本？某停車場內十多輛車遭淋起漆水，受害車主懷疑事件涉及業權糾紛。數月前曾報道川龍村婆婆涉虐畜及囤積垃圾，屋外雜物獲清理後又故態復萌，終驚動發展商收地、夷平石屋。涉事夫婦搬走後居無定所，更成快餐店難民……周柏豪、王敏奕出席澳門活動，送上花絮。 </desc>
 </programme>
 <programme start="20240925200000 +0800" stop="20240925203000 +0800" channel="翡翠台">
 <title lang="zh">愛．回家之開心速遞#2383[粵]</title>
@@ -820,7 +877,7 @@
 </programme>
 <programme start="20240926010000 +0800" stop="20240926013000 +0800" channel="翡翠台">
 <title lang="zh">東張西望[粵]</title>
-<desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。 </desc>
+<desc lang="zh">港人夫婦遊濟州島期間，妻子疑在汗蒸幕禁拍照區用手機拍攝被捕，丈夫對伴侶滯留當地感無奈。龍翔道的士相撞事故，涉事司機曾稱鄰線司機切線釀意外，車Cam片卻揭出另一版本？某停車場內十多輛車遭淋起漆水，受害車主懷疑事件涉及業權糾紛。數月前曾報道川龍村婆婆涉虐畜及囤積垃圾，屋外雜物獲清理後又故態復萌，終驚動發展商收地、夷平石屋。涉事夫婦搬走後居無定所，更成快餐店難民……周柏豪、王敏奕出席澳門活動，送上花絮。 </desc>
 </programme>
 <programme start="20240926013000 +0800" stop="20240926013500 +0800" channel="翡翠台">
 <title lang="zh">宣傳易[粵]</title>
@@ -828,7 +885,7 @@
 </programme>
 <programme start="20240926013500 +0800" stop="20240926020500 +0800" channel="翡翠台">
 <title lang="zh">MUSIC BREAK[粵]</title>
-<desc lang="zh">星期一至五凌晨時分，不妨Take個《MUSIC BREAK》。節目播放精心挑選、最新、勁歌金榜上榜的歌曲MV，優質音樂作品每集連環放送。觀眾同時可掃瞄螢幕上的二維碼，登入網上直播平台，與開Live主持即席討論，實時互動。 </desc>
+<desc lang="zh">本集由潘靜文Sherman(@shshsherman)推介歌單，播放的MV包括「勁歌金榜No.3」歐陽靖MC Jin&lt;過山車 &amp;gt;；丁噹、吳若希&lt;談戀愛 &amp;gt;；吳業坤&lt;心拍數 &amp;gt;、尹光&lt;命硬八十 &amp;gt;、張彥博&lt;我們純屬意外 &amp;gt;、鄭俊弘&lt;爛好人 &amp;gt;、李榮浩&lt;輕輕田園系 &amp;gt;。 </desc>
 </programme>
 <programme start="20240926020500 +0800" stop="20240926030500 +0800" channel="翡翠台">
 <title lang="zh">流行都市[粵]</title>
@@ -916,7 +973,7 @@
 </programme>
 <programme start="2024092614450000 +0800" stop="2024092615450000 +0800" channel="翡翠台">
 <title lang="zh">奸人堅#14[粵][PG]</title>
-<desc lang="zh">蘇飛在其���威嚇下道出秘密，二人認定寶藏藏於城郊大樹下，但原來蘇飛已知真正藏寶地點……其堅拍攝煞科戲時，因飛鴻失手，讓其堅勇救了玉碧。玉翠見狀，答應玉碧跟他來往。其堅在亡母相片中，看出父親手上有鮮明胎痣，終得悉蘇飛並非親生父親。蘇飛遭其堅毒打，道出寶藏藏於寶芝林。德才查出其堅親父真正身分。其堅與蘇飛扮作父子哄騙眾人回鄉後起出寶藏時，孔雀幫亦殺至。蘇飛雖能挾寶而逃，其堅卻被捉，蘇飛竟將寶藏交給孔雀幫。</desc>
+<desc lang="zh">蘇飛在其堅威嚇下道出秘密，二人認定寶藏藏於城郊大樹下，但原來蘇飛已知真正藏寶地點……其堅拍攝煞科戲時，因飛鴻失手，讓其堅勇救了玉碧。玉翠見狀，答應玉碧跟他來往。其堅在亡母相片中，看出父親手上有鮮明胎痣，終得悉蘇飛並非親生父親。蘇飛遭其堅毒打，道出寶藏藏於寶芝林。德才查出其堅親父真正身分。其堅與蘇飛扮作父子哄騙眾人回鄉後起出寶藏時，孔雀幫亦殺至。蘇飛雖能挾寶而逃，其堅卻被捉，蘇飛竟將寶藏交給孔雀幫。</desc>
 </programme>
 <programme start="2024092615450000 +0800" stop="2024092616200000 +0800" channel="翡翠台">
 <title lang="zh">交易現場[粵]</title>
@@ -1011,7 +1068,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092701350000 +0800" stop="2024092702050000 +0800" channel="翡翠台">
-<title lang="zh">MUSIC BREAK[粵]</title>
+<title lang="zh">MUSIC BREAK[粵][PG]</title>
 <desc lang="zh">星期一至五凌晨時分，不妨Take個《MUSIC BREAK》。節目播放精心挑選、最新、勁歌金榜上榜的歌曲MV，優質音樂作品每集連環放送。觀眾同時可掃瞄螢幕上的二維碼，登入網上直播平台，與開Live主持即席討論，實時互動。</desc>
 </programme>
 <programme start="2024092702050000 +0800" stop="2024092703050000 +0800" channel="翡翠台">
@@ -1208,7 +1265,7 @@
 </programme>
 <programme start="2024092614150000 +0800" stop="2024092614450000 +0800" channel="TVB-Plus">
 <title lang="zh">MUSIC BREAK[粵]</title>
-<desc lang="zh">星期一至五凌晨時分，不妨Take個《MUSIC BREAK》。節目播放精心挑選、最新、勁歌金榜上榜的歌曲MV，優質音樂作品每集連環放送。觀眾同時可掃瞄螢幕上的二維碼，登入網上直播平台，與開Live主持即席討論，實時互動。</desc>
+<desc lang="zh">本集由潘靜文Sherman(@shshsherman)推介歌單，播放的MV包括「勁歌金榜No.3」歐陽靖MC Jin&lt;過山車 &amp;gt;；丁噹、吳若希&lt;談戀愛 &amp;gt;；吳業坤&lt;心拍數 &amp;gt;、尹光&lt;命硬八十 &amp;gt;、張彥博&lt;我們純屬意外 &amp;gt;、鄭俊弘&lt;爛好人 &amp;gt;、李榮浩&lt;輕輕田園系 &amp;gt;。</desc>
 </programme>
 <programme start="2024092614450000 +0800" stop="2024092615450000 +0800" channel="TVB-Plus">
 <title lang="zh">甄嬛傳#29[粵/普]</title>
@@ -1673,62 +1730,6 @@
 <programme start="2024092705300000 +0800" stop="20240927060000 +0800" channel="無綫新聞台">
 <title lang="zh">深宵新聞報道</title>
 <desc lang="zh"> </desc>
-</programme>
-<programme start="20240925060000 +0800" stop="20240925090000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
-</programme>
-<programme start="20240925090000 +0800" stop="20240925120000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
-</programme>
-<programme start="20240925120000 +0800" stop="20240925150000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
-</programme>
-<programme start="20240925150000 +0800" stop="20240925184500 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月25日晚上18:45播映 </desc>
-</programme>
-<programme start="20240925184500 +0800" stop="20240925230500 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">28AI數據賽馬</title>
-<desc lang="zh">28AI數據賽馬 </desc>
-</programme>
-<programme start="20240925230500 +0800" stop="20240926000000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映 </desc>
-</programme>
-<programme start="2024092603000000 +0800" stop="20240926060000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映 </desc>
-</programme>
-<programme start="2024092606000000 +0800" stop="2024092609000000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
-</programme>
-<programme start="2024092609000000 +0800" stop="2024092612000000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
-</programme>
-<programme start="2024092612000000 +0800" stop="2024092615000000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
-</programme>
-<programme start="2024092615000000 +0800" stop="2024092618000000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
-</programme>
-<programme start="2024092618000000 +0800" stop="2024092621000000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
-</programme>
-<programme start="2024092621000000 +0800" stop="2024092700000000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</desc>
-</programme>
-<programme start="2024092703000000 +0800" stop="20240927060000 +0800" channel="28 AI 智慧賽馬">
-<title lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映</title>
-<desc lang="zh">直播節目「28AI數據賽馬」將於9月28日中午12:40播映 </desc>
 </programme>
 <programme start="20240925060000 +0800" stop="20240925070000 +0800" channel="明珠台">
 <title lang="zh">金融概要[英]</title>
@@ -7062,6 +7063,126 @@
 <title lang="zh">飛狐外傳</title>
 <desc lang="zh">十八年前,胡斐之父胡一刀,與苗人鳳交換刀劍比武,被己刀傷,繼而身亡,原來胡之刀早被田歸農塗上毒藥;苗妻南蘭被田勾引,竟拋夫棄女,后田更以毒粉弄瞎苗雙眼;斐見苗受此遭遇,決定代其向藥王求救,亦因此碰上一生中最愛的藥王傳人程靈素…… </desc>
 </programme>
+<programme start="20240925060000 +0800" stop="20240925065500 +0800" channel="中國電影頻道">
+<title lang="zh">遊俠黑蝴蝶--塞北除惡</title>
+<desc lang="zh">相傳我國清代民間有位行俠仗義的年輕女子,她無名無姓漂泊四方,人稱“遊俠黑蝴蝶。 </desc>
+</programme>
+<programme start="20240925065500 +0800" stop="20240925083500 +0800" channel="中國電影頻道">
+<title lang="zh">愛情不NG</title>
+<desc lang="zh">風頭正勁的影帝鄭直(信飾)受邀聯手急速走紅的女星蘇妮娜(鐘欣桐飾)領銜主演影片《小城往事》。在參演過程中,早已過慣大明星生活的鄭直,對窮小子生活的把握和表現始終得不到好萊塢新晉女導演曼迪?吳(李小冉飾)的滿意。更為糟糕的是,他的表演竟屢被導.. </desc>
+</programme>
+<programme start="20240925083500 +0800" stop="20240925100500 +0800" channel="中國電影頻道">
+<title lang="zh">決戰黃橋</title>
+<desc lang="zh">1940年5月17日,日偽軍大舉“掃蕩江都縣吳家橋地區。戰前,新四軍挺進縱隊曾與國民黨魯蘇皖邊區遊擊總指揮部相約共同禦敵。但日軍一來,國民黨部隊一槍未放就撤走了。為實施中共中央“向北發展、向東作戰、向南鞏固、擴大新四軍抗日戰線的戰略方針.. </desc>
+</programme>
+<programme start="20240925100500 +0800" stop="20240925113000 +0800" channel="中國電影頻道">
+<title lang="zh">你是我天使2</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925113000 +0800" stop="20240925131500 +0800" channel="中國電影頻道">
+<title lang="zh">我是你媽</title>
+<desc lang="zh">《我是你媽》故事梗概\n特立獨行的單身辣媽秦美麗對女兒趙小藝有著獨特的教育方式,這對不按常理出牌的母女形同姐妹又骨肉情深,相“礙相親、陪伴成長。 </desc>
+</programme>
+<programme start="20240925131500 +0800" stop="20240925145000 +0800" channel="中國電影頻道">
+<title lang="zh">南宋獵人之追獵八百里</title>
+<desc lang="zh">影片主要講述了南宋紹興十二年,奸臣張太尉陷害大將沈缺,並趁夜斬草除根。以沈寞為首的三兄弟逃出生天,流亡至安豐軍,為報血海深仇,剷除奸佞,沈寞兄弟與張太尉展開了一場驚心動魄的鬥爭。三兄弟被授予執法權,民間俗稱賞金獵人的故事 </desc>
+</programme>
+<programme start="20240925145000 +0800" stop="20240925161500 +0800" channel="中國電影頻道">
+<title lang="zh">東江密令之江湖</title>
+<desc lang="zh">《東江密令之江湖》梗概\n\n日軍意圖佔領香港,派出犬養收買拉攏各社團,第一個目標就是早已退隱江湖的坤叔。坤叔拒絕,犬養惱羞成怒,決定除掉坤叔,震懾他人。\n行動組接到保護坤叔的任務,爭取坤叔力量一起抗日。程亞楠認為保護不難,難在勸說。坤叔.. </desc>
+</programme>
+<programme start="20240925161500 +0800" stop="20240925175000 +0800" channel="中國電影頻道">
+<title lang="zh">老媽學車</title>
+<desc lang="zh">王大媽是北京胡同裡的一個性格開朗熱情的老太太。 她年輕時就夢想著當一名汽車司機,為了家、為了孩子沒當成,一直到退休這都是她心中的一個結兒,一天早晨,她蹬三輪車送孫女上學,因道遠,車慢,一路上的那個緊張勁兒,又勾起她對開汽車的懷念。於是在一次.. </desc>
+</programme>
+<programme start="20240925175000 +0800" stop="20240925193000 +0800" channel="中國電影頻道">
+<title lang="zh">八步沙</title>
+<desc lang="zh">上世紀八十年代,常年備受風沙之苦的八步沙六老漢按下手印,以承包的方式開發治理荒漠化土地。父輩們以愚公移山的精神治沙,年輕一代卻各有各的夢想。 </desc>
+</programme>
+<programme start="20240925193000 +0800" stop="20240925210000 +0800" channel="中國電影頻道">
+<title lang="zh">姚喆遊擊大青山</title>
+<desc lang="zh">1942年,以石合中將為首的日本侵略者採取鐵壁合圍戰術,妄想一舉消滅姚喆大青山支隊,姚喆偷襲綏靖城日軍輜重倉庫,遭到伏擊身受重傷,他巧妙地離開綏靖城,鬥智鬥勇地查處內奸,利用內奸使用調虎離山,明修棧道暗度陳倉之計,終於讓老奸巨猾的片山少佐上.. </desc>
+</programme>
+<programme start="20240925210000 +0800" stop="20240925223000 +0800" channel="中國電影頻道">
+<title lang="zh">無形獵手</title>
+<desc lang="zh">新人刑警何尚覺得高中生小聰跳樓自殺案件十分蹊蹺,疑點重重,於是和網警戴婷婷通力合作對案件展開調查,其間他們不僅發現了小聰墜樓的真相,更找到了失蹤已久的高中生小江。最終,他們將其繩之以法。 </desc>
+</programme>
+<programme start="20240925223000 +0800" stop="20240926001000 +0800" channel="中國電影頻道">
+<title lang="zh">黑暗中的救贖</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926001000 +0800" stop="20240926015000 +0800" channel="中國電影頻道">
+<title lang="zh">彝海結盟</title>
+<desc lang="zh">1935年 5月,長征途中紅軍渡過金沙江進入四川涼山地區。這一帶是少數民族聚集的地區。\n蔣介石為了剿滅紅軍,調動了幾十萬大軍妄圖把紅軍圍堵在大渡河以南。為了能順利前進,中共黨中央委派劉伯承、聶榮臻帶領紅軍先遣隊為大部隊開路。一路上先遣隊英.. </desc>
+</programme>
+<programme start="20240926015000 +0800" stop="20240926032500 +0800" channel="中國電影頻道">
+<title lang="zh">醫癡葉天士</title>
+<desc lang="zh">清朝乾隆年間,單府正在熱鬧的準備迎娶新娘,沒想到新娘子的花轎居然在家門口被太湖水寨的寨主崔七劫走,並索要白銀三萬兩才可以放人。崔七在劫人的過程中受傷,他們找來了名醫葉天士給崔七治傷,也讓他錯過了給蘇州知府郭炎醫病,郭一怒之下將葉天士送入大牢.. </desc>
+</programme>
+<programme start="2024092605050000 +0800" stop="20240926060000 +0800" channel="中國電影頻道">
+<title lang="zh">佛魔之劍</title>
+<desc lang="zh">明朝萬曆年間,年幼的馬行空被東廠公公曹花若收養,成為殺人工具。馬行空拿著義父與貴妃同娘娘共同擬就的一份誅殺名單,屢屢出手屢屢得手。一個個清官禦史的人頭落地,馬行空開始為自己的魔鬼行徑後怕反思。  琴師靈兒是馬行空陷入孤獨困苦時結識的一個純真.. </desc>
+</programme>
+<programme start="2024092606000000 +0800" stop="2024092606450000 +0800" channel="中國電影頻道">
+<title lang="zh">佛魔之劍</title>
+<desc lang="zh">明朝萬曆年間,年幼的馬行空被東廠公公曹花若收養,成為殺人工具。馬行空拿著義父與貴妃同娘娘共同擬就的一份誅殺名單,屢屢出手屢屢得手。一個個清官禦史的人頭落地,馬行空開始為自己的魔鬼行徑後怕反思。  琴師靈兒是馬行空陷入孤獨困苦時結識的一個純真..</desc>
+</programme>
+<programme start="2024092606450000 +0800" stop="2024092608350000 +0800" channel="中國電影頻道">
+<title lang="zh">血戰湘江</title>
+<desc lang="zh">《血戰湘江》故事梗概\n    紀念建軍90周年、迎接十九大重點影片《血戰湘江》講述了83年前紅軍付出巨大犧牲血戰湘江的悲壯故事,直面表現了紅軍將士滿懷對革命的無限忠誠、對党的堅定信念,在巨大困難和強大敵人面前,不怕任何艱難險阻,不惜付出一切..</desc>
+</programme>
+<programme start="2024092608350000 +0800" stop="2024092610050000 +0800" channel="中國電影頻道">
+<title lang="zh">草原上的搏克手</title>
+<desc lang="zh">小時候的那日松在搏克大會上親眼目睹了爺爺(草原蒼鷹)敗給了“白獅子。在城市長大的那日松認為父親失去了草原搏克精神,立志回到草原打敗“白獅子拿回屬於爺爺的“獎嘎。在學習搏克的過程中,明白了“獎嘎的真正含義。</desc>
+</programme>
+<programme start="2024092610050000 +0800" stop="2024092611350000 +0800" channel="中國電影頻道">
+<title lang="zh">飛鴻笑傳之破繭</title>
+<desc lang="zh">黃飛鴻帶領徒弟們去省城發展寶芝林,因誤會與當地虎鯊幫結仇,並結識了鬼腳七,收其為弟子。黃飛鴻年輕氣盛,致使寶芝林陷入危難之中,後因父親黃麒英的“假死,黃飛鴻心智轉變,刻苦習武,立誓為父報仇。</desc>
+</programme>
+<programme start="2024092611350000 +0800" stop="2024092613100000 +0800" channel="中國電影頻道">
+<title lang="zh">扭秧歌的春天</title>
+<desc lang="zh"></desc>
+</programme>
+<programme start="2024092613100000 +0800" stop="2024092614500000 +0800" channel="中國電影頻道">
+<title lang="zh">龍鳳村兒女</title>
+<desc lang="zh">本劇講述的是兩個無業大學生的故事。\n龍鳳村近年來文運亨通,報考的學子們幾乎全都接到了錄取通知。家家吃喜,慶賀兒女們成龍成鳳。就在這喜慶的暑期,大學畢業生葉青和她的男朋友周強由於找不到工作,灰溜溜地回到了村子。\n周強媽開著超市,手裡有錢,..</desc>
+</programme>
+<programme start="2024092614500000 +0800" stop="2024092616250000 +0800" channel="中國電影頻道">
+<title lang="zh">誘狼</title>
+<desc lang="zh">故事梗概\n\n1939年初冬,日軍對我晉察冀根據地進行第三次大掃蕩,日酋阿部規秀旅團充當急先鋒。晉察冀軍區第一分區第三遊擊支隊支隊長曾雍雅受命誘敵,他先以“示弱戰法,將日軍辻村大隊引誘至雁宿崖被我軍消滅,又以“示強、“麻雀等多種戰術..</desc>
+</programme>
+<programme start="2024092616250000 +0800" stop="2024092617550000 +0800" channel="中國電影頻道">
+<title lang="zh">布拉格有張床</title>
+<desc lang="zh">漫遊寫生的中國青年畫家石龍飛對捷克首都布拉格的奇特古建築及歐陸風情驚歎不已,卻被小北京斬了一筆導遊費,同時結識了從中國來此地修音樂的美麗姑娘夢茹,夢茹為他所吸引,就把他介紹到自己打工彈琴的餐館,為他在布拉格找了張床。\n    夢茹..</desc>
+</programme>
+<programme start="2024092617550000 +0800" stop="2024092619250000 +0800" channel="中國電影頻道">
+<title lang="zh">白色誘惑</title>
+<desc lang="zh">調酒師周飛完成戒毒回歸社會,與在酒吧工作的錢娜相好,誰料,錢娜的吸毒改變了一切。\n酒吧的詭異、錢娜吸毒的成因,這一切需要破解。周飛將錢娜送進強制隔離戒毒所,自己臥底酒吧,兩個人的命運從此改變。</desc>
+</programme>
+<programme start="2024092619250000 +0800" stop="2024092621000000 +0800" channel="中國電影頻道">
+<title lang="zh">三女休夫</title>
+<desc lang="zh">這是一部取材于李笠翁戲劇《奈何天》的娛樂片。描寫了闕裡侯作惡受懲,婚姻屢屢失敗的故事。批判了“金錢萬能、有錢就能通“神的社會醜惡現象,具有較強的現實教育意義。</desc>
+</programme>
+<programme start="2024092621000000 +0800" stop="2024092622400000 +0800" channel="中國電影頻道">
+<title lang="zh">混在北京</title>
+<desc lang="zh">影片描寫一群住在一舊筒子樓裡的一群來自各地的中青年知識份子,對事業和生活的不同追求、不同認識,以及由此產生的許多矛盾。\n\n    北京,一座普通的筒子樓裡,住著嚮導出版社外地分配來的大學生和研究生們。沙新是搞評論的研究生,對樓裡這幫號稱..</desc>
+</programme>
+<programme start="2024092622400000 +0800" stop="2024092700350000 +0800" channel="中國電影頻道">
+<title lang="zh">紅色娘子軍</title>
+<desc lang="zh">在第二次國內革命時期深受壓迫的海南島婦女,參加武裝鬥爭,打敗地主惡霸,其本身也在鬥爭中成長壯大了。\n    本片於1962年獲首屆大眾電影百花獎最佳故事片獎、最佳導演獎、最佳女演員獎(祝希娟)、最佳男配角獎(陳強);1964年獲第三..</desc>
+</programme>
+<programme start="2024092700350000 +0800" stop="2024092702050000 +0800" channel="中國電影頻道">
+<title lang="zh">三審奇石</title>
+<desc lang="zh">清乾隆年間,乾隆皇帝扮成趙客官微服私訪期間,到靈璧縣目睹了張鐘靈狀告王百石通過詐騙張鐘靈之父張有為而非法佔有張家的奇石——“五嶽鐘靈的過程。乾隆皇帝見此便出手相助,通過走訪調查,三次審理,查出事情的原委。最終找到了張父精心保存的真正的“五..</desc>
+</programme>
+<programme start="2024092702050000 +0800" stop="2024092703250000 +0800" channel="中國電影頻道">
+<title lang="zh">小鎮追凶</title>
+<desc lang="zh">高全是郯縣派出所的一名普通民警,刑偵專業畢業數十年的他一直紮根在基層工作,解決街坊鄰里的大小事情,直到巨山路井屍案的出現。高全主動請纓辦案。得知案件交由市局直接偵辦,積極協助辦案,最終查明案件真相。</desc>
+</programme>
+<programme start="2024092704500000 +0800" stop="20240927060000 +0800" channel="中國電影頻道">
+<title lang="zh">白毛女 長影</title>
+<desc lang="zh">在華北一個偏僻的農村,貧苦農民楊白勞的女兒喜兒與青年農民王大春相愛。地主黃世仁見色心動,逼債上門,強令楊白勞把欠他的六鬥穀子利上加利,在臘月底前還他二十五元大洋,否則就以女兒抵債。當楊白勞拿著一冬的血汗換來的七塊五毛大洋到黃家還利息時,黃要.. </desc>
+</programme>
 <programme start="20240925060000 +0800" stop="20240925070500 +0800" channel="ROCK Action">
 <title lang="zh">下一個就是你</title>
 <desc lang="zh">一名大學生調查一系列類似常見都市傳說的謀殺案。 </desc>
@@ -11887,7 +12008,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925063000 +0800" stop="20240925070000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰大視野  [普]</title>
+<title lang="zh">鳳凰大視野:  死亡密碼——民國梟雄的非常時刻  [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925070000 +0800" stop="20240925075700 +0800" channel="鳳凰香港">
@@ -11895,7 +12016,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925075700 +0800" stop="20240925080000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925080000 +0800" stop="20240925085700 +0800" channel="鳳凰香港">
@@ -11915,7 +12036,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925100000 +0800" stop="20240925103000 +0800" channel="鳳凰香港">
-<title lang="zh">香港新視點  [粵]</title>
+<title lang="zh">香港新視點 [粵]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925103000 +0800" stop="20240925110000 +0800" channel="鳳凰香港">
@@ -11935,7 +12056,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925125500 +0800" stop="20240925130000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925130000 +0800" stop="20240925135700 +0800" channel="鳳凰香港">
@@ -11946,24 +12067,24 @@
 <title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925140000 +0800" stop="20240925143000 +0800" channel="鳳凰香港">
-<title lang="zh">名人面對面  [普]</title>
+<programme start="20240925140000 +0800" stop="20240925145500 +0800" channel="鳳凰香港">
+<title lang="zh">鳳凰正點播報 1400  [普]</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925143000 +0800" stop="20240925150000 +0800" channel="鳳凰香港">
-<title lang="zh">問答神州  [普]</title>
+<programme start="20240925145500 +0800" stop="20240925150000 +0800" channel="鳳凰香港">
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925150000 +0800" stop="20240925153000 +0800" channel="鳳凰香港">
-<title lang="zh">香港新視點  [粵]</title>
+<title lang="zh">香港新視點 [粵]</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925153000 +0800" stop="20240925160000 +0800" channel="鳳凰香港">
+<programme start="20240925153000 +0800" stop="20240925155900 +0800" channel="鳳凰香港">
 <title lang="zh">時事大破解  [粵]</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925160000 +0800" stop="20240925163000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰大視野  [普]</title>
+<programme start="20240925155900 +0800" stop="20240925163000 +0800" channel="鳳凰香港">
+<title lang="zh">鳳凰香港台特別報道 [內含:「團結香港基金十週年」慶祝酒會]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925163000 +0800" stop="20240925170000 +0800" channel="鳳凰香港">
@@ -11975,7 +12096,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925173000 +0800" stop="20240925180000 +0800" channel="鳳凰香港">
-<title lang="zh">新聞鑒證組  [普]</title>
+<title lang="zh">文化大觀園  [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925180000 +0800" stop="20240925182700 +0800" channel="鳳凰香港">
@@ -11983,11 +12104,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925182700 +0800" stop="20240925183000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925183000 +0800" stop="20240925190000 +0800" channel="鳳凰香港">
-<title lang="zh">新聞今日談  [普]</title>
+<title lang="zh">新聞今日談 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925190000 +0800" stop="20240925195700 +0800" channel="鳳凰香港">
@@ -11995,7 +12116,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925195700 +0800" stop="20240925200000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925200000 +0800" stop="20240925203000 +0800" channel="鳳凰香港">
@@ -12003,19 +12124,19 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925203000 +0800" stop="20240925210000 +0800" channel="鳳凰香港">
-<title lang="zh">發現大灣區  [粵]</title>
+<title lang="zh">發現大灣區 [粵]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925210000 +0800" stop="20240925215500 +0800" channel="鳳凰香港">
-<title lang="zh">時事直通車  [普]</title>
+<title lang="zh">時事直通車 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925215500 +0800" stop="20240925220000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925220000 +0800" stop="20240925223000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰大視野  [普]</title>
+<title lang="zh">鳳凰大視野:  死亡密碼——民國梟雄的非常時刻  [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925223000 +0800" stop="20240925230000 +0800" channel="鳳凰香港">
@@ -12035,7 +12156,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240926003000 +0800" stop="20240926010000 +0800" channel="鳳凰香港">
-<title lang="zh">新聞今日談  [普]</title>
+<title lang="zh">新聞今日談 [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240926010000 +0800" stop="20240926013000 +0800" channel="鳳凰香港">
@@ -12051,7 +12172,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240926023000 +0800" stop="20240926030000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰大視野  [普]</title>
+<title lang="zh">鳳凰大視野:  死亡密碼——民國梟雄的非常時刻  [普]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240926030000 +0800" stop="20240926033000 +0800" channel="鳳凰香港">
@@ -12067,7 +12188,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240926043000 +0800" stop="20240926050000 +0800" channel="鳳凰香港">
-<title lang="zh">發現大灣區  [粵]</title>
+<title lang="zh">發現大灣區 [粵]</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="2024092605300000 +0800" stop="20240926060000 +0800" channel="鳳凰香港">
@@ -12079,7 +12200,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092606300000 +0800" stop="2024092607000000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰大視野  [普]</title>
+<title lang="zh">鳳凰大視野:  死亡密碼——民國梟雄的非常時刻  [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092607000000 +0800" stop="2024092607570000 +0800" channel="鳳凰香港">
@@ -12087,7 +12208,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092607570000 +0800" stop="2024092608000000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092608000000 +0800" stop="2024092608570000 +0800" channel="鳳凰香港">
@@ -12107,19 +12228,19 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092610000000 +0800" stop="2024092610300000 +0800" channel="鳳凰香港">
-<title lang="zh">發現大灣區  [粵]</title>
+<title lang="zh">發現大灣區 [粵]</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="2024092610300000 +0800" stop="2024092611000000 +0800" channel="鳳凰香港">
+<programme start="2024092610300000 +0800" stop="2024092610550000 +0800" channel="鳳凰香港">
 <title lang="zh">紀錄大時代  [普]</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="2024092611000000 +0800" stop="2024092611300000 +0800" channel="鳳凰香港">
+<programme start="2024092610550000 +0800" stop="2024092611250000 +0800" channel="鳳凰香港">
 <title lang="zh">時事大破解  [粵]</title>
 <desc lang="zh"></desc>
 </programme>
-<programme start="2024092611300000 +0800" stop="2024092612000000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰聚焦  [普]</title>
+<programme start="2024092611250000 +0800" stop="2024092612000000 +0800" channel="鳳凰香港">
+<title lang="zh">鳳凰香港台特別報道  [粵]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092612000000 +0800" stop="2024092612550000 +0800" channel="鳳凰香港">
@@ -12127,7 +12248,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092612550000 +0800" stop="2024092613000000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092613000000 +0800" stop="2024092613570000 +0800" channel="鳳凰香港">
@@ -12147,7 +12268,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092615000000 +0800" stop="2024092615300000 +0800" channel="鳳凰香港">
-<title lang="zh">發現大灣區  [粵]</title>
+<title lang="zh">發現大灣區 [粵]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092615300000 +0800" stop="2024092616000000 +0800" channel="鳳凰香港">
@@ -12155,7 +12276,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092616000000 +0800" stop="2024092616300000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰大視野  [普]</title>
+<title lang="zh">鳳凰大視野:  死亡密碼——民國梟雄的非常時刻  [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092616300000 +0800" stop="2024092617000000 +0800" channel="鳳凰香港">
@@ -12175,11 +12296,11 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092618270000 +0800" stop="2024092618300000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092618300000 +0800" stop="2024092619000000 +0800" channel="鳳凰香港">
-<title lang="zh">新聞今日談  [普]</title>
+<title lang="zh">新聞今日談 [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092619000000 +0800" stop="2024092619570000 +0800" channel="鳳凰香港">
@@ -12187,7 +12308,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092619570000 +0800" stop="2024092620000000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092620000000 +0800" stop="2024092620300000 +0800" channel="鳳凰香港">
@@ -12199,15 +12320,15 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092621000000 +0800" stop="2024092621550000 +0800" channel="鳳凰香港">
-<title lang="zh">時事直通車  [普]</title>
+<title lang="zh">時事直通車 [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092621550000 +0800" stop="2024092622000000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰氣象站  [普]</title>
+<title lang="zh">鳳凰氣象站 [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092622000000 +0800" stop="2024092622300000 +0800" channel="鳳凰香港">
-<title lang="zh">鳳凰大視野  [普]</title>
+<title lang="zh">鳳凰大視野:  死亡密碼——民國梟雄的非常時刻  [普]</title>
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092622300000 +0800" stop="2024092623000000 +0800" channel="鳳凰香港">
@@ -13420,7 +13541,7 @@
 </programme>
 <programme start="20240925073000 +0800" stop="20240925080000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">Counting the Cost</title>
-<desc lang="zh">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. </desc>
+<desc lang="zh">The U.S. Federal Reserve has cut interest rates, so why does it matter? </desc>
 </programme>
 <programme start="20240925080000 +0800" stop="20240925083000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">News Live</title>
@@ -13440,7 +13561,7 @@
 </programme>
 <programme start="20240925103000 +0800" stop="20240925110000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">The Listening Post</title>
-<desc lang="zh">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. </desc>
+<desc lang="zh">Elon Musks trajectory from tech visionary to attention-hungry media baron to political anarchist. Plus, Big Techs cobalt hunger is a big problem. </desc>
 </programme>
 <programme start="20240925110000 +0800" stop="20240925113000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">News Live</title>
@@ -13488,7 +13609,7 @@
 </programme>
 <programme start="20240925173000 +0800" stop="20240925180000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">The Stream</title>
-<desc lang="zh">Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines. </desc>
+<desc lang="zh">We explore how the leading pro-Israel lobby works to maintain Americas unconditional, multi-billion-dollar support for Israel. </desc>
 </programme>
 <programme start="20240925180000 +0800" stop="20240925190000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">Newshour</title>
@@ -13516,7 +13637,7 @@
 </programme>
 <programme start="20240925223000 +0800" stop="20240925230000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">Talk to Al Jazeera</title>
-<desc lang="zh">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. </desc>
+<desc lang="zh">Washingtons National Portrait Gallery director discusses how the narrative of U.S. governance has evolved. </desc>
 </programme>
 <programme start="20240925230000 +0800" stop="20240926000000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">Newshour</title>
@@ -13588,7 +13709,7 @@
 </programme>
 <programme start="2024092610300000 +0800" stop="2024092611000000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">The Stream</title>
-<desc lang="zh">Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.</desc>
+<desc lang="zh">We explore how the leading pro-Israel lobby works to maintain Americas unconditional, multi-billion-dollar support for Israel.</desc>
 </programme>
 <programme start="2024092611000000 +0800" stop="2024092611300000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">News Live</title>
@@ -13664,7 +13785,7 @@
 </programme>
 <programme start="2024092622300000 +0800" stop="2024092623000000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">The Listening Post</title>
-<desc lang="zh">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+<desc lang="zh">Elon Musks trajectory from tech visionary to attention-hungry media baron to political anarchist. Plus, Big Techs cobalt hunger is a big problem.</desc>
 </programme>
 <programme start="2024092623000000 +0800" stop="2024092700000000 +0800" channel="半島電視台英語頻道">
 <title lang="zh">Newshour</title>
@@ -15928,7 +16049,7 @@
 </programme>
 <programme start="20240925144500 +0800" stop="20240925154500 +0800" channel="測試頻道">
 <title lang="zh">奸人堅#13[粵][PG]</title>
-<desc lang="zh">其堅激動下認蘇飛作��，但要蘇飛及在場的玉碧保守秘密，並稱不會原諒蘇飛過往的一切，更給蘇飛一個「試用期」，蘇飛為寶藏無奈答應。其堅要蘇飛陪他踢足球，二人巧遇天圓及有成兩父子，更合力擊敗二人。飛鴻得眾人鼓勵功約會玉翠郊遊，但木納的飛鴻竟將郊遊變為採藥，玉翠大感納悶。其堅發現阿威的屍首，德才向蘇飛查問，令他懷疑蘇飛。其堅凝望玉佩時，玉佩竟在燈火下出現裂紋。蘇飛向其堅道出玉佩來歷，兩人更合力奪得其餘玉佩。 </desc>
+<desc lang="zh">其堅激動下認蘇飛作父，但要蘇飛及在場的玉碧保守秘密，並稱不會原諒蘇飛過往的一切，更給蘇飛一個「試用期」，蘇飛為寶藏無奈答應。其堅要蘇飛陪他踢足球，二人巧遇天圓及有成兩父子，更合力擊敗二人。飛鴻得眾人鼓勵功約會玉翠郊遊，但木納的飛鴻竟將郊遊變為採藥，玉翠大感納悶。其堅發現阿威的屍首，德才向蘇飛查問，令他懷疑蘇飛。其堅凝望玉佩時，玉佩竟在燈火下出現裂紋。蘇飛向其堅道出玉佩來歷，兩人更合力奪得其餘玉佩。 </desc>
 </programme>
 <programme start="20240925154500 +0800" stop="20240925162000 +0800" channel="測試頻道">
 <title lang="zh">交易現場[粵]</title>
@@ -15972,7 +16093,7 @@
 </programme>
 <programme start="20240925193000 +0800" stop="20240925200000 +0800" channel="測試頻道">
 <title lang="zh">東張西望[粵] 及 餵母乳 關我事!?[粵]</title>
-<desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。 </desc>
+<desc lang="zh">港人夫婦遊濟州島期間，妻子疑在汗蒸幕禁拍照區用手機拍攝被捕，丈夫對伴侶滯留當地感無奈。龍翔道的士相撞事故，涉事司機曾稱鄰線司機切線釀意外，車Cam片卻揭出另一版本？某停車場內十多輛車遭淋起漆水，受害車主懷疑事件涉及業權糾紛。數月前曾報道川龍村婆婆涉虐畜及囤積垃圾，屋外雜物獲清理後又故態復萌，終驚動發展商收地、夷平石屋。涉事夫婦搬走後居無定所，更成快餐店難民……周柏豪、王敏奕出席澳門活動，送上花絮。 </desc>
 </programme>
 <programme start="20240925200000 +0800" stop="20240925203000 +0800" channel="測試頻道">
 <title lang="zh">愛．回家之開心速遞#2383[粵]</title>
@@ -16016,7 +16137,7 @@
 </programme>
 <programme start="20240926010000 +0800" stop="20240926013000 +0800" channel="測試頻道">
 <title lang="zh">東張西望[粵]</title>
-<desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。 </desc>
+<desc lang="zh">港人夫婦遊濟州島期間，妻子疑在汗蒸幕禁拍照區用手機拍攝被捕，丈夫對伴侶滯留當地感無奈。龍翔道的士相撞事故，涉事司機曾稱鄰線司機切線釀意外，車Cam片卻揭出另一版本？某停車場內十多輛車遭淋起漆水，受害車主懷疑事件涉及業權糾紛。數月前曾報道川龍村婆婆涉虐畜及囤積垃圾，屋外雜物獲清理後又故態復萌，終驚動發展商收地、夷平石屋。涉事夫婦搬走後居無定所，更成快餐店難民……周柏豪、王敏奕出席澳門活動，送上花絮。 </desc>
 </programme>
 <programme start="20240926013000 +0800" stop="20240926013500 +0800" channel="測試頻道">
 <title lang="zh">宣傳易[粵]</title>
@@ -16024,7 +16145,7 @@
 </programme>
 <programme start="20240926013500 +0800" stop="20240926020500 +0800" channel="測試頻道">
 <title lang="zh">MUSIC BREAK[粵]</title>
-<desc lang="zh">星期一至五凌晨時分，不妨Take個《MUSIC BREAK》。節目播放精心挑選、最新、勁歌金榜上榜的歌曲MV，優質音樂作品每集連環放送。觀眾同時可掃瞄螢幕上的二維碼，登入網上直播平台，與開Live主持即席討論，實時互動。 </desc>
+<desc lang="zh">本集由潘靜文Sherman(@shshsherman)推介歌單，播放的MV包括「勁歌金榜No.3」歐陽靖MC Jin&lt;過山車 &amp;gt;；丁噹、吳若希&lt;談戀愛 &amp;gt;；吳業坤&lt;心拍數 &amp;gt;、尹光&lt;命硬八十 &amp;gt;、張彥博&lt;我們純屬意外 &amp;gt;、鄭俊弘&lt;爛好人 &amp;gt;、李榮浩&lt;輕輕田園系 &amp;gt;。 </desc>
 </programme>
 <programme start="20240926020500 +0800" stop="20240926030500 +0800" channel="測試頻道">
 <title lang="zh">流行都市[粵]</title>
@@ -16207,7 +16328,7 @@
 <desc lang="zh"></desc>
 </programme>
 <programme start="2024092701350000 +0800" stop="2024092702050000 +0800" channel="測試頻道">
-<title lang="zh">MUSIC BREAK[粵]</title>
+<title lang="zh">MUSIC BREAK[粵][PG]</title>
 <desc lang="zh">星期一至五凌晨時分，不妨Take個《MUSIC BREAK》。節目播放精心挑選、最新、勁歌金榜上榜的歌曲MV，優質音樂作品每集連環放送。觀眾同時可掃瞄螢幕上的二維碼，登入網上直播平台，與開Live主持即席討論，實時互動。</desc>
 </programme>
 <programme start="2024092702050000 +0800" stop="2024092703050000 +0800" channel="測試頻道">
@@ -17399,7 +17520,7 @@
 </programme>
 <programme start="20240926070000 +0000" stop="20240926073000 +0000" channel="Channel Suria">
 <title lang="zh">Detik Personaliti - EP 4</title>
-<desc lang="zh">A programme that profiles inspiring Singaporeans from within the Malay-Muslim and Singapore community.</desc>
+<desc lang="zh">Health Icons: Promoting a Healthy Lifestyle with Dynamic Doctor Duo, Dr Elly &amp; Dr Zuraimi. </desc>
 </programme>
 <programme start="20240926073000 +0000" stop="20240926080000 +0000" channel="Channel Suria">
 <title lang="zh">Eat,Fun And Pray - EP 7</title>
@@ -41868,32 +41989,108 @@
 <title lang="zh">立法院院會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925090000 +0800" stop="20240925180000 +0800" channel="國會頻道1">
-<title lang="zh">立法院會議直播(普)</title>
+<programme start="20240925175100 +0800" stop="20240925204200 +0800" channel="國會頻道1">
+<title lang="zh">立法院院會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925180000 +0800" stop="20240926000000 +0800" channel="國會頻道1">
-<title lang="zh">當日立法院會議轉播(普)</title>
+<programme start="20240925204200 +0800" stop="20240925205800 +0800" channel="國會頻道1">
+<title lang="zh">外交及國防委員會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926000000 +0800" stop="20240926050000 +0800" channel="國會頻道1">
-<title lang="zh">前日立法院會議轉播(普)</title>
+<programme start="20240925205800 +0800" stop="20240925212300 +0800" channel="國會頻道1">
+<title lang="zh">經濟委員會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926050000 +0800" stop="20240926084700 +0800" channel="國會頻道1">
-<title lang="zh">前日立法院會議轉播(普)</title>
+<programme start="20240925212300 +0800" stop="20240926000000 +0800" channel="國會頻道1">
+<title lang="zh">財政委員會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926084700 +0800" stop="20240926090000 +0800" channel="國會頻道1">
-<title lang="zh">週四會議預報(普)</title>
+<programme start="20240926000000 +0800" stop="20240926000800 +0800" channel="國會頻道1">
+<title lang="zh">內政委員會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926090000 +0800" stop="20240926180000 +0800" channel="國會頻道1">
-<title lang="zh">立法院會議直播(普)</title>
+<programme start="20240926000800 +0800" stop="20240926002500 +0800" channel="國會頻道1">
+<title lang="zh">外交及國防委員會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926180000 +0800" stop="20240927000000 +0800" channel="國會頻道1">
-<title lang="zh">當日立法院會議轉播(普)</title>
+<programme start="20240926002500 +0800" stop="20240926004900 +0800" channel="國會頻道1">
+<title lang="zh">經濟委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926004900 +0800" stop="20240926032600 +0800" channel="國會頻道1">
+<title lang="zh">財政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926032600 +0800" stop="20240926033400 +0800" channel="國會頻道1">
+<title lang="zh">內政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926033400 +0800" stop="20240926035100 +0800" channel="國會頻道1">
+<title lang="zh">外交及國防委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926035100 +0800" stop="20240926041600 +0800" channel="國會頻道1">
+<title lang="zh">經濟委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926041600 +0800" stop="20240926044600 +0800" channel="國會頻道1">
+<title lang="zh">財政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926044600 +0800" stop="20240926065300 +0800" channel="國會頻道1">
+<title lang="zh">財政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926065300 +0800" stop="20240926070100 +0800" channel="國會頻道1">
+<title lang="zh">內政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926070100 +0800" stop="20240926071700 +0800" channel="國會頻道1">
+<title lang="zh">外交及國防委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926071700 +0800" stop="20240926074200 +0800" channel="國會頻道1">
+<title lang="zh">經濟委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926074200 +0800" stop="20240926101900 +0800" channel="國會頻道1">
+<title lang="zh">財政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926101900 +0800" stop="20240926102700 +0800" channel="國會頻道1">
+<title lang="zh">內政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926102700 +0800" stop="20240926131800 +0800" channel="國會頻道1">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926131800 +0800" stop="20240926160800 +0800" channel="國會頻道1">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926160800 +0800" stop="20240926162500 +0800" channel="國會頻道1">
+<title lang="zh">外交及國防委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926162500 +0800" stop="20240926164900 +0800" channel="國會頻道1">
+<title lang="zh">經濟委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926164900 +0800" stop="20240926192600 +0800" channel="國會頻道1">
+<title lang="zh">財政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926192600 +0800" stop="20240926193400 +0800" channel="國會頻道1">
+<title lang="zh">內政委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926193400 +0800" stop="20240926222500 +0800" channel="國會頻道1">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926222500 +0800" stop="20240927011500 +0800" channel="國會頻道1">
+<title lang="zh">立法院院會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240924232900 +0800" stop="20240925021900 +0800" channel="國會頻道2">
@@ -41916,24 +42113,68 @@
 <title lang="zh">立法院院會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925090000 +0800" stop="20240925180000 +0800" channel="國會頻道2">
-<title lang="zh">立法院會議直播(普)</title>
+<programme start="20240925122800 +0800" stop="20240925151900 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925180000 +0800" stop="20240926000000 +0800" channel="國會頻道2">
-<title lang="zh">當日立法院會議轉播(普)</title>
+<programme start="20240925151900 +0800" stop="20240925180900 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926000000 +0800" stop="20240926050000 +0800" channel="國會頻道2">
-<title lang="zh">前日立法院會議轉播(普)</title>
+<programme start="20240925180900 +0800" stop="20240925182400 +0800" channel="國會頻道2">
+<title lang="zh">司法及法制委員會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926050000 +0800" stop="20240926084700 +0800" channel="國會頻道2">
-<title lang="zh">前日立法院會議轉播(普)</title>
+<programme start="20240925182400 +0800" stop="20240925183800 +0800" channel="國會頻道2">
+<title lang="zh">社會福利及衛生環境委員會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926084700 +0800" stop="20240926090000 +0800" channel="國會頻道2">
-<title lang="zh">週四會議預報(普)</title>
+<programme start="20240925183800 +0800" stop="20240925185100 +0800" channel="國會頻道2">
+<title lang="zh">教育及文化委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925185100 +0800" stop="20240925201600 +0800" channel="國會頻道2">
+<title lang="zh">交通委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925201600 +0800" stop="20240925230600 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925230600 +0800" stop="20240926015600 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925230600 +0800" stop="20240926015600 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926015600 +0800" stop="20240926021100 +0800" channel="國會頻道2">
+<title lang="zh">司法及法制委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926021100 +0800" stop="20240926022500 +0800" channel="國會頻道2">
+<title lang="zh">社會福利及衛生環境委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926022500 +0800" stop="20240926023800 +0800" channel="國會頻道2">
+<title lang="zh">教育及文化委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926023800 +0800" stop="20240926040300 +0800" channel="國會頻道2">
+<title lang="zh">交通委員會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926040300 +0800" stop="20240926050400 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926050400 +0800" stop="20240926065300 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926065300 +0800" stop="20240926090000 +0800" channel="國會頻道2">
+<title lang="zh">立法院院會(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240926090000 +0800" stop="20240926180000 +0800" channel="國會頻道2">
@@ -45076,8 +45317,12 @@
 <title lang="zh">奧運 法國VS加拿大 籃球 男子八強 8/7(普)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240926003000 +0800" stop="20240926013000 +0800" channel="愛爾達體育2台">
-<title lang="zh">奧運 BMX花式賽 女子公園賽決賽 7/31(普)</title>
+<programme start="20240926003000 +0800" stop="20240926010000 +0800" channel="愛爾達體育2台">
+<title lang="zh">歐霸戰國誌 #1 (首)(普)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926010000 +0800" stop="20240926013000 +0800" channel="愛爾達體育2台">
+<title lang="zh">歐冠足球誌#3(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240926013000 +0800" stop="20240926023000 +0800" channel="愛爾達體育2台">
@@ -55585,21 +55830,20 @@
 <desc lang="zh"> </desc>
 </programme>
 <channel id="河南卫视"><display-name lang="zh">河南卫视</display-name></channel>
+<channel id="河南新闻"><display-name lang="zh">河南新闻</display-name></channel>
 <channel id="河南都市"><display-name lang="zh">河南都市</display-name></channel>
 <channel id="河南民生"><display-name lang="zh">河南民生</display-name></channel>
 <channel id="河南法制"><display-name lang="zh">河南法制</display-name></channel>
-<channel id="河南电视剧"><display-name lang="zh">河南电视剧</display-name></channel>
-<channel id="河南新闻"><display-name lang="zh">河南新闻</display-name></channel>
-<channel id="河南欢腾购物"><display-name lang="zh">河南欢腾购物</display-name></channel>
 <channel id="河南公共"><display-name lang="zh">河南公共</display-name></channel>
 <channel id="河南乡村"><display-name lang="zh">河南乡村</display-name></channel>
-<channel id="河南国际"><display-name lang="zh">河南国际</display-name></channel>
+<channel id="河南电视剧"><display-name lang="zh">河南电视剧</display-name></channel>
 <channel id="河南梨园戏曲"><display-name lang="zh">河南梨园戏曲</display-name></channel>
 <channel id="河南文物宝库"><display-name lang="zh">河南文物宝库</display-name></channel>
 <channel id="河南武术"><display-name lang="zh">河南武术</display-name></channel>
 <channel id="河南晴彩中原"><display-name lang="zh">河南晴彩中原</display-name></channel>
 <channel id="河南移动戏曲"><display-name lang="zh">河南移动戏曲</display-name></channel>
 <channel id="河南象世界"><display-name lang="zh">河南象世界</display-name></channel>
+<channel id="河南欢腾购物"><display-name lang="zh">河南欢腾购物</display-name></channel>
 <channel id="国学时代界"><display-name lang="zh">国学时代界</display-name></channel>
 <programme start="20240925000000 +0800" stop="20240925022800 +0800" channel="河南卫视">
 <title lang="zh">栏目精编</title>
@@ -55659,6 +55903,98 @@
 </programme>
 <programme start="20240925212600 +0800" stop="20240925220000 +0800" channel="河南卫视">
 <title lang="zh">中国家宴1（精编）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925001100 +0800" stop="20240925060000 +0800" channel="河南新闻">
+<title lang="zh">梦里老家 大美中国</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925060000 +0800" stop="20240925070000 +0800" channel="河南新闻">
+<title lang="zh">新闻进行时（下午档）重播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925070000 +0800" stop="20240925073000 +0800" channel="河南新闻">
+<title lang="zh">河南午间报道</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925073000 +0800" stop="20240925080000 +0800" channel="河南新闻">
+<title lang="zh">河南新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925080000 +0800" stop="20240925084000 +0800" channel="河南新闻">
+<title lang="zh">政企面面观</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925084000 +0800" stop="20240925091000 +0800" channel="河南新闻">
+<title lang="zh">河南新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925091000 +0800" stop="20240925093000 +0800" channel="河南新闻">
+<title lang="zh">河南午间报道</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925093000 +0800" stop="20240925113000 +0800" channel="河南新闻">
+<title lang="zh">新闻进行时（上午档）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925113000 +0800" stop="20240925115000 +0800" channel="河南新闻">
+<title lang="zh">美丽河南美好家</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925115000 +0800" stop="20240925121000 +0800" channel="河南新闻">
+<title lang="zh">古今探法</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925121000 +0800" stop="20240925124500 +0800" channel="河南新闻">
+<title lang="zh">河南午间报道</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925124500 +0800" stop="20240925131500 +0800" channel="河南新闻">
+<title lang="zh">河南新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925131500 +0800" stop="20240925143000 +0800" channel="河南新闻">
+<title lang="zh">新闻进行时（下午档）重播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925143000 +0800" stop="20240925150000 +0800" channel="河南新闻">
+<title lang="zh">河南新闻联播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925150000 +0800" stop="20240925173000 +0800" channel="河南新闻">
+<title lang="zh">新闻进行时（下午档）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925173000 +0800" stop="20240925183700 +0800" channel="河南新闻">
+<title lang="zh">嗨聊</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925183700 +0800" stop="20240925185700 +0800" channel="河南新闻">
+<title lang="zh">美丽河南美好家</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925185700 +0800" stop="20240925190700 +0800" channel="河南新闻">
+<title lang="zh">古今探法</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925190700 +0800" stop="20240925193000 +0800" channel="河南新闻">
+<title lang="zh">河南午间报道</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925193000 +0800" stop="20240925210000 +0800" channel="河南新闻">
+<title lang="zh">新闻进行时（晚间档）</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925210000 +0800" stop="20240925213000 +0800" channel="河南新闻">
+<title lang="zh">健康中原</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925213000 +0800" stop="20240925223000 +0800" channel="河南新闻">
+<title lang="zh">新闻进行时（上午档）重播</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925223000 +0800" stop="20240925224100 +0800" channel="河南新闻">
+<title lang="zh">河南晚间报道</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925002000 +0800" stop="20240925013000 +0800" channel="河南都市">
@@ -55867,262 +56203,6 @@
 </programme>
 <programme start="20240925225000 +0800" stop="20240925230500 +0800" channel="河南法制">
 <title lang="zh">河南法治报道晚间版</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925000000 +0800" stop="20240925060000 +0800" channel="河南电视剧">
-<title lang="zh">惊险剧场：虎胆雄心</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925060000 +0800" stop="20240925112500 +0800" channel="河南电视剧">
-<title lang="zh">时光剧场：历史的进程</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925112500 +0800" stop="20240925135500 +0800" channel="河南电视剧">
-<title lang="zh">等着我</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925135500 +0800" stop="20240925160500 +0800" channel="河南电视剧">
-<title lang="zh">浓情剧场：强者风范</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925160500 +0800" stop="20240925170000 +0800" channel="河南电视剧">
-<title lang="zh">浓情剧场：智者无敌</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925170000 +0800" stop="20240925173000 +0800" channel="河南电视剧">
-<title lang="zh">都市大医生</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925173000 +0800" stop="20240925182800 +0800" channel="河南电视剧">
-<title lang="zh">等着我</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925001100 +0800" stop="20240925060000 +0800" channel="河南新闻">
-<title lang="zh">梦里老家 大美中国</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925060000 +0800" stop="20240925070000 +0800" channel="河南新闻">
-<title lang="zh">新闻进行时（下午档）重播</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925070000 +0800" stop="20240925073000 +0800" channel="河南新闻">
-<title lang="zh">河南午间报道</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925073000 +0800" stop="20240925080000 +0800" channel="河南新闻">
-<title lang="zh">河南新闻联播</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925080000 +0800" stop="20240925084000 +0800" channel="河南新闻">
-<title lang="zh">政企面面观</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925084000 +0800" stop="20240925091000 +0800" channel="河南新闻">
-<title lang="zh">河南新闻联播</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925091000 +0800" stop="20240925093000 +0800" channel="河南新闻">
-<title lang="zh">河南午间报道</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925093000 +0800" stop="20240925113000 +0800" channel="河南新闻">
-<title lang="zh">新闻进行时（上午档）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925113000 +0800" stop="20240925115000 +0800" channel="河南新闻">
-<title lang="zh">美丽河南美好家</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925115000 +0800" stop="20240925121000 +0800" channel="河南新闻">
-<title lang="zh">古今探法</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925121000 +0800" stop="20240925124500 +0800" channel="河南新闻">
-<title lang="zh">河南午间报道</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925124500 +0800" stop="20240925131500 +0800" channel="河南新闻">
-<title lang="zh">河南新闻联播</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925131500 +0800" stop="20240925143000 +0800" channel="河南新闻">
-<title lang="zh">新闻进行时（下午档）重播</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925143000 +0800" stop="20240925150000 +0800" channel="河南新闻">
-<title lang="zh">河南新闻联播</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925150000 +0800" stop="20240925173000 +0800" channel="河南新闻">
-<title lang="zh">新闻进行时（下午档）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925173000 +0800" stop="20240925183700 +0800" channel="河南新闻">
-<title lang="zh">嗨聊</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925183700 +0800" stop="20240925185700 +0800" channel="河南新闻">
-<title lang="zh">美丽河南美好家</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925185700 +0800" stop="20240925190700 +0800" channel="河南新闻">
-<title lang="zh">古今探法</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925190700 +0800" stop="20240925193000 +0800" channel="河南新闻">
-<title lang="zh">河南午间报道</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925193000 +0800" stop="20240925210000 +0800" channel="河南新闻">
-<title lang="zh">新闻进行时（晚间档）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925210000 +0800" stop="20240925213000 +0800" channel="河南新闻">
-<title lang="zh">健康中原</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925213000 +0800" stop="20240925223000 +0800" channel="河南新闻">
-<title lang="zh">新闻进行时（上午档）重播</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925223000 +0800" stop="20240925224100 +0800" channel="河南新闻">
-<title lang="zh">河南晚间报道</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925000000 +0800" stop="20240925004000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925004000 +0800" stop="20240925012000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925012000 +0800" stop="20240925020000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925020000 +0800" stop="20240925024000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925024000 +0800" stop="20240925032000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925032000 +0800" stop="20240925040000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925040000 +0800" stop="20240925044000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925044000 +0800" stop="20240925052000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925052000 +0800" stop="20240925060000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925060000 +0800" stop="20240925064000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925064000 +0800" stop="20240925072000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925072000 +0800" stop="20240925080000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间特惠商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925080000 +0800" stop="20240925084000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-上午优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925084000 +0800" stop="20240925092000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-上午优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925092000 +0800" stop="20240925100000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-上午优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925100000 +0800" stop="20240925104000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-上午优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925104000 +0800" stop="20240925112000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-上午优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925112000 +0800" stop="20240925120000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-上午优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925120000 +0800" stop="20240925124000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925124000 +0800" stop="20240925132000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925132000 +0800" stop="20240925140000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925140000 +0800" stop="20240925144000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925144000 +0800" stop="20240925152000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925152000 +0800" stop="20240925160000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925160000 +0800" stop="20240925164000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925164000 +0800" stop="20240925172000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925172000 +0800" stop="20240925180000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925180000 +0800" stop="20240925184000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925184000 +0800" stop="20240925192000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925192000 +0800" stop="20240925200000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-下午精选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925200000 +0800" stop="20240925204000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925204000 +0800" stop="20240925212000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925212000 +0800" stop="20240925220000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间优选商品</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925220000 +0800" stop="20240925224000 +0800" channel="河南欢腾购物">
-<title lang="zh">欢腾购物-晚间优选商品</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925000000 +0800" stop="20240925002000 +0800" channel="河南公共">
@@ -56395,6 +56475,34 @@
 </programme>
 <programme start="20240925215000 +0800" stop="20240925222000 +0800" channel="河南乡村">
 <title lang="zh">乡村你我行</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925000000 +0800" stop="20240925060000 +0800" channel="河南电视剧">
+<title lang="zh">惊险剧场：虎胆雄心</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925060000 +0800" stop="20240925112500 +0800" channel="河南电视剧">
+<title lang="zh">时光剧场：历史的进程</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925112500 +0800" stop="20240925135500 +0800" channel="河南电视剧">
+<title lang="zh">等着我</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925135500 +0800" stop="20240925160500 +0800" channel="河南电视剧">
+<title lang="zh">浓情剧场：强者风范</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925160500 +0800" stop="20240925170000 +0800" channel="河南电视剧">
+<title lang="zh">浓情剧场：智者无敌</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925170000 +0800" stop="20240925173000 +0800" channel="河南电视剧">
+<title lang="zh">都市大医生</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925173000 +0800" stop="20240925182800 +0800" channel="河南电视剧">
+<title lang="zh">等着我</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925000000 +0800" stop="20240925021500 +0800" channel="河南梨园戏曲">
@@ -56863,6 +56971,142 @@
 </programme>
 <programme start="20240925210000 +0800" stop="20240925220000 +0800" channel="河南象世界">
 <title lang="zh">中国节日节气奇妙游精选4</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925000000 +0800" stop="20240925004000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925004000 +0800" stop="20240925012000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925012000 +0800" stop="20240925020000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925020000 +0800" stop="20240925024000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925024000 +0800" stop="20240925032000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925032000 +0800" stop="20240925040000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925040000 +0800" stop="20240925044000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925044000 +0800" stop="20240925052000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925052000 +0800" stop="20240925060000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925060000 +0800" stop="20240925064000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925064000 +0800" stop="20240925072000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925072000 +0800" stop="20240925080000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间特惠商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925080000 +0800" stop="20240925084000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-上午优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925084000 +0800" stop="20240925092000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-上午优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925092000 +0800" stop="20240925100000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-上午优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925100000 +0800" stop="20240925104000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-上午优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925104000 +0800" stop="20240925112000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-上午优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925112000 +0800" stop="20240925120000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-上午优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925120000 +0800" stop="20240925124000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925124000 +0800" stop="20240925132000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925132000 +0800" stop="20240925140000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925140000 +0800" stop="20240925144000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925144000 +0800" stop="20240925152000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925152000 +0800" stop="20240925160000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925160000 +0800" stop="20240925164000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925164000 +0800" stop="20240925172000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925172000 +0800" stop="20240925180000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925180000 +0800" stop="20240925184000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925184000 +0800" stop="20240925192000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925192000 +0800" stop="20240925200000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-下午精选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925200000 +0800" stop="20240925204000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925204000 +0800" stop="20240925212000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925212000 +0800" stop="20240925220000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间优选商品</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240925220000 +0800" stop="20240925224000 +0800" channel="河南欢腾购物">
+<title lang="zh">欢腾购物-晚间优选商品</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925000200 +0800" stop="20240925004000 +0800" channel="国学时代界">
@@ -63183,6 +63427,82 @@
 <title lang="zh">喜羊羊与灰太狼之羊村守护者之羊村守护者六勇闯四季城</title>
 <desc lang="zh"> </desc>
 </programme>
+<programme start="20240926060000 +0800" stop="20240926061000 +0800" channel="广东嘉禾卡通">
+<title lang="zh">贝肯熊五</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926061000 +0800" stop="20240926070500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">猪猪侠之超星萌宠二</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926070500 +0800" stop="20240926073000 +0800" channel="广东嘉禾卡通">
+<title lang="zh">小小的世界</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926073000 +0800" stop="20240926092500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">猪猪侠之竞速小英雄五</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926092500 +0800" stop="20240926111500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">熊出没之怪兽计划二</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926111500 +0800" stop="20240926140500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">喜羊羊与灰太狼之羊村守护者之羊村守护者七遨游神秘洋</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926140500 +0800" stop="20240926160000 +0800" channel="广东嘉禾卡通">
+<title lang="zh">小花仙四时花语春夏</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926160000 +0800" stop="20240926171500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">熊出没之怪兽计划二</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926171500 +0800" stop="20240926173000 +0800" channel="广东嘉禾卡通">
+<title lang="zh">吼吼龙守卫队</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926173000 +0800" stop="20240926185600 +0800" channel="广东嘉禾卡通">
+<title lang="zh">熊出没之怪兽计划二</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926185600 +0800" stop="20240926191000 +0800" channel="广东嘉禾卡通">
+<title lang="zh">爆裂飞车之晶码迷踪</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926191000 +0800" stop="20240926192200 +0800" channel="广东嘉禾卡通">
+<title lang="zh">迷你特工队之超级战警力量</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926192200 +0800" stop="20240926200000 +0800" channel="广东嘉禾卡通">
+<title lang="zh">超级飞侠十六</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926200000 +0800" stop="20240926200300 +0800" channel="广东嘉禾卡通">
+<title lang="zh">2024大玩家-爆裂飞车3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926200300 +0800" stop="20240926200600 +0800" channel="广东嘉禾卡通">
+<title lang="zh">2024大玩家-量子战队3</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926200600 +0800" stop="20240926201500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">2024大玩家-拍立得卡</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926201500 +0800" stop="20240926210400 +0800" channel="广东嘉禾卡通">
+<title lang="zh">喜羊羊与灰太狼之羊村守护者之羊村守护者六勇闯四季城</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926210400 +0800" stop="20240926211500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">园林保护总动员</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926211500 +0800" stop="20240926220500 +0800" channel="广东嘉禾卡通">
+<title lang="zh">喜羊羊与灰太狼之羊村守护者之羊村守护者六勇闯四季城</title>
+<desc lang="zh"> </desc>
+</programme>
 <programme start="20240925060000 +0800" stop="20240925180000 +0800" channel="广东现代教育">
 <title lang="zh">智动画片、纪录片三档滚动(重播)</title>
 <desc lang="zh"> </desc>
@@ -63815,6 +64135,150 @@
 <title lang="zh">剧场连线:三看御妹(2)</title>
 <desc lang="zh"> </desc>
 </programme>
+<programme start="20240926003800 +0800" stop="20240926004300 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(644)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926004300 +0800" stop="20240926004600 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2167)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926004600 +0800" stop="20240926060000 +0800" channel="广东岭南戏曲">
+<title lang="zh">风雅潮韵:三王复国(7)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926060000 +0800" stop="20240926073400 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:三看御妹(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926073400 +0800" stop="20240926073800 +0800" channel="广东岭南戏曲">
+<title lang="zh">戏人戏语(345)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926073800 +0800" stop="20240926074300 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(644)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926074300 +0800" stop="20240926074600 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2168)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926074600 +0800" stop="20240926085800 +0800" channel="广东岭南戏曲">
+<title lang="zh">风雅潮韵:三王复国(7)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926085800 +0800" stop="20240926100400 +0800" channel="广东岭南戏曲">
+<title lang="zh">高手在民间:月擂主争霸赛(1)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926100400 +0800" stop="20240926114700 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:三看御妹(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926114700 +0800" stop="20240926123800 +0800" channel="广东岭南戏曲">
+<title lang="zh">老倌学堂:曹秀琴《残夜泣笺》</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926123800 +0800" stop="20240926124200 +0800" channel="广东岭南戏曲">
+<title lang="zh">戏人戏语(345)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926124200 +0800" stop="20240926124700 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(644)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926124700 +0800" stop="20240926125200 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2168)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926125200 +0800" stop="20240926142600 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:三看御妹(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926142600 +0800" stop="20240926145200 +0800" channel="广东岭南戏曲">
+<title lang="zh">红梅飘香:冯刚毅</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926145200 +0800" stop="20240926145600 +0800" channel="广东岭南戏曲">
+<title lang="zh">戏人戏语(345)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926145600 +0800" stop="20240926150100 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(644)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926150100 +0800" stop="20240926150500 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2168)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926150500 +0800" stop="20240926154600 +0800" channel="广东岭南戏曲">
+<title lang="zh">粤剧有我地第三季:陈骏旻</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926154600 +0800" stop="20240926164500 +0800" channel="广东岭南戏曲">
+<title lang="zh">高手在民间:月擂主争霸赛(2)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926164500 +0800" stop="20240926174500 +0800" channel="广东岭南戏曲">
+<title lang="zh">老倌学堂:曹秀琴《残夜泣笺》</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926174500 +0800" stop="20240926184800 +0800" channel="广东岭南戏曲">
+<title lang="zh">风雅潮韵:完玺归明(1)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926184800 +0800" stop="20240926185200 +0800" channel="广东岭南戏曲">
+<title lang="zh">戏人戏语(345)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926185200 +0800" stop="20240926185700 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(645)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926185700 +0800" stop="20240926190000 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2168)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926190000 +0800" stop="20240926204200 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:钟无艳(1)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926204200 +0800" stop="20240926204600 +0800" channel="广东岭南戏曲">
+<title lang="zh">戏人戏语(345)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926204600 +0800" stop="20240926205100 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(645)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926205100 +0800" stop="20240926205600 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2168)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926205600 +0800" stop="20240926221400 +0800" channel="广东岭南戏曲">
+<title lang="zh">锦绣梨园:女韵天籁桃李聚</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926221400 +0800" stop="20240926230600 +0800" channel="广东岭南戏曲">
+<title lang="zh">老倌学堂:曹秀琴《残夜泣笺》</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926230600 +0800" stop="20240926231000 +0800" channel="广东岭南戏曲">
+<title lang="zh">戏人戏语(345)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926231000 +0800" stop="20240926231500 +0800" channel="广东岭南戏曲">
+<title lang="zh">岭南大舞台:资讯(645)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926231500 +0800" stop="20240926232000 +0800" channel="广东岭南戏曲">
+<title lang="zh">趣谈广州话(2168)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20240926232000 +0800" stop="20240927001000 +0800" channel="广东岭南戏曲">
+<title lang="zh">剧场连线:钟无艳(1)</title>
+<desc lang="zh"> </desc>
+</programme>
 <channel id="陝西卫视"><display-name lang="zh">陝西卫视</display-name></channel>
 <channel id="陝西新闻"><display-name lang="zh">陝西新闻</display-name></channel>
 <channel id="陝西都市青春"><display-name lang="zh">陝西都市青春</display-name></channel>
@@ -63961,7 +64425,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925125300 +0800" stop="20240925130600 +0800" channel="陝西新闻">
-<title lang="zh">今日点击重播</title>
+<title lang="zh">今日点击重播（B17）</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925130600 +0800" stop="20240925134200 +0800" channel="陝西新闻">
@@ -64013,7 +64477,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925191700 +0800" stop="20240925193000 +0800" channel="陝西新闻">
-<title lang="zh">今日点击</title>
+<title lang="zh">今日点击(A10)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925193000 +0800" stop="20240925195700 +0800" channel="陝西新闻">
@@ -64021,7 +64485,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925195700 +0800" stop="20240925213000 +0800" channel="陝西新闻">
-<title lang="zh">追光的日子24-25</title>
+<title lang="zh">追光的日子24-25(A13-17)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925213000 +0800" stop="20240925221000 +0800" channel="陝西新闻">
@@ -64029,7 +64493,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925221000 +0800" stop="20240925224500 +0800" channel="陝西新闻">
-<title lang="zh">帮忙有一套</title>
+<title lang="zh">帮忙有一套（A21-22）</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925224500 +0800" stop="20240925225000 +0800" channel="陝西新闻">
@@ -65052,82 +65516,6 @@
 <title lang="zh">新安夜空</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20240925053000 +0800" stop="20240925064700 +0800" channel="安徽经济">
-<title lang="zh">第一时间（重播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925064700 +0800" stop="20240925073000 +0800" channel="安徽经济">
-<title lang="zh">帮女郎 帮你忙 （重播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925073000 +0800" stop="20240925081054 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：东四牌楼东</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925081054 +0800" stop="20240925084000 +0800" channel="安徽经济">
-<title lang="zh">健康行天下</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925084000 +0800" stop="20240925114000 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：东四牌楼东</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925114000 +0800" stop="20240925121500 +0800" channel="安徽经济">
-<title lang="zh">经视一时间（直播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925121500 +0800" stop="20240925130000 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：夜市人生</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925130000 +0800" stop="20240925162200 +0800" channel="安徽经济">
-<title lang="zh">生活剧场：夜市人生</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925162200 +0800" stop="20240925171020 +0800" channel="安徽经济">
-<title lang="zh">经视一时间</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925171020 +0800" stop="20240925173500 +0800" channel="安徽经济">
-<title lang="zh">健康行天下</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925173500 +0800" stop="20240925182000 +0800" channel="安徽经济">
-<title lang="zh">帮女郎 帮你忙（重播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925182000 +0800" stop="20240925194000 +0800" channel="安徽经济">
-<title lang="zh">第一时间（直播）</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925194000 +0800" stop="20240925203000 +0800" channel="安徽经济">
-<title lang="zh">钻石剧场：南来北往  </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925203000 +0800" stop="20240925212400 +0800" channel="安徽经济">
-<title lang="zh">钻石剧场：南来北往  </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925212400 +0800" stop="20240925220000 +0800" channel="安徽经济">
-<title lang="zh">钻石剧场：南来北往  </title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925220000 +0800" stop="20240925222500 +0800" channel="安徽经济">
-<title lang="zh"> 医道健康</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925222500 +0800" stop="20240925230500 +0800" channel="安徽经济">
-<title lang="zh">帮女郎帮你忙</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925230500 +0800" stop="20240925231000 +0800" channel="安徽经济">
-<title lang="zh">健康行天下</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925231000 +0800" stop="20240925234000 +0800" channel="安徽经济">
-<title lang="zh">真实纪录 </title>
-<desc lang="zh"> </desc>
-</programme>
 <programme start="20240925052100 +0800" stop="20240925062000 +0800" channel="安徽公共">
 <title lang="zh">夜线60分</title>
 <desc lang="zh"> </desc>
@@ -65242,90 +65630,6 @@
 </programme>
 <programme start="20240925230200 +0800" stop="20240925230800 +0800" channel="安徽公共">
 <title lang="zh">新闻第一线</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925053200 +0800" stop="20240925061200 +0800" channel="安徽影视">
-<title lang="zh">三农时空</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925061200 +0800" stop="20240925072100 +0800" channel="安徽影视">
-<title lang="zh">乡村零距离</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925072100 +0800" stop="20240925082600 +0800" channel="安徽影视">
-<title lang="zh">皖美乡村</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925082600 +0800" stop="20240925090600 +0800" channel="安徽影视">
-<title lang="zh">三农时空</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925090600 +0800" stop="20240925101900 +0800" channel="安徽影视">
-<title lang="zh">乡村普法剧场</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925101900 +0800" stop="20240925110900 +0800" channel="安徽影视">
-<title lang="zh">纵有疾风起</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925110900 +0800" stop="20240925120500 +0800" channel="安徽影视">
-<title lang="zh">纵有疾风起</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925120500 +0800" stop="20240925121100 +0800" channel="安徽影视">
-<title lang="zh">乡村零距离</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925121100 +0800" stop="20240925125800 +0800" channel="安徽影视">
-<title lang="zh">乡村普法剧场</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925125800 +0800" stop="20240925142300 +0800" channel="安徽影视">
-<title lang="zh">纵有疾风起</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925142300 +0800" stop="20240925144600 +0800" channel="安徽影视">
-<title lang="zh">皖美乡村</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925144600 +0800" stop="20240925155000 +0800" channel="安徽影视">
-<title lang="zh">乡村普法剧场</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925155000 +0800" stop="20240925163000 +0800" channel="安徽影视">
-<title lang="zh">皖美乡村</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925163000 +0800" stop="20240925171100 +0800" channel="安徽影视">
-<title lang="zh">七彩剧场</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925171100 +0800" stop="20240925182000 +0800" channel="安徽影视">
-<title lang="zh">皖美乡村</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925182000 +0800" stop="20240925190000 +0800" channel="安徽影视">
-<title lang="zh">三农时空</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925190000 +0800" stop="20240925194000 +0800" channel="安徽影视">
-<title lang="zh">皖美乡村</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925194000 +0800" stop="20240925203600 +0800" channel="安徽影视">
-<title lang="zh">乡村普法剧场</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925203600 +0800" stop="20240925212400 +0800" channel="安徽影视">
-<title lang="zh">铁血军歌</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925212400 +0800" stop="20240925221504 +0800" channel="安徽影视">
-<title lang="zh">铁血军歌</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20240925221504 +0800" stop="20240925230109 +0800" channel="安徽影视">
-<title lang="zh">三农时空</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20240925055500 +0800" stop="20240925063500 +0800" channel="安徽农业科教">
