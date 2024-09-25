@@ -5,7 +5,7 @@ V7 32位
 https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/release/leanback-python-armeabi_v7a.apk
 安卓低版本 https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/kitkat/leanback.apk
 
-想看安博推荐
+想看安博推荐推荐蜂蜜2.6.4正式版修复直播中的youtube直播
 V7 32位
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/2947e7627b1b84aad265ec7500b20b45a9d19692/apk/release/leanback-python-armeabi_v7a.apk
 V8  64位
