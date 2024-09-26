@@ -108,6 +108,10 @@ DW News,https://www.youtube.com/watch?v=tZT2MCYu6Zw
 LA NACION,https://www.youtube.com/watch?v=LY2XEQ_SSXA
 DW Español,https://www.youtube.com/watch?v=Io5mt83nCcU
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
+
+Kbs24,https://www.youtube.com/watch?v=OxQQsIvJTTU&pp=ygUDS2Jz
+
+
 CGTN на русском,https://www.youtube.com/watch?v=1L8VpTaLyNs
 Channels Television,https://www.youtube.com/watch?v=ENHYOYm-kUE
 Arise News,https://www.youtube.com/watch?v=tBQmrSWmGRQ
