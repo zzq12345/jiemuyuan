@@ -35,14 +35,14 @@
             "changeable": 0
         },
 
-		      {
+  {
             "key": "服务器油管",
             "name": "服务器油管",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
             "searchable": 1,
             "changeable": 1,
-            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+            "ext": {"动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"}
         },
       {
           "key": "B站",
