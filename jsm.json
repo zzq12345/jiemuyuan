@@ -1811,30 +1811,7 @@
                                  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
-			},			
-			{
-                                 "name": "安博",
-				###"url":"./anbo.txt",
-                                 "url": "https://tang.hz.cz/zb/anbo?token=d710cb29",
-                                  "ua": "okhttp/4.12.0",
-				"type": 3,
-				"playerType": 2,
-				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-                       
-                        },
-			
-                                 
-			
-        
-                        {
-				"name": "smarttv",
-				 "ua": "okhttp/3.0",
-	                         "playerType": 2,
-                                 "url": "./1.txt",
-	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-                       },
+			},				 
                        {
                            "name": "适合移动宽带",
                           "url": "./ziyong.m3u ",
