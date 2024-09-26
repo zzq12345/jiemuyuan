@@ -1793,8 +1793,17 @@
                                  "url":"https://raw.githubusercontent.com/zzq12345/playlist/main/tst"
 
                        },
-			
-			
+			{
+			"name": "张群",
+				###"url":"./anbo.txt",
+                                 "url": "https://anbox118.serv00.net/livetv.php",
+                                  "ua": "okhttp/4.12.0",
+				"type": 3,
+				"playerType": 2,
+				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       
+                        },
 
 		{
 		"name": "yang-1989 sport",
