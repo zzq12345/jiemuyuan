@@ -35,19 +35,32 @@
             "changeable": 0
         },
         {
-            "key": "BiliBili",
-            "name": "哔哩哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "type": "沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
-            }
-        },
+	"key":"py_cctv",
+	"name":"央视主要栏目",
+	"type":3,
+	"api":"./cctv.py"
+},      
+{
+			"key": "快看",
+			"name": "快看",
+			"type": 3,
+			"api": "csp_Kuaikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"filterable": 1
+		},
+		{ 
+			"key": "Ikanbot",
+			"name": "爱看机器人",
+			"type": 3, 
+			"api": "csp_Ikanbot",
+			"searchable": 1, 
+			"quickSearch": 1, 
+			"filterable": 1,
+			"changeable": 1 , 
+			"ext":"https://v.aikanbot.com$$$proxy"
+		},
 
 		
 	{
@@ -120,9 +133,32 @@
             "changeable":0
         },
         
-      
+      {
+          "key": "B站",
+            "name": "B站 | Bili[jar]",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "./lib/B站.json",
+                "cookie": ""
+            }
+        },
 		
-		
+		{
+
+			"key": "豆瓣",
+			"name": "豆瓣",
+			"type": 3,
+			"api": "csp_Douban",
+			"searchable": 0,
+			"changeable": 1,
+			"indexs":1,
+			"ext": "./lib/douban.json"
+			###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
+		},
 	
 	
 
@@ -507,20 +543,7 @@
         },
 
 
-		
-{
-          "key": "B站",
-            "name": "B站 | Bili[jar]",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./lib/B站.json",
-                "cookie": ""
-            }
-        },
+
 	        
 
 		{
@@ -755,18 +778,6 @@
 			"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$1$$$./lib/wogg.json"
 		},
 	
-		{
-
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "./lib/douban.json"
-			###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
-		},
 
 {
         "key": "黑木资源",
@@ -780,34 +791,7 @@
         "jar": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
     },
   		
-{
-	"key":"py_cctv",
-	"name":"央视主要栏目",
-	"type":3,
-	"api":"./cctv.py"
-},      
-{
-			"key": "快看",
-			"name": "快看",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},
-		{ 
-			"key": "Ikanbot",
-			"name": "爱看机器人",
-			"type": 3, 
-			"api": "csp_Ikanbot",
-			"searchable": 1, 
-			"quickSearch": 1, 
-			"filterable": 1,
-			"changeable": 1 , 
-			"ext":"https://v.aikanbot.com$$$proxy"
-		},
-		
+
 		
 		
 			
