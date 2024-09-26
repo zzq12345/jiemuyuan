@@ -39,7 +39,30 @@
 	"name":"央视主要栏目",
 	"type":3,
 	"api":"./cctv.py"
-},      
+},    
+	{
+			"key":"Youtube",
+			"name":"Youtube",
+			"type":3,
+			"api": "csp_Youtube",
+			
+			"searchable": 1,
+			
+			"quickSearch": 0,
+			"changeable": 0,
+			"timeout": 60,
+			"ext":{
+				"json":"./lib/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":"",
+				"proxy":"noproxy"
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},	
 {
 			"key": "快看",
 			"name": "快看",
@@ -229,29 +252,7 @@
                 "分类": "动漫电影$1#日本动漫$2#国产动漫$3#欧美动漫$4#短剧$20"
             }
 },
-		{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			
-			"searchable": 1,
-			
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 60,
-			"ext":{
-				"json":"./lib/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"noproxy"
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
-		},
+		
 {
       "key": "csp_xBPQ_可可",
       "name": "👻可可影视",
