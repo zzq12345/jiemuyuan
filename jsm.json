@@ -62,7 +62,88 @@
 	"type":3,
 	"api":"./cctv.py"
 },    
+	
 	{
+            "key": "克隆合集",
+            "name": "克隆合集",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/klhj.php",
+           "jar": "./fm.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "黑木耳克隆",
+            "name": "黑木耳克隆",
+
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/225.php",
+        "jar": "./fm.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "金鹰克隆",
+            "name": "金鹰克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/jy.php",
+"jar": "./fm.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "华为吧克隆",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/hwb.php",
+"jar": "./fm.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "索尼克隆",
+            "name": "索尼克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/sn.php",
+"jar": "./fm.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "服务器油管",
+            "name": "服务器油管",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/yt/yt001.php",
+"jar": "./fm.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#经典歌曲#documentary#bbc documentary"
+        },
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 1,
+            "api": "https://api.paoyun.eu.org/cjjh.php",
+"jar": "./fm.jar",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "油管播放列表",
+            "name": "油管播放列表",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/ytlb.php",
+"jar": "./fm.jar",
+            "searchable": 1,
+            "changeable": 1
+        },	
+		
+		{
 			"key":"Youtube",
 			"name":"Youtube",
 			"type":3,
