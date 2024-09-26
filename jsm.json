@@ -34,6 +34,21 @@
             "filterable": 1,
             "changeable": 0
         },
+
+		
+      {
+          "key": "B站",
+            "name": "B站 | Bili[jar]",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "./lib/B站.json",
+                "cookie": ""
+            }
+        },
         {
 	"key":"py_cctv",
 	"name":"央视主要栏目",
@@ -156,19 +171,6 @@
             "changeable":0
         },
         
-      {
-          "key": "B站",
-            "name": "B站 | Bili[jar]",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./lib/B站.json",
-                "cookie": ""
-            }
-        },
 		
 		{
 
