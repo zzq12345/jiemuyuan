@@ -1619,8 +1619,8 @@
 					
 			{
                                  "name": "pixman",
-				###"url":"./pixman.txt",
-                                 "url": "https://tang.hz.cz/zb/anbo?token=d710cb29",
+				"url":"./pixman.txt",
+                                 ###"url": "https://tang.hz.cz/zb/anbo?token=d710cb29",
                                   "ua": "okhttp/4.12.0",
 				"type": 3,
 				"playerType": 2,
