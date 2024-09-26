@@ -60,7 +60,7 @@
 			"name":"Youtube",
 			"type":3,
 			"api": "csp_Youtube",
-			
+			"jar": "./fm.jar",
 			"searchable": 1,
 			
 			"quickSearch": 0,
