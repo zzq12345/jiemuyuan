@@ -39,6 +39,7 @@
             "name": "服务器油管",
             "type": 4,
             "api": "https://api.paoyun.eu.org/yt/yt001.php",
+	     "jar": "./fm.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "新聞直播#动画片#短劇#劇集#綜藝#紀錄片#電影#體育#动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#经典歌曲#documentary#bbc documentary"
@@ -89,7 +90,7 @@
             "name": "金鹰克隆",
             "type": 4,
             "api": "https://api.paoyun.eu.org/jy.php",
-"jar": "./fm.jar",
+            "jar": "./fm.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -99,7 +100,7 @@
             "name": "华为吧克隆",
             "type": 4,
             "api": "https://api.paoyun.eu.org/hwb.php",
-"jar": "./fm.jar",
+             "jar": "./fm.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -109,7 +110,7 @@
             "name": "索尼克隆",
             "type": 4,
             "api": "https://api.paoyun.eu.org/sn.php",
-"jar": "./fm.jar",
+            "jar": "./fm.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -119,7 +120,7 @@
             "name": "服务器油管",
             "type": 4,
             "api": "https://api.paoyun.eu.org/yt/yt001.php",
-"jar": "./fm.jar",
+             "jar": "./fm.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#经典歌曲#documentary#bbc documentary"
@@ -129,7 +130,7 @@
             "name": "采集集合",
             "type": 1,
             "api": "https://api.paoyun.eu.org/cjjh.php",
-"jar": "./fm.jar",
+            "jar": "./fm.jar",
             "searchable": 1,
             "changeable": 1
         },
@@ -138,7 +139,7 @@
             "name": "油管播放列表",
             "type": 4,
             "api": "https://api.paoyun.eu.org/ytlb.php",
-"jar": "./fm.jar",
+            "jar": "./fm.jar",
             "searchable": 1,
             "changeable": 1
         },	
@@ -165,7 +166,7 @@
 				"ratio": 1.5
 			}
 		},	
-{
+                 {
 			"key": "快看",
 			"name": "快看",
 			"type": 3,
@@ -188,16 +189,16 @@
 		},
 
 		
-	{
-            "key": "黑木耳",
-            "name": "黑木耳",
-            "type": 1,
-          #####"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod",
+	        {
+                         "key": "黑木耳",
+                          "name": "黑木耳",
+                         "type": 1,
+                         #####"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod",
 			"api": "https://json.heimuer.xyz/api.php/provide/vod",
 	    "jar": "./spider.jar",
        ########"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=https://tang.hz.cz/api/user?token=",	
            
-	 ###"playUrl": "https://tang.hz.cz/api/user?token=&url=",
+	          ###"playUrl": "https://tang.hz.cz/api/user?token=&url=",
 		    
 		    "categories": [
  
@@ -271,15 +272,6 @@
 			"ext": "./lib/douban.json"
 			###"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="
 		},
-	
-	
-
-	
-     
-        
-        
-
-      
 		{
 		   "key": "VS影院", 
 		   "name": "VS影院", 
@@ -294,8 +286,8 @@
 			  "跳转播放链接":"src=\"https://jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
 			  "分类url":"https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html",
 			  "分类":"短剧$5#国产剧$17#港台剧$18#日韩剧$20#电视剧$2#电影$1#动作片$6#喜剧片$7#爱情片$8#恐怖片$10#动漫$4#综艺$3"
-	  }
-	   },	
+	                 }
+	        },	
 	
 		{
 			"key": "黑木耳新版测试",
@@ -308,27 +300,27 @@
 					"type":0,
 					"url": "https://player.heimuer.tv/index.html?url="
 				}
-			],
+			        ],
 			"searchable": 1,
 			"changeable": 1
 		},
-{
-   "key": "黑木耳pg",
-   "name": "黑木耳pg",
-   "type": 1,
-   "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1
-  },
+                 {
+                       "key": "黑木耳pg",
+                       "name": "黑木耳pg",
+                        "type": 1,
+                        "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
+                        "searchable": 1,
+                         "quickSearch": 1
+                 },
 
   
 		
-{
+            {
             "key": "ppxdm",
             "name": "💕ppx动漫",
             "type": 3,
             "api": "csp_XBPQ",
-	"jar": "./lib/XBPQ.jar",
+	         "jar": "./lib/XBPQ.jar",
             "ext": {
                 "主页url": "https://www.ppxdm.com/",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -340,9 +332,9 @@
                 "分类url": "https://www.ppxdm.com/v-show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "动漫电影$1#日本动漫$2#国产动漫$3#欧美动漫$4#短剧$20"
             }
-},
+                 },
 		
-{
+              {
       "key": "csp_xBPQ_可可",
       "name": "👻可可影视",
       "type": 3,
