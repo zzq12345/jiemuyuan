@@ -154,7 +154,7 @@
 		
 		{
 			"key":"Youtube",
-			"name":"Youtube",
+			"name":"Youtube使用前去网盘设置选第一个",
 			"type":3,
 			"api": "csp_Youtube",
 			#####"jar": "./fm.jar",
