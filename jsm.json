@@ -72,7 +72,7 @@
 	"api":"./cctv.py"
 },    
 	{
-    "key": "黑木耳",
+    "key": "黑木",
     "name": "黑木",
     "type": 1,
     "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
