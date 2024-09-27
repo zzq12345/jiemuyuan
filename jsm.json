@@ -150,7 +150,7 @@
 			"type":3,
 			"api": "csp_Youtube",
 			#####"jar": "./fm.jar",
-                        "ua": "com.google.ios.youtube/19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)",
+                        "ua": "19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)",
 			###{"context": {"client": {"clientName": "IOS","clientVersion": "19.29.1","deviceMake": "Apple","deviceModel": "iPhone16,2","userAgent": "com.google.ios.youtube/19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)","osName": "iPhone","osVersion": "17.5.1.21F90","hl": "en","timeZone": "UTC","utcOffsetMinutes": 0}},"videoId": "OH_ejx_-F2Y","playbackContext": {"contentPlaybackContext": {"html5Preference": "HTML5_PREF_WANTS","signatureTimestamp": 19984}},"contentCheckOk": true,"racyCheckOk": true}
 			"searchable": 1,
 			"quickSearch": 0,
