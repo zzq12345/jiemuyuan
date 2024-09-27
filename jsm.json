@@ -1910,8 +1910,7 @@
 { "name": "大视界｜雜中臺港", "type": 0, "url": "http://zb.xmzb.xyz/%e5%a4%a7%e8%a7%86%e7%95%8c3.txt","playerType": 2, "ua": "okhttp/3.15", "pass": true, "timeout": 5, "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong", "logo": "https://epg.112114.xyz/logo/{name}.png" },
 { "name": "456寶貝｜雜中臺港", "type": 0, "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt","playerType": 2, "ua": "okhttp/3.15", "timeout": 5, "pass": true, "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong", "logo": "https://epg.112114.xyz/logo/{name}.png" },
 { "name": "宝盒｜Only International", "type": 0, "url": "https://epg.pw/test_channels.m3u","playerType": 2, "ua": "okhttp/3.8.1", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" }, 
-{ "name": "香蕉哥佛系｜Sport", "type": 0, "url": "https://tv.iill.top/m3u/Sport", https://github.com/YanG-1989"playerType": 2, "ua": "okhttp/3.15", "pass": true, "timeout": 5, "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong", "logo": "https://epg.112114.xyz/logo/{name}.png" }, 
-			
+
 			{
 				"name": "live.fan",
 				"type": 0,
