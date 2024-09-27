@@ -1719,17 +1719,18 @@
 	 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
-                {
-				"name": "小白专用mytvsuper",
-				 ###"ua": "okhttp/5.2.0",
-	                         "playerType": 2,
-
-			"url": "https://judy.567852.xyz/live/playlist.m3u?token=736121748208461",
-                                ###$ "url": "http://127.0.0.1:8081/mytvsuper.php",
-	                         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                
+			{
+                                 "name": "安博",
+				###"url":"./anbo.txt",
+                                 "url": "https://tang.hz.cz/zb/anbo?token=d710cb29",
+                                  "ua": "okhttp/4.12.0",
+				"type": 3,
+				"playerType": 2,
+				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       
                         },
-			
 		{
                      "name":"临时测试ip6",
                      "url":"https://raw.githubusercontent.com/Potato-66/SimpleTV/main/m3u/ipv6/IPTV.m3u",
