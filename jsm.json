@@ -150,7 +150,6 @@
 			"api": "csp_Youtube",
 			#####"jar": "./fm.jar",
 			"searchable": 1,
-			
 			"quickSearch": 0,
 			"changeable": 0,
 			"timeout": 60,
