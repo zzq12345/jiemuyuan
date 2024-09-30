@@ -1,10 +1,18 @@
-强烈推荐建议使用ok影视版本2.3.4，不要升级。影视OK  pro2.6.4版本同意支持
-下载地址为:
+强烈推荐建议使用ok影视版本2.3.4， 2.5.8不要升级。影视OK  pro2.6.4版本同意支持
+2.3.4版本下载地址为:
 V8 64位,https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/release/leanback-python-arm64_v8a.apk
 V7 32位
 https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/release/leanback-python-armeabi_v7a.apk
 安卓低版本 https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/kitkat/leanback.apk
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/88f15d64cdb4ea8184d43ad9575c5844efd7fba3/apk/release/leanback-python-arm64_v8a.apk
 
+2.5.8版本
+
+V7 32位
+https://raw.githubusercontent.com/lystv/fmapp/88f15d64cdb4ea8184d43ad9575c5844efd7fba3/apk/release/leanback-python-armeabi_v7a.apk
+V8 64位
+
+64为
 想看安博推荐推荐蜂蜜2.6.4正式版修复直播中的youtube直播
 V7 32位
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/2947e7627b1b84aad265ec7500b20b45a9d19692/apk/release/leanback-python-armeabi_v7a.apk
