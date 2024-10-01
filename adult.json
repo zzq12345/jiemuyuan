@@ -46,7 +46,7 @@
             "name": "🔞SOAV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
+            "jar": "./lib/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -69,7 +69,7 @@
             "name": "顶级网曝",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
+            "jar": "./lib/XBPQ.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
