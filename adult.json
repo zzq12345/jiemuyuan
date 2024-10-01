@@ -41,7 +41,153 @@
                 "分类": "无圣光视频$wushebgguang/无圣光视频#微密视频$weme/wmsp#森甜视频$stxl/stsp#网红视频$whxl/whsp"
             }
         },
+{
+        "key": "SOAV",
+            "name": "🔞SOAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://777080.xyz/",
+                "搜索url": "https://777080.xyz/?s={wd}",
+                "数组": "data-video-uid=&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️少看点，再看你就废了！！！",
+                "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
+                "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
+            }
+        },
+      {
+            "key": "csp_顶级网曝",
+            "name": "顶级网曝",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "请求头": "手机",
+                "站名": "顶级网曝",
+                "主页url": "https://www.djwb3.top/",
+                "数组": "<li class=\"content-item\">&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "播放数组": "<td>&&</td>",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+                "免嗅": "0",
+                "搜索url": "https://www.djwb3.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "嗅探词": ".m3u8#.mp4",
+                "分类url": "https://www.djwb3.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类数组": "<li&&</li>",
+                "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+                "分类ID": "/index.php/vod/type/id/&&.html"
+            }
+        },
 
+       {
+            "api":"./jar/吃瓜大队.py",
+            "filterable": 1,
+            "key": "吃瓜大队py",
+            "name": "🔞吃瓜大队",
+            "quickSearch": 1,
+            "searchable": 1,
+       "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "type": 3
+        },
+
+        {
+            "key": "农夫与少妇",
+            "name": "🔞 农夫与少妇",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/农夫与少妇.json"
+        },
+
+        
+   
+        
+         {
+            "key": "KanAV",
+            "name": "🔞KanAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://kanav.info/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"video-item\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#自拍泄密$30#探花约炮$31#主播录制$32#动漫番剧$20#里番$25#泡面番$26#Motion Anime$27#3D动画$28#同人作品$29"
+            }
+        },
+
+     {
+            "key": "亚色影库",
+            "name": "🔞亚瑟影库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://www.yasetube.com/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "分类url": "https://www.yasetube.com/video/category/{cateId}/page/{catePg}",
+                "分类": "女厕偷拍$nvce#海角系列$hj#FC2 PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou"
+            }
+        },
+
+       {
+            "key": "色最色",
+            "name": "🔞色最色",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://xn--zovv42dba.com/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
+                "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"
+            }
+        },
+       {
+            "key": "csp_91黑料",
+            "name": "91黑料",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/spider.jar",
+            "ext": {
+                "主页url": "https://kb17.oneoneno8cd345.xyz/one",
+                "首页": "400",
+                "请求头": "User-Agent$PC_UA",
+                "数组": "<a&&</a>[不包含:91网曝黑料网#最近更新]",
+                "二次截取": "<div class=\"videoListBox\"&&el-pagination is-backgr"
+	    },
+		    
 {
   "key": "JAVDAY",
   "name": "🔞JAVDAY",
