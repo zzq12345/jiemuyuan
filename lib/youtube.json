@@ -1,32 +1,6 @@
 {
 	"recommend":"LIST:最新|推薦,官方頻道",
 	"class":[
-
-                 {
-			"type_id":"LIST:新闻 Live,体育直播,赛事直播",
-			"type_name":"新聞直播"
-		},
-		{
-			"type_id":"LIST:综艺,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺",
-			"type_name":"綜藝"
-		},
-		{
-			"type_id":"LIST:紀錄片,历史纪录片,自然纪录片,宇宙纪录片",
-			"type_name":"紀錄片"
-		},
-		
-		{
-			"type_id":"短劇",
-			"type_name":"短劇"
-		},
-		{
-			"type_id":"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB",
-			"type_name":"劇集"
-		},
-		{
-			"type_id":"電影",
-			"type_name":"電影"
-		},
 		{
 			"type_id":"GETTRENDS",
 			"type_name":"Youtube Trends"
@@ -43,7 +17,30 @@
 			"type_id":"LIST:华语音乐,华语MV,点击率最高",
 			"type_name":"音樂"
 		},
-		
+		{
+			"type_id":"LIST:综艺,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺",
+			"type_name":"綜藝"
+		},
+		{
+			"type_id":"LIST:紀錄片,历史纪录片,自然纪录片,宇宙纪录片",
+			"type_name":"紀錄片"
+		},
+		{
+			"type_id":"LIST:新闻 Live,体育直播,赛事直播",
+			"type_name":"新聞直播"
+		},
+		{
+			"type_id":"短劇",
+			"type_name":"短劇"
+		},
+		{
+			"type_id":"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB",
+			"type_name":"劇集"
+		},
+		{
+			"type_id":"電影",
+			"type_name":"電影"
+		},
 		{
 			"type_id":"體育",
 			"type_name":"體育"
