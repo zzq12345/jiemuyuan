@@ -198,25 +198,7 @@
                 "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"
             }
         },
-       {
-            "key": "csp_91黑料",
-            "name": "91黑料",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/spider.jar",
-            "ext": {
-                "主页url": "https://kb17.oneoneno8cd345.xyz/one",
-                "首页": "400",
-                "请求头": "User-Agent$PC_UA",
-                "数组": "<a&&</a>[不包含:91网曝黑料网#最近更新]",
-                "二次截取": "<div class=\"videoListBox\"&&el-pagination is-backgr"
-	    }
-        },
-		    
-{
+   {
   "key": "JAVDAY",
   "name": "🔞JAVDAY",
   "type": 3,
