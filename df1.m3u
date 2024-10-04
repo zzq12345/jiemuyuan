@@ -2,8 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频",CCTV6高清
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+
 
 
 #EXTINF:-1 tvg-id="800063" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="央视频",兵团卫视
@@ -5538,6 +5537,7 @@ http://127.0.0.1:8081/shanghai.php?id=shics
 http://127.0.0.1:8081/qinghuatv.php
 
 
+
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
 http://127.0.0.1:8081/btimeapp.php?id=bjws
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实科教
@@ -5570,7 +5570,6 @@ http://127.0.0.1:8081/beijingtime.php?id=bjsh
 http://127.0.0.1:8081/beijingtime.php?id=bjxw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
 http://127.0.0.1:8081/beijingtime.php?id=brtv8k
-
 
 
 
@@ -5741,7 +5740,7 @@ http://127.0.0.1:8081/henan.php?id=9
 http://127.0.0.1:8081/henan.php?id=10
 #EXTINF:-1 tvg-id="河南武术" tvg-name="河南武术" tvg-logo="" group-title="地方",河南武术
 http://127.0.0.1:8081/henan.php?id=11
-#EXTINF:-1 tvg-id="河南睛彩中原" tvg-name="河南睛彩中原" tvg-logo="" group-title="地方",河南睛彩中原
+#EXTINF:-1 tvg-id="河南晴彩中原" tvg-name="河南晴彩中原" tvg-logo="" group-title="地方",河南晴彩中原
 http://127.0.0.1:8081/henan.php?id=12
 #EXTINF:-1 tvg-id="河南移动戏曲" tvg-name="河南移动戏曲" tvg-logo="" group-title="地方",河南移动戏曲
 http://127.0.0.1:8081/henan.php?id=13
