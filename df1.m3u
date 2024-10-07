@@ -3438,6 +3438,8 @@ http://127.0.0.1:8081/diyicaijing1.php
 http://127.0.0.1:8081/kankanlive.php?id=1
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
 http://127.0.0.1:8081/kankanlive.php?id=2
+#EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
+http://127.0.0.1:8081/kankanlive.php?id=3
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
 http://127.0.0.1:8081/kankanriview.php?id=1
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
