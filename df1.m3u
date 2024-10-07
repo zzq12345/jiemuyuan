@@ -3434,17 +3434,17 @@ http://127.0.0.1:8081/diyicaijing1.php
 
 
 
-#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
+#EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
 http://127.0.0.1:8081/kankanlive.php?id=1
-#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
+#EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
 http://127.0.0.1:8081/kankanlive.php?id=2
-#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
+#EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
 http://127.0.0.1:8081/kankanriview.php?id=1
-#EXTINF:-1 tvg-id="100700" tvg-name="" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
+#EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
 http://127.0.0.1:8081/kankanriview.php?id=2
-#EXTINF:-1 tvg-id="100699" tvg-name="" tvg-logo="" group-title="youtube中文新闻",第一財經直播
+#EXTINF:-1 tvg-id="第一財經直播" tvg-name="第一財經直播" tvg-logo="" group-title="youtube中文新闻",第一財經直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=1
-#EXTINF:-1 tvg-id="1006997" tvg-name="" tvg-logo="" group-title="youtube中文新闻",第一財經直播
+#EXTINF:-1 tvg-id="第一財經直播" tvg-name="第一財經直播" tvg-logo="" group-title="youtube中文新闻",第一財經直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=2
 
 
