@@ -3553,7 +3553,8 @@ http://192.168.10.250/youtube.php?v=C6gYqSHLRw4
 http://192.168.10.250/gongshi13.php
 #EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube中文新闻",公視台語台
 http://192.168.10.250/gongshi14.php
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",人生清洁员
+https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
 
 
 
