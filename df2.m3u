@@ -3423,17 +3423,6 @@ http://192.168.10.250/douyin.php?id=208823316033
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://assets.livednow.com/logo/cctv1.png" group-title="youtube中文新闻", cctv1
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mbd.m3u8?auth_key=1728333799-0-c12a73e5616341e7bfe7d28c35006f69-8e59848f476b66df4099458fec640d9c&yid=c12a73e5616341e7bfe7d28c35006f69
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://assets.livednow.com/logo/cctv2.png" group-title="youtube中文新闻", cctv2
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv2_mbd.m3u8?auth_key=1728333908-0-c12a73e5616341e7bfe7d28c35006f69-b508639ffbe360f6bff23692e008b413&yid=c12a73e5616341e7bfe7d28c35006f69
-#EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="https://assets.livednow.com/logo/cctv4.png" group-title="youtube中文新闻", cctv4
-
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1728333980-0-c12a73e5616341e7bfe7d28c35006f69-04cafc455d94eff73d0cb6d982d38d82&yid=c12a73e5616341e7bfe7d28c35006f69
-
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://assets.livednow.com/logo/cctv13.png" group-title="youtube中文新闻", cctv13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1728333630-0-c12a73e5616341e7bfe7d28c35006f69-8cb563be32d3ad5688aa9b00f0a7ec7f&yid=c12a73e5616341e7bfe7d28c35006f69
-
 
 
 #EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="youtube中文新闻",第一财经电视台
