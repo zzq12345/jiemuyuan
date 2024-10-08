@@ -1,4 +1,5 @@
 新聞,#genre#
+人生清洁员,https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
 8 world,https://www.youtube.com/watch?v=RvSOIM620bA
 鳳凰衛視資訊台,https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
