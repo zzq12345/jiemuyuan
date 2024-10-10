@@ -10,7 +10,8 @@ cctv4,https://www.youtube.com/watch?v=twhG7_jvA8g
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
-華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E&pp=ygUS6I-v6KaW5aWn6YGL55u05pKt
+
 TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛電視台1台台灣,https://m.youtube.com/watch?v=oV_i3Hsl_zg&pp=ygUP5aSn5oSb6Zu76KaW5Y-w
