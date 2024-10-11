@@ -1881,8 +1881,9 @@
                       "epg": "https://epg.112114.xyz/?ch={name}&date={date}?",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
                         },           
- 
-	                {
+ {
+	                
+			{
 				"name": "国内",
 				"type": 0,
 				"playerType": 2,
@@ -1890,7 +1891,13 @@
 				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 			},	 
-                        
+                        "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
                       {
                       "name":"国内频道直播",
                       "url":"./guoneizhibo.txt",
