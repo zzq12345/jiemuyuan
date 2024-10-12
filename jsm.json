@@ -1753,8 +1753,8 @@
 	                         "playerType": 2,
                         
 	"url":"https://tv.iill.top/m3u/Gather",
-	###"epg": "https://epg.iill.top/epg/index.php",
-		"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+	"epg": "https://epg.iill.top/epg/index.php",
+		###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
  },
                 
