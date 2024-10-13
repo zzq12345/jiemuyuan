@@ -1757,7 +1757,7 @@
 	                         "playerType": 2,
 	       "url":"https://127.0.0.1:8081/mytvsuper.php",
 	       "epg": "https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epgmytvsuper.xml",
-		###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+	
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
          	},
         
@@ -1768,7 +1768,7 @@
 	                         "playerType": 2,  
 	"url":"https://tv.iill.top/m3u/Gather",
 	"epg": "https://epg.iill.top/epg/index.php",
-		###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+		
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
  
             },  
