@@ -1755,25 +1755,24 @@
 				"name": "mytvsuper",
 				 "ua": "okhttp/3.12.0",
 	                         "playerType": 2,
-                        
-	"url":"https://127.0.0.1:8081/mytvsuper.php",
-	"epg": "https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epgmytvsuper.xml",
+	       "url":"https://127.0.0.1:8081/mytvsuper.php",
+	       "epg": "https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epgmytvsuper.xml",
 		###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
- },	
+         	},
         
 			
 			{
 				"name": "yang1989适合国内",
 				 "ua": "okhttp/3.12.0",
-	                         "playerType": 2,
-                        
+	                         "playerType": 2,  
 	"url":"https://tv.iill.top/m3u/Gather",
 	"epg": "https://epg.iill.top/epg/index.php",
 		###"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
- },
-                
+ 
+            },  
+			
 			{
                                  "name": "安博",
 				###"url":"./anbo.txt",
@@ -1793,7 +1792,7 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
                         },
 
-{
+             {
 				"name": "mimipipi22",
 				 ###"ua": "okhttp/5.2.0",
 	                         "playerType": 2,
