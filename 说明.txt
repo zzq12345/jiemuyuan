@@ -1,4 +1,4 @@
-强烈推荐建议使用ok影视版本2.3.4， 2.5.8不要升级。影视OK  pro2.6.4版本同意支持
+强烈推荐建议使用ok影视版本2.3.4， 2.5.8不要升级。影视OK  pro2.6.5版本也同时支持
 2.3.4版本下载地址为:
 V8 64位,https://raw.githubusercontent.com/FongMi/Release/d4d05b9c2bfdb2ac15faa3012109d1a247854aca/apk/release/leanback-python-arm64_v8a.apk
 V7 32位
