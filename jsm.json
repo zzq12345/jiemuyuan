@@ -47,17 +47,7 @@
             "changeable": 0
         },
 
-{
-   "key": "hipy_js_大全[央]",
-   "name": "大全[央](drpy_t3)",
-   "type": 3,
-   "api": "./lib/drpy2.min.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "order_num": 0,
-   "ext": "./lib/大全[央].js"
-  },
+
 	{
     "key": "黑木",
     "name": "黑木",
@@ -127,7 +117,18 @@
 	"name":"央视主要栏目",
 	"type":3,
 	"api":"./cctv.py"
-},    
+},  
+		{
+   "key": "hipy_js_大全[央]",
+   "name": "大全[央](drpy_t3)",
+   "type": 3,
+   "api": "./lib/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": "./lib/大全[央].js"
+  },
 	{
             "key": "克隆合集",
             "name": "克隆合集",
