@@ -204,6 +204,8 @@ http://127.0.0.1:8081/douyin.php?id=594418047350
 http://127.0.0.1:8081/douyin.php?id=80017709309
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",上海外语频道
 http://127.0.0.1:8081/douyin.php?id=250514675201
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",冯莫提
+http://127.0.0.1:8081/douyin.php?id=881915323288
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",湖南经济
 http://127.0.0.1:8081/douyin1.php?id=301788940262
