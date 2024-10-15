@@ -21,6 +21,7 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=OKvWtVoDR8I
 公視,https://m.youtube.com/watch?v=C6gYqSHLRw4&pp=ygUG5YWs6KaW
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+小公視,https://livecdn9.ptsplus.tv/pts-youth-A/2.m3u8
 小公視,https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
 57東森財經新聞,https://www.youtube.com/watch?v=LbS-xQ67fos
 東森新聞51,https://m.youtube.com/watch?v=V1p33hqPrUk&pp=ygUM5Lic5qOu5paw6Ze7
