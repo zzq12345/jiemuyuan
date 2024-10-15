@@ -3546,15 +3546,18 @@ http://127.0.0.1:8081/sanliinews.php?id=1
 http://127.0.0.1:8081/jingnews.php
 #EXTINF:-1 tvg-id="4gtv-live050"  tvg-name="新唐人亞太台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"  group-title="youtube中文新闻",新唐人亞太台
 http://127.0.0.1:8081/youtube.php?v=WIhgU_mc05A
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
-https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
+
 #EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",公視
 http://127.0.0.1:8081/youtube.php?v=C6gYqSHLRw4
 #EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",公視
 http://127.0.0.1:8081/gongshi13.php
 #EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="youtube中文新闻",公視台語台
 http://127.0.0.1:8081/gongshi14.php
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 
+https://livecdn9.ptsplus.tv/pts-youth-A/2.m3u8
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
+https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",人生清洁员
 https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
 
