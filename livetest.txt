@@ -3520,6 +3520,8 @@ TVBS歡樂台,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv
 公视,http://127.0.0.1:8081/youtube.php?v=C6gYqSHLRw4
 公视,http://127.0.0.1:8081/gongshi13.php
 公视台语,http://127.0.0.1:8081/gongshi14.php
+小公視,http://127.0.0.1:8081/gongshi15.php
+
 小公視,https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
 公视新聞,http://127.0.0.1:8081/gongshinews.php
 taiwanplus,http://127.0.0.1:8081/taiwanplus.php
