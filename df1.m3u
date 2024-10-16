@@ -200,6 +200,10 @@ http://127.0.0.1:8081/douyu.php?id=1504768
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",每日经济新闻24小时
 http://127.0.0.1:8081/douyin.php?id=594418047350
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",浙江中月婺剧一团
+http://127.0.0.1:8081/douyin.php?id=643319157189
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",浙江中月婺剧团
+http://127.0.0.1:8081/douyin.php?id=261219709302?camera_id=0
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
 http://127.0.0.1:8081/douyin.php?id=80017709309
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",上海外语频道
@@ -336,8 +340,8 @@ http://127.0.0.1:8081/douyin.php?id=405518163654
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",云之乐馆
 http://127.0.0.1:8081/douyin.php?id=531441862925
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",浙江中月婺剧一团
-http://127.0.0.1:8081/douyin.php?id=643319157189
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",笛侠胜男
 http://127.0.0.1:8081/douyin.php?id=717523734410
 
