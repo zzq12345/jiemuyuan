@@ -1744,17 +1744,21 @@
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "./lib/yo22.txt",
-				 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+				 "epg": "https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epg4gtv2.xml",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},    
-                        {
-				"name": "jedi-sambora",
-				 "ua": "okhttp/3.0",
-	                         "playerType": 2,
-                                 "url":"https://raw.githubusercontent.com/zzq12345/playlist/main/tst"
-
-                       },
+			{
+				"name": "yang1989适合国内",
+				 "ua": "okhttp/3.12.0",
+	                         "playerType": 2,  
+	"url":"https://tv.iill.top/m3u/Gather",
+	"epg": "https://epg.iill.top/epg/index.php",
+		
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ 
+            },  
+                        
 			{
 			"name": "谢安琪4gtv",
 				###"url":"./anbo.txt",
@@ -1855,16 +1859,7 @@
          	},
         
 			
-			{
-				"name": "yang1989适合国内",
-				 "ua": "okhttp/3.12.0",
-	                         "playerType": 2,  
-	"url":"https://tv.iill.top/m3u/Gather",
-	"epg": "https://epg.iill.top/epg/index.php",
-		
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
- 
-            },  
+			
 			
 			{
                                  "name": "安博",
