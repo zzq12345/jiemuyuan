@@ -1748,7 +1748,84 @@
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},    
+                        {
+				"name": "jedi-sambora",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url":"https://raw.githubusercontent.com/zzq12345/playlist/main/tst"
 
+                       },
+			{
+			"name": "谢安琪4gtv",
+				###"url":"./anbo.txt",
+                                 "url": "https://kaytse2024.koyeb.app/4gtv.m3u",
+                                  "ua": "okhttp/4.12.0",
+				"type": 3,
+				"playerType": 2,
+				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       
+                        },
+{
+			"name": "谢安琪itv",
+				###"url":"./anbo.txt",
+                                 "url": "https://kaytse2024.koyeb.app/itv_proxy.m3u",
+                                  "ua": "okhttp/4.12.0",
+				"type": 3,
+				"playerType": 2,
+				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+                        
+			{
+			"name": "谢安琪肥羊",
+				###"url":"./anbo.txt",
+                                 "url": "https://35455.koyeb.app/tv.m3u",
+                                  "ua": "okhttp/4.12.0",
+				"type": 3,
+				"playerType": 2,
+				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       
+                        },
+
+			                        {
+				"name": "jedi-sambora",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url":"https://raw.githubusercontent.com/zzq12345/playlist/main/tst"
+
+                       },
+			{
+			"name": "张群",
+				###"url":"./anbo.txt",
+                                 "url": "https://anbox118.serv00.net/livetv.php",
+                                  "ua": "okhttp/4.12.0",
+				"type": 3,
+				"playerType": 2,
+				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       
+                        },
+			
+			                        {
+				"name": "jedi-sambora",
+				 "ua": "okhttp/3.0",
+	                         "playerType": 2,
+                                 "url":"https://raw.githubusercontent.com/zzq12345/playlist/main/tst"
+
+                       },
+			{
+			"name": "张群",
+				###"url":"./anbo.txt",
+                                 "url": "https://anbox118.serv00.net/livetv.php",
+                                  "ua": "okhttp/4.12.0",
+				"type": 3,
+				"playerType": 2,
+				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
+                       
+                        },
         {   
 		"name": "APTV",   
 		"url": "http://diyp.uk.to/zb/1728806094.txt",  
