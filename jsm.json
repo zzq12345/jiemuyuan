@@ -1752,7 +1752,7 @@
 			},    
 			{
 				"name": "yang1989适合国内",
-				 "ua": "okhttp/3.12.0",
+				 "ua": "okhttp/3.12",
 	                         "playerType": 2,  
 	"url":"https://tv.iill.top/m3u/Gather",
 			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
