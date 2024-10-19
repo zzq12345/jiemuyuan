@@ -1744,7 +1744,8 @@
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
                                  "url": "./lib/yo22.txt",
-				 "epg": "https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epg4gtv2.xml",
+				  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				 ##"epg": "https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epg4gtv2.xml",
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},    
