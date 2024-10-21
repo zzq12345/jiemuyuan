@@ -5244,12 +5244,15 @@ http://127.0.0.1:8081/btimeapp.php?id=bjjskj
 http://127.0.0.1:8081/btimeapp.php?id=bjys
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
 http://127.0.0.1:8081/btimeapp.php?id=bjcj
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="BTV文艺" tvg-logo="" group-title="地方",北京文艺
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" tvg-id="1873" tvg-name="BTV文艺" group-title="地方台",BTV文艺
 http://127.0.0.1:8081/btimeapp.php?id=bjwy
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
 http://127.0.0.1:8081/btimeapp.php?id=bjsh
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
 http://127.0.0.1:8081/btimeapp.php?id=bjxw
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="67" tvg-name="卡酷动画" group-title="卫视",卡酷动画
+http://127.0.0.1:8081/btimeapp.php?id=bjkk
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
 http://127.0.0.1:8081/btimeapp.php?id=brtv8k
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",北京卫视
@@ -5260,16 +5263,19 @@ http://127.0.0.1:8081/beijingtime.php?id=bjjskj
 http://127.0.0.1:8081/beijingtime.php?id=bjys
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
 http://127.0.0.1:8081/beijingtime.php?id=bjcj
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="BTV文艺" tvg-logo="" group-title="地方",北京文艺
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" tvg-id="1873" tvg-name="BTV文艺" group-title="地方",BTV文艺
 
 http://127.0.0.1:8081/beijingtime.php?id=bjwy
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
 http://127.0.0.1:8081/beijingtime.php?id=bjsh
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="地方",北京新闻
 http://127.0.0.1:8081/beijingtime.php?id=bjxw
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="67" tvg-name="卡酷动画" group-title="卫视",卡酷动画
+http://127.0.0.1:8081/beijingtime.php?id=bjkk
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
 http://127.0.0.1:8081/beijingtime.php?id=brtv8k
-
 
 
 
