@@ -11,8 +11,15 @@
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+	  {
+"name":"闲人大湿专用2",
 
-{
+"url":"https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
+		"type": 0,
+"playerType": 2,
+   "epg": "https://epg.112114.xyz/?ch={name}&date={date}"},
+
+	  {
 	"name":"成人 IPTV",
 	"url":"https://parlay12.serv00.net/xhamters/paylist.php",
 	"type": 0,
