@@ -5215,20 +5215,21 @@ https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e
 
 
 
-#EXTINF:-1 tvg-id="800100" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方",东方卫视
 http://127.0.0.1:8081/shanghai.php?id=dfws
-#EXTINF:-1 tvg-id="800101" tvg-name="上视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"  group-title="地方",上海新闻综合
+#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"  group-title="地方",上海新闻综合
 http://127.0.0.1:8081/shanghai.php?id=xwzh
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="哈哈炫动" tvg-name="哈哈炫动"  group-title="地方",哈哈炫动
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://assets.livednow.com/logo/哈哈炫动.png" group-title="地方",哈哈炫动
 http://127.0.0.1:8081/shanghai.php?id=hhxd
-#EXTINF:-1 tvg-id="800104" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
 http://127.0.0.1:8081/shanghai.php?id=dspd
-#EXTINF:-1 tvg-id="800102" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
 http://127.0.0.1:8081/shanghai.php?id=dycj
-#EXTINF:-1 tvg-id="800106" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实人文
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实人文
 http://127.0.0.1:8081/shanghai.php?id=jsrw
 #EXTINF:-1 tvg-id="外语频道" tvg-name="外语频道" tvg-logo="" group-title="地方",外语频道
 http://127.0.0.1:8081/shanghai.php?id=shics
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",清华大学
 http://127.0.0.1:8081/qinghuatv.php
