@@ -5260,7 +5260,8 @@ http://127.0.0.1:8081/beijingtime.php?id=bjjskj
 http://127.0.0.1:8081/beijingtime.php?id=bjys
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="地方",北京财经
 http://127.0.0.1:8081/beijingtime.php?id=bjcj
-#EXTINF:-1 tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="" group-title="地方",卡酷卡通
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="" group-title="地方",卡酷卡通
+
 http://127.0.0.1:8081/beijingtime.php?id=bjwy
 #EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="地方",北京生活
 http://127.0.0.1:8081/beijingtime.php?id=bjsh
