@@ -1762,39 +1762,8 @@
  
             },  
                         
-			{
-			"name": "谢安琪4gtv",
-				###"url":"./anbo.txt",
-                                 "url": "https://kaytse2024.koyeb.app/4gtv.m3u",
-                                  "ua": "okhttp/4.12.0",
-				"type": 3,
-				"playerType": 2,
-				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-                       
-                        },
-{
-			"name": "谢安琪itv",
-				###"url":"./anbo.txt",
-                                 "url": "https://kaytse2024.koyeb.app/itv_proxy.m3u",
-                                  "ua": "okhttp/4.12.0",
-				"type": 3,
-				"playerType": 2,
-				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-},
-                        
-			{
-			"name": "谢安琪肥羊",
-				###"url":"./anbo.txt",
-                                 "url": "https://35455.koyeb.app/tv.m3u",
-                                  "ua": "okhttp/4.12.0",
-				"type": 3,
-				"playerType": 2,
-				"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-                                 "logo": "https://epg.112114.xyz/logo/{name}.png"
-                       
-                        },
+			
+                      
 
 			                        {
 				"name": "jedi-sambora",
@@ -1835,7 +1804,7 @@
 					
 		{
 				"name": "mytvsuper",
-				 "ua": "okhttp/3.12.0",
+				 "ua": "okhttp/3.12",
 	                         "playerType": 2,
 	       "url":"http://127.0.0.1:8081/mytvsupertivimate.php",
 			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
