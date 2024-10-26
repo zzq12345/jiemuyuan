@@ -4403,8 +4403,9 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-live012
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn17
 
 
-#EXTINF:-1 tvg-id="4gtv-4gtv016" tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile-1.png?v=1719406729" group-title="4gtv",Globetrotter 環遊旅行家
+#EXTINF:-1 tvg-id="4gtv-live377" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="4gtv",韓國娛樂台 KMTV
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv016
+
 
 #EXTINF:-1 tvg-id="litv-longturn12" tvg-name="龍華偶像台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn12_mobile.png?v=1719406729" group-title="4gtv",龍華偶像台
 http://127.0.0.1:8081/litvapp.php?id=litv-longturn12
