@@ -1823,7 +1823,17 @@
  
             },  
                         
-			
+			{
+				"name": "nowtv免费",
+				 "ua": "okhttp/3.12",
+	                         "playerType": 2,  
+	"url":"http://149.62.46.168:9018/now_free.m3u",
+			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
+	##$"epg": "https://epg.iill.top/epg/index.php",
+		
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ 
+            },  
                       
 
 			                        {
