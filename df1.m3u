@@ -4203,6 +4203,8 @@ http://127.0.0.1:8081/tvb2.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",陽光衛視
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 
 
 
