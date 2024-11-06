@@ -26,6 +26,11 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 57東森財經新聞,https://www.youtube.com/watch?v=LbS-xQ67fos
 東森新聞51,https://m.youtube.com/watch?v=V1p33hqPrUk&pp=ygUM5Lic5qOu5paw6Ze7
 東森新聞海外,https://m.youtube.com/watch?v=S5WOGu2HSes
+寰宇新聞頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞頻道,https://www.youtube.com/watch?v=w87VGpgd90U
+
+寰宇財經新聞,https://m.youtube.com/watch?v=WTRQiVWK1jY
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 三立新聞海外,https://m.youtube.com/watch?v=FoBfXvlOR6I
 三立iNEWS,https://m.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,https://m.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUP5LiJ56uL5paw6IGe5Y-w
@@ -50,12 +55,10 @@ TVBS海外,https://m.youtube.com/watch?v=hP6_jfCFxyQ
 國會頻道,https://www.youtube.com/watch?v=Qo9QwuCpV3s
 國會頻道,https://www.youtube.com/watch?v=yUx5lB4mhZk
 國會頻道,https://www.youtube.com/watch?v=tDg3bJFYLzI
-寰宇新聞頻道,https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇財經新聞,https://m.youtube.com/watch?v=WTRQiVWK1jY
+
 CCTV-4國際,https://m.youtube.com/watch?v=twhG7_jvA8g&pp=ygUFQ2N0djQ%3D
 東森新聞 CH51,https://www.youtube.com/watch?v=V1p33hqPrUk
-寰宇新聞頻道,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞 頻道,https://www.youtube.com/watch?v=w87VGpgd90U
+
 
 臨時直播,#genre#
 我的老師叫小賀,https://www.youtube.com/watch?v=6CQZxYpW9q4
