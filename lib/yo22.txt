@@ -4,6 +4,11 @@
 鳳凰衛視資訊台,https://m.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 cctv4,https://www.youtube.com/watch?v=twhG7_jvA8g
+中天新聞,https://m.youtube.com/watch?v=Poiir_6Xgaw
+中天深喉嚨,https://www.youtube.com/watch?v=DM_PEM8GrIg
+中天亞洲,https://www.youtube.com/live/YfeacCN2ORs
+
+
 環宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
 台視,https://m.youtube.com/watch?v=uDqQo8a7Xmk
 台視新聞 TTV NEWS,https://m.youtube.com/watch?v=xL0ch83RAK8&pp=ygUM5Y-w6KaW5paw6IGe
@@ -35,9 +40,7 @@ TTV LIVE 台視直播,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 三立iNEWS,https://m.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,https://m.youtube.com/watch?v=oZdzzvxTfUY&pp=ygUP5LiJ56uL5paw6IGe5Y-w
 三立新聞台灣版,https://m.youtube.com/watch?v=oZdzzvxTfUY
-中天新聞,https://m.youtube.com/watch?v=oIgbl7t0S_w&pp=ygUM5Lit5aSp5paw6IGe
-中天亞洲,https://www.youtube.com/live/YfeacCN2ORs
-中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
+
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
 新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=WIhgU_mc05A
 57東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
