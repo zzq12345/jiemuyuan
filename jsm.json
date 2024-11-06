@@ -1,7 +1,6 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-
 {
             "key": "T4-heimuer",
             "name": "黑木耳(T4)",
@@ -57,6 +56,8 @@
                 "cookie": ""
             }
 	},
+
+        
 		
 	{
     "key": "黑木",
