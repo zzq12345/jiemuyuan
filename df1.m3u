@@ -231,6 +231,13 @@ http://127.0.0.1:8081/douyin.php?id=870887192950
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv13
 http://127.0.0.1:8081/douyin.php?id=282773369501
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv13
+http://127.0.0.1:8081/douyin.php?id=127453393722
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv13
+http://127.0.0.1:8081/douyin.php?id=870887192950
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语🎤晴天
 http://127.0.0.1:8081/douyin.php?id=962535210669
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语晴天
