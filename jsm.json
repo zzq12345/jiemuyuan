@@ -3,18 +3,49 @@
 	"sites":[
 
 
-	
 		
-{
-            "key": "T4-heimuer",
-            "name": "黑木耳(T4)唐三",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/hme?token=d710cb29",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+	{
+    "key": "黑木",
+    "name": "黑木",
+    "type": 1,
+    "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "changeable": 1,
+    "categories": [
+    "国产动漫",
+    "国产剧",
+    "香港剧",
+    "韩国剧",
+    "日本剧",    
+    "剧情片",
+    "动作片",
+    "冒险片",
+    "喜剧片",
+    "奇幻片",
+    "恐怖片",
+    "悬疑剧",
+    "惊悚片", 
+    "灾难片",
+    "爱情片",
+    "犯罪片",
+    "科幻片",
+    "动画电影片",
+    "泰剧",
+    "台剧",
+    "欧美剧",
+    "新马剧",
+    "其他剧",
+    "歌舞剧",       
+    "战争剧",
+    "经典剧",
+    "网络电影",
+    "重生短剧",
+    
+    "港台动漫",
+    "日本动漫"
+      ]
+    },	
+
 {
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
@@ -25,27 +56,7 @@
 			"ext":"./lib/tokenm.json"
 		},
 		
-        {
-            "key": "T4-欧乐",
-            "name": "欧乐(T4)唐三",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/olelive?token=d710cb29",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-	},    
-
-       {
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/ub18?token=d710cb29",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+        
 
 {
             "key": "JS",
@@ -108,48 +119,7 @@
    "searchable": 1,
    "changeable": 1
   },
-		
-	{
-    "key": "黑木",
-    "name": "黑木",
-    "type": 1,
-    "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "changeable": 1,
-    "categories": [
-    "国产动漫",
-    "国产剧",
-    "香港剧",
-    "韩国剧",
-    "日本剧",    
-    "剧情片",
-    "动作片",
-    "冒险片",
-    "喜剧片",
-    "奇幻片",
-    "恐怖片",
-    "悬疑剧",
-    "惊悚片", 
-    "灾难片",
-    "爱情片",
-    "犯罪片",
-    "科幻片",
-    "动画电影片",
-    "泰剧",
-    "台剧",
-    "欧美剧",
-    "新马剧",
-    "其他剧",
-    "歌舞剧",       
-    "战争剧",
-    "经典剧",
-    "网络电影",
-    "重生短剧",
-    
-    "港台动漫",
-    "日本动漫"
-      ]
-    },	
+	
 {
             "key": "服务器油管",
             "name": "服务器油管",
@@ -179,6 +149,39 @@
 	"type":3,
 	"api":"./cctv.py"
 },  
+
+		
+{
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)唐三",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=d710cb29",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+		{
+            "key": "T4-欧乐",
+            "name": "欧乐(T4)唐三",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/olelive?token=d710cb29",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+	},    
+
+       {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=d710cb29",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
 		{
    "key": "hipy_js_大全[央]",
    "name": "大全[央](drpy_t3)",
