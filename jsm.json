@@ -1,6 +1,67 @@
 {
 	"spider":"./pg.jar",
 	"sites":[	
+
+{
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=6b352fb6",
+	    "jar": "./custom_spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": false
+        },
+        {
+            "key": "T4-独播库",
+            "name": "独播库(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/duboku?token=6b352fb6",
+	    "jar": "./custom_spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "T4-欧乐",
+            "name": "欧乐(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/olelive?token=6b352fb6",
+	    "jar": "./custom_spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=6b352fb6",
+	    "jar": "./custom_spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BiliBili",
+            "name": "哔哩哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "type": "沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
+        },
+		
 	{
     "key": "黑木",
     "name": "黑木",
