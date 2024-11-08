@@ -3959,6 +3959,8 @@ http://127.0.0.1:8081/bloombergquicktake.php
 
 #EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube world news",BloombergHT Canlı Yayın ᴴᴰ
 http://127.0.0.1:8081/bloomberghtyoutube.php
+#EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube world news",bloombergPodcasts
+http://127.0.0.1:8081/bloombergPodcastsyoutube.php
 
 #EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube world news",Bloomberg HT Canlı Yayın ᴴᴰ
 http://127.0.0.1:8081/bloomberght.php
