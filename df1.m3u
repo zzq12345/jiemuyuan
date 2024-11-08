@@ -212,6 +212,10 @@ http://127.0.0.1:8081/douyin.php?id=507985990773
 http://127.0.0.1:8081/douyin.php?id=455061879508
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",看看新闻
+http://127.0.0.1:8081/douyin.php?id=808207714751
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",第一财经
+http://127.0.0.1:8081/douyin.php?id=359100173260
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",上海外语频道
 http://127.0.0.1:8081/douyin.php?id=250514675201
