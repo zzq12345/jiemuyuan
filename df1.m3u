@@ -196,11 +196,6 @@ http://127.0.0.1:8081/douyu.php?id=8663752
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼直播",华语动作电影
 http://127.0.0.1:8081/douyu.php?id=1504768
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",每日经济新闻24小时
-http://127.0.0.1:8081/douyin.php?id=594418047350
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
-http://127.0.0.1:8081/douyin.php?id=80017709309
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",浙江中月婺剧一团
 http://127.0.0.1:8081/douyin.php?id=643319157189
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",浙江中月婺剧团
@@ -209,6 +204,11 @@ http://127.0.0.1:8081/douyin.php?id=261219709302
 http://127.0.0.1:8081/douyin.php?id=507985990773
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",九洲婺剧团
 http://127.0.0.1:8081/douyin.php?id=455061879508
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",每日经济新闻24小时
+http://127.0.0.1:8081/douyin.php?id=594418047350
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
+http://127.0.0.1:8081/douyin.php?id=80017709309
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
 
