@@ -1,10 +1,6 @@
-#EXTM3U url-tvg="https://epg.iill.top/epg,https://raw.githubusercontent.com/zzq12345/myepg/main/epgshanghai.xml,https://epg.iill.top/epg,https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/51zmt.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epgastro.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgshanghai.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/112114.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml,https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epgpixman.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
-
-
-#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" group-title="央视频",cctv6
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 #EXTINF:-1 tvg-id="800063" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="央视频",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="800062" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视频",中国教育电视台-1
@@ -212,11 +208,13 @@ http://127.0.0.1:8081/douyin.php?id=507985990773
 http://127.0.0.1:8081/douyin.php?id=455061879508
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
+http://127.0.0.1:8081/douyin.php?id=697422715541
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",看看新闻
 http://127.0.0.1:8081/douyin.php?id=808207714751
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",第一财经
 http://127.0.0.1:8081/douyin.php?id=359100173260
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",上海外语频道
 http://127.0.0.1:8081/douyin.php?id=250514675201
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",冯莫提
@@ -230,18 +228,15 @@ http://127.0.0.1:8081/douyin.php?id=166806983360
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv6
 http://127.0.0.1:8081/douyin.php?id=208823316033
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv13
-http://127.0.0.1:8081/douyin.php?id=870887192950
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv13
 http://127.0.0.1:8081/douyin.php?id=282773369501
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv13
 http://127.0.0.1:8081/douyin.php?id=127453393722
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",cctv13
 http://127.0.0.1:8081/douyin.php?id=870887192950
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语🎤晴天
 http://127.0.0.1:8081/douyin.php?id=962535210669
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",粤语晴天
@@ -249,8 +244,6 @@ http://127.0.0.1:8081/douyin.php?id=962535210669
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",榕江发布
 http://127.0.0.1:8081/douyin.php?id=86750932176
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
-http://127.0.0.1:8081/douyin.php?id=802975310822
 
 
 
@@ -311,7 +304,6 @@ http://127.0.0.1:8081/douyin.php?id=531441862925
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",笛侠胜男
 http://127.0.0.1:8081/douyin.php?id=717523734410
-
 
 
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="虎牙", 7喜先生
@@ -3390,10 +3382,8 @@ http://127.0.0.1:8081/cctv4.php
 
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=129460641471
-
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="youtube中文新闻",CCTV-6
 http://127.0.0.1:8081/douyin.php?id=208823316033
-
 
 
 
@@ -3411,6 +3401,7 @@ http://127.0.0.1:8081/kankanlive.php?id=1
 http://127.0.0.1:8081/kankanlive.php?id=2
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
 http://127.0.0.1:8081/kankanlive.php?id=3
+
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
 http://127.0.0.1:8081/kankanriview.php?id=1
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
@@ -3429,19 +3420,16 @@ https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-
 #EXTINF:-1 tvg-id="中視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  tvg-name="中視新聞台" group-title="youtube中文新闻",中視新聞台
 http://127.0.0.1:8081/zhongshinews.php
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube中文新闻",中天新聞台
-
 http://127.0.0.1:8081/zhongtiannews.php
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube中文新闻",中天新闻2
 http://127.0.0.1:8081/zhongtiannews2.php
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube中文新闻",中天新聞台
-
 http://127.0.0.1:8081/youtube.php?v=vr3XyVCR4T0
 
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube中文新闻",中天新闻2
 http://127.0.0.1:8081/youtube.php?v=DM_PEM8GrIg
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="" group-title="youtube中文新闻",中天亞洲台
 http://127.0.0.1:8081/zhongtianasia.php
-
 
 
 
@@ -3465,9 +3453,9 @@ http://127.0.0.1:8081/youtube.php?v=w87VGpgd90U
 
 http://127.0.0.1:8081/youtube.php?v=6IquAgfvYmc
 
-
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
 http://127.0.0.1:8081/huanyunews.php?id=1
+
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://127.0.0.1:8081/huanyunews.php?id=2
 
@@ -3526,7 +3514,6 @@ http://127.0.0.1:8081/sanliinews.php?id=1
 http://127.0.0.1:8081/jingnews.php
 #EXTINF:-1 tvg-id="4gtv-live050"  tvg-name="新唐人亞太台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"  group-title="youtube中文新闻",新唐人亞太台
 http://127.0.0.1:8081/youtube.php?v=WIhgU_mc05A
-
 #EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",公視
 http://127.0.0.1:8081/youtube.php?v=C6gYqSHLRw4
 #EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",公視
@@ -3536,11 +3523,13 @@ http://127.0.0.1:8081/gongshi14.php
 #EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 http://127.0.0.1:8081/gongshi15.php
 
+
+
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
+https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
 #EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 
 https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
-https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",人生清洁员
 https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
 
@@ -3959,6 +3948,7 @@ http://127.0.0.1:8081/bloombergquicktake.php
 
 #EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube world news",BloombergHT Canlı Yayın ᴴᴰ
 http://127.0.0.1:8081/bloomberghtyoutube.php
+
 #EXTINF:-1 tvg-id="100156" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="youtube world news",bloombergPodcasts
 http://127.0.0.1:8081/bloombergPodcastsyoutube.php
 
@@ -4219,20 +4209,18 @@ http://127.0.0.1:8081/cnbcarabic.php
 
 
 
-#EXTINF:-1 group-title="香港" tvg-id="無綫新聞台" tvg-name="無綫新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
+#EXTINF:-1 group-title="港澳台" tvg-id="無綫新聞台" tvg-name="無綫新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb1.php?id=NEWS
 
 
-#EXTINF:-1 group-title="香港" tvg-id="無綫新聞台"  tvg-name="無綫新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
+#EXTINF:-1 group-title="港澳台" tvg-id="無綫新聞台"  tvg-name="無綫新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",無綫新聞台
 http://127.0.0.1:8081/tvb2.php?id=2
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",耀才财经台2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",陽光衛視
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",耀才财经台2
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",陽光衛視
-https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 
 
 
@@ -4241,13 +4229,13 @@ https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="中央電視台綜合頻道-(港澳版)" tvg-name="中央電視台綜合頻道-(港澳版)" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="香港",中央電視台綜合頻道-(港澳版)
+#EXTINF:-1 tvg-id="中央電視台綜合頻道-(港澳版)" tvg-name="中央電視台綜合頻道-(港澳版)" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="港澳台",中央電視台綜合頻道-(港澳版)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-id="cgtn" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="香港",cgtn
+#EXTINF:-1 tvg-id="cgtn" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="港澳台",cgtn
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="香港",cgtn英文记录片
+#EXTINF:-1 tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="港澳台",cgtn英文记录片
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 
 
@@ -4257,51 +4245,43 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPla
 
 
 
-#EXTINF:-1 tvg-id="蓮花衛視" tvg-name="蓮花衛視" tvg-logo="https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E8%93%AE%E8%8A%B1%E8%A1%9B%E8%A6%96#/media/File:Lotus_Macau.png" group-title="澳门",蓮花衛視
+#EXTINF:-1 tvg-id="蓮花衛視" tvg-name="蓮花衛視" tvg-logo="https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E8%93%AE%E8%8A%B1%E8%A1%9B%E8%A6%96#/media/File:Lotus_Macau.png" group-title="港澳台",蓮花衛視
 http://127.0.0.1:8081/lotustv1.php?id=lotustv
 
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="" tvg-logo="" group-title="澳门",澳視澳門
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="" tvg-logo="" group-title="港澳台",澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="" tvg-logo="" group-title="澳门",澳門葡萄牙
+#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="" tvg-logo="" group-title="港澳台",澳門葡萄牙
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門資訊" tvg-name="" tvg-logo="" group-title="澳门",澳門資訊
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="" tvg-logo="" group-title="港澳台",澳門資訊
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="" group-title="澳门",澳門體育
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="" group-title="港澳台",澳門體育
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="100005" tvg-name="" tvg-logo="" group-title="澳门",澳門綜藝
+#EXTINF:-1 tvg-id="100005" tvg-name="" tvg-logo="" group-title="港澳台",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="" group-title="澳门",澳門衛星
+#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="" group-title="港澳台",澳門衛星
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳門CCTV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳門CCTV1
 https://live5.tdm.com.mo/tv/cgtn71/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="臺灣",民視
+#EXTINF:-1 tvg-id=" " tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="港澳台",民視
 http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="臺灣",民視台灣台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民視台灣台
 http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv001
-#EXTINF:-1 tvg-id="litv-ftv07" tvg-name="" tvg-logo="" group-title="臺灣",民視旅遊台
+#EXTINF:-1 tvg-id="litv-ftv07" tvg-name="" tvg-logo="" group-title="港澳台",民視旅遊台
 http://127.0.0.1:8081/minshi.php?id=litv-ftv07
-#EXTINF:-1 tvg-id="100338" tvg-name="民視第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="臺灣",民視第一台
+#EXTINF:-1 tvg-id="100338" tvg-name="民視第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民視第一台
 http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv003
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"  group-title="臺灣",民視新聞台
+#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png"  group-title="港澳台",民視新聞台
 http://127.0.0.1:8081/minshi.php?id=litv-ftv13
-#EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="臺灣",民視綜藝台
+#EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民視綜藝台
 http://127.0.0.1:8081/minshi.php?id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="" tvg-logo="" group-title="臺灣",民視影劇台
+#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="" tvg-logo="" group-title="港澳台",民視影劇台
 http://127.0.0.1:8081/minshi.php?id=litv-ftv09
 
-#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="臺灣",好消息电视1
+#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="港澳台",好消息电视1
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="臺灣",好消息电视2
+#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="港澳台",好消息电视2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-
-
-
-#EXTINF:-1 tvg-id="4gtv-live377" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="litv",韓國娛樂台 KMTV
-http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv016
-
-
-
 
 
 #EXTINF:-1 tvg-id="100012" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",台視MOD
@@ -4960,7 +4940,6 @@ http://127.0.0.1:8081/shanghai.php?id=jsrw
 #EXTINF:-1 tvg-id="外语频道" tvg-name="外语频道" tvg-logo="" group-title="地方",外语频道
 http://127.0.0.1:8081/shanghai.php?id=shics
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",清华大学
 http://127.0.0.1:8081/qinghuatv.php
 
@@ -5006,6 +4985,7 @@ http://127.0.0.1:8081/beijingtime.php?id=bjkk
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",BRTV8K
 http://127.0.0.1:8081/beijingtime.php?id=brtv8k
+
 
 
 
@@ -5094,6 +5074,7 @@ https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 http://127.0.0.1:8081/fjqz.php?id=news
 #EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="地方",泉州闽南语
 http://127.0.0.1:8081/fjqz.php?id=mny
+
 #EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="地方",茶频道
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 tvg-id="Klcd" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/klcd.png" group-title="地方",快乐垂钓
@@ -5124,7 +5105,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn15.m3u8
 #EXTINF:-1 tvg-id="HN10" tvg-name="长沙女性" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/csnx.png" group-title="地方",长沙女性
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn16.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州综合
 http://127.0.0.1:8081/guangzhou.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",广州新闻
@@ -5179,7 +5159,6 @@ http://127.0.0.1:8081/henan.php?id=11
 http://127.0.0.1:8081/henan.php?id=12
 #EXTINF:-1 tvg-id="河南移动戏曲" tvg-name="河南移动戏曲" tvg-logo="" group-title="地方",河南移动戏曲
 http://127.0.0.1:8081/henan.php?id=13
-
 #EXTINF:-1 tvg-id="河南象世界" tvg-name="河南象世界" tvg-logo="" group-title="地方",河南象世界
 http://127.0.0.1:8081/henan.php?id=14
 
@@ -5232,6 +5211,8 @@ http://127.0.0.1:8081/hebei.php?id=6
 
 #EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="" group-title="地方",河北公共
 http://127.0.0.1:8081/hebei.php?id=7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄新闻
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
@@ -5239,10 +5220,6 @@ http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄都市
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄新闻
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄综合
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",唐山新闻综合
