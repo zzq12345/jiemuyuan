@@ -3606,7 +3606,8 @@ http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="正德電視台" tvg-name="正德電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengTeTV.png" group-title="youtube中文新闻",正德電視台
-http://127.0.0.1:8081/youtube.php?v=CHDb5D0DCkw
+http://127.0.0.1:8081/zhengde.php
+
 #EXTINF:-1 tvg-id="華藏衛視" tvg-name="華藏衛視" tvg-logo="" group-title="youtube中文新闻",華藏衛視
 http://127.0.0.1:8081/huazang.php
 
