@@ -3577,8 +3577,6 @@ http://127.0.0.1:8081/youtube.php?v=MIqUplvSRWA&t=0s
 
 
 
-#EXTINF:-1 tvg-id="客家電視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" tvg-name="客家電視"  group-title="youtube中文新闻",客家電視
-http://127.0.0.1:8081/kejia.php
 
 #EXTINF:-1 tvg-id="運通財經綜合台" tvg-name="運通財經綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="youtube中文新闻",運通財經綜合台
 http://127.0.0.1:8081/yuntongfinance.php
