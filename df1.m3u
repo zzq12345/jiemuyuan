@@ -4285,7 +4285,6 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 #EXTINF:-1 tvg-id="litv-ftv17" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="港澳台",好消息电视2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
-
 #EXTINF:-1 tvg-id="100012" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_pc.png" group-title="litv",台視MOD
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_pc.png" group-title="litv",中視
@@ -4302,10 +4301,11 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn20
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn01
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn17
+#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",中天亞洲
+http://127.0.0.1:8081/ofiii.php?id=ofiii36
+
 #EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_pc.png" group-title="litv",Smart知識台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn19
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo=""  group-title="litv",年代娱乐
-http:/127.0.0.1:8081/ofiii1.php?id=ofiii38
 #EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龍華戲劇台"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_pc.png" group-title="litv",龍華戲劇台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn18
 #EXTINF:-1 tvg-id="litv-longturn22" tvg-name="台灣戲劇台"  tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_pc.png" group-title="litv",台灣戲劇台
@@ -4318,6 +4318,9 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn11
 
 #EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",華視新聞
 http://127.0.0.1:8081/ofiii.php?id=4gtv-4gtv052
+
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_pc.png" group-title="litv",三立新聞iNEWS
+http://127.0.0.1:8081/ofiii.php?id=iNEWS
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_pc.png" group-title="litv",寰宇財經台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn23
 #EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_pc.png" group-title="litv",寰宇新聞台
@@ -4338,6 +4341,7 @@ http:/127.0.0.1:8081/ofiii1.php?id=4gtv-4gtv104
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn21
 #EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_pc.png" group-title="litv",龍華電影台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn03
+
 
 #EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_pc.png" group-title="litv",民視第一台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv003
