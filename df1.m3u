@@ -3504,6 +3504,11 @@ http://127.0.0.1:8081/minshinews.php?id=6
 
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台
 http://127.0.0.1:8081/linetv.php?id=minshinews
+#EXTINF:-1 tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立新聞台
+http://127.0.0.1:8081/sanlinewsweb.php
+
+#EXTINF:-1 tvg-id="三立財經新聞台" tvg-name="三立財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立財經新聞台
+http://127.0.0.1:8081/sanliinewsweb.php
 
 
 #EXTINF:-1 tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立新聞台
