@@ -1,0 +1,164 @@
+#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/112114.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/epganywhere.xml,https://raw.githubusercontent.com/zzq12345/myepg/main/51zmt.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png", Independent TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BN4RMH2yC-sc3Cx27uvsvw", "kid": "cWpiPR62SFWUKae67k3Dig"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719833976219.png", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "qHthsvhaSsAh9tZpds8DQA", "kid": "UEpNqh5TRZ6LMYAJKWMnhg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845011632.png", ATN News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QoGbhcKHGu5cUShRmwVyaQ", "kid": "P49KmMu7SRGyQ-_xwZoLyA"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/5dddba2c4d6242f8a97e86ea9e77a464/index.mpd
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png", Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911893874.png", NTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_WwC1LxcXpK-I0we957xzg", "kid": "vo5OKyXrRD6wfN3ROokPQQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911937453.png", Bangla Vision
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eC5Dk3v3jizE1TUTTWgrCg", "kid": "W9Rn2pR3Q0-Vhkak9o2KqA"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926120317.png", BTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "pI8Ux3Me6UkcmnAxfiw9ZQ", "kid": "kmiFcJHMTF-bW_QBrCxr-g"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/4a5545d79c7a47ebb451eac8db300226/index.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png", Somoy TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xTQFNRnGddMTkwGHhcdp8w", "kid": "rYqF0OEDQtOazuocjo8jCw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/8f326d0273684f67bd1c3ae5b8dfee48/index.mpd
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png", ZEE BANGLA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iJl4_10nGv6Bagovznpdeg", "kid": "bMqG69EVR2i71kGN8QHQyg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png", RTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png", Cineplex HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I3RIhdPj12NGz2vYBrEtVQ", "kid": "9HSB9KJoSXCLiBQbJ3SPXw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png", ZEE BANGLA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iJl4_10nGv6Bagovznpdeg", "kid": "bMqG69EVR2i71kGN8QHQyg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png", RTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png", Cineplex HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I3RIhdPj12NGz2vYBrEtVQ", "kid": "9HSB9KJoSXCLiBQbJ3SPXw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png", Colors Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ccl7uvV7NyGZ-8Ecp5Cvdg", "kid": "CKhDpp4NTBCjGhCWqdX6KQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925954547.png", Colors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DeF9_a-1tixgRL2bmQvNbA", "kid": "H1Nuc4aZSUK2PrvPgt5-4g"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png", Disney Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "or80ZEM0ar1lunVH5SZ-KQ", "kid": "hn-kMuWEREeCR7WjJ7t16w"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/e08a102ae926476490eeff90e739e7e0/index.mpd
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png", HUM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1xp7sSY1Yt4RE4EYEGSqiw", "kid": "NlmMWl30RyyUduYIMCRvZg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/bde63bd20a2b453f9fcfca2f2645b473/index.mpd
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png", Nick 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0hXBtrVpfF6kP6nahBs_fA", "kid": "Dd47HJTrQCCdKbMdwfd5XQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index.mpd
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png", Nickelodeon Sonic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jFuDPkScopebUUHZH5Izjg", "kid": "lUN_fQ1bRaOTVzQfZ0afZg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/3e90df68f4194cbfb16485cbc6954265/index.mpd
+#EXTINF:-1 tvg-id="28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png", Star Jalsha HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QxhBpxdJ44zlyZMvrqdcdw", "kid": "wu1n_H0ySUysFf2pKCVKZQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
+
+#EXTINF:-1 tvg-id="29" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png", Jalsha Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Uqquz57boDgHfweoqU9_Tg", "kid": "7--0hzyVR9Ghp6CsLumLTg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
+
+#EXTINF:-1 tvg-id="31" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png", Star PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "", "kid": "LttOWM8kTVGBQyBZwDqDUQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
+
+#EXTINF:-1 tvg-id="32" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png", Zee HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_o4ZvaVIMjaLkYOKdPBGlA", "kid": "kVC3wacDQCa-_AzpidbtaQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/410a6931d4e047ffb964cc06eb04e16f/index.mpd
+
+#EXTINF:-1 tvg-id="33" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702324558.png", Zee Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CL-GQSU1oYbi75-WLU_Yhw", "kid": "nkWqTarFQfC44yVFyLOFWg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/18d00c76943d4c62a98ccc36fb36261e/index.mpd
+
+#EXTINF:-1 tvg-id="34" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png", STAR GOLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "J5Imr5yaHdbrSIuFIKJNiw", "kid": "-wLcLLpERTiX3ghw1DzBnA"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
+
+#EXTINF:-1 tvg-id="35" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702898004.png", MTV Beats 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1_-CJurc4UCxqMvV7cyM2Q", "kid": "T8R7JqBjTSeHIIaU6Mjjsg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/8443cfd0e18f49879418200446330a04/index.mpd
+
+#EXTINF:-1 tvg-id="36" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png", Channel 24 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnAPYpObfQZyqrK6ZBqBbw", "kid": "a8lNQFy1SVyYdQfVvAKLjw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
+
+#EXTINF:-1 tvg-id="40" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722948448337.png", Jamuna TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "", "kid": "4ASamcLcTzCaI1-ozeQQyw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
+
+#EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YoK2pusRsRJZkJDFap1I4A", "kid": "Qu1RkjiuTpKYc4trZ6G5Gw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/fb49908b8b3247a8ba7329726bad5753/index.mpd
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png", Star Sports Select 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LDZ4vlI0MKYMQGv2qNmszw", "kid": "lA3og3MaRaaHcCEqLqFbnA"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
+
+#EXTINF:-1 tvg-id="43" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png", Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "NClyBFvdvJf0PMPIQc3GuQ", "kid": "PKLrUC6HRhaMd62aUGuykw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
