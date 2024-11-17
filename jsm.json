@@ -1757,8 +1757,7 @@
 	                         "playerType": 2,
                                  "url": "./lib/yo22.txt",
 				 "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-				 ### "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				 ##"epg": "https://raw.githubusercontent.com/zzq12345/myepg/refs/heads/main/epg4gtv2.xml",
+			
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},    
@@ -1774,17 +1773,7 @@
  
             },  
                         
-			{
-				"name": "nowtv免费",
-				 "ua": "okhttp/3.12",
-	                         "playerType": 2,  
-	"url":"http://149.62.46.168:9018/now_free.m3u",
-			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
-	##$"epg": "https://epg.iill.top/epg/index.php",
-		
-                      "logo": "https://epg.112114.xyz/logo/{name}.png"
- 
-            },  
+			
                       
 
 			                        {
