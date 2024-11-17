@@ -307,14 +307,9 @@
                          "key": "黑木耳",
                           "name": "黑木耳",
                          "type": 1,
-                         #####"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod",
-			"api": "https://json.heimuer.xyz/api.php/provide/vod",
-	    "jar": "./spider.jar",
-       ########"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=https://tang.hz.cz/api/user?token=",	
-           
-	          ###"playUrl": "https://tang.hz.cz/api/user?token=&url=",
-		    
-		    "categories": [
+                         "api": "https://json.heimuer.xyz/api.php/provide/vod",
+	                   "jar": "./spider.jar",
+      		    "categories": [
  
 		    "国产动漫",
 		    "欧美动漫",
@@ -364,9 +359,7 @@
 		"韩国动漫",
                 "其它动漫"
             ],
-            ####"searchable": 1,
-	
-            ####"changeable": 1
+           
             "searchable": 1,
             "quickSearch":0,
             "filterable":0,
