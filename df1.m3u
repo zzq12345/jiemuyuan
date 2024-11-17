@@ -4561,7 +4561,7 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 
 
 
-#EXTINF:-1 tvg-id="海峽衛視" tvg-name="海峽衛視" tvg-logo="" group-title="歡樂看",海峽衛視
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="歡樂看",海峡卫视
 http://127.0.0.1:8081/huanlekan.php?id=hxws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",幸福旅遊
 http://127.0.0.1:8081/huanlekan.php?id=xfly
