@@ -2018,17 +2018,17 @@
                         
 			
 			{
-			         "name": "马来西亚失效",
+			         "name": "马来西亚astro(适合新加坡马来西亚)",
 				 "ua": "okhttp/3.0",
 	                         "playerType": 2,
 	                    "epg":"https://gohhh1234.github.io/iptv/EPG.xml",
-				"url": "https://raw.githubusercontent.com/jedi-sambora/playlist/main/tv2"
+				"url": "./Astro.m3u"
 			},
 			
 			{
 				"name": "livetv",
 				"type": 0,
-				"url": "https://raw.githubusercontent.com/jedi-sambora/LiveTV/main/LiveTV.m3u",
+				"url": "./Live.m3u",
 				"playerType": 2,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
