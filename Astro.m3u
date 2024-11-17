@@ -4,6 +4,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://int-wv.tvb.com/wvproxy/clicense?contentid=ott_I-AACT_h264
+#EXTVLCOPT:http-user-agent=okhttp/4.9.2
+#EXTINF:-1 group-title="TVBANYWHERE",210-功夫台
+https://sg02-live-cfd.tvbanywhere.com.sg/cl/slocalr34/c/ott_I-AACT_h264/op/cenci/f/index.mpd|Cookie="CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovLyovX19jbC9zbG9jYWxyMzQvX19jL290dF9JLUFBQ1RfaDI2NC9fX29wL2NlbmNpL19fZi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzMxNzUwMjk0fX19XX0_;CloudFront-Signature=HhcQEsKBS9q6bKWyGgAEMMbHzUlJcaIc3gEEJ~cLjcSP73pKra8A69-IF4AjyWJ8Ybpo9O3MetmJzJfemxp0nEywtsX4-yGnetJmfi7u5i5mQN3vV~mZkGnAP9Z7KE7yclo~pbZUwgXHq~b96wYMUM9VI4w8PItGTmgiw6bpvgkRaEUR4~d0rOkitaqTDVgIF2nM1CtLqkpO8u6uAVWtcm9jmAKzbLUdwRIGxFcqASxbzjJLdQ~9xeLqdkrZTx3xCDWl2t~aQet0lMHZlD7cPkzG3-ZHFF4DnWCjG24U~sZaaY4aiedUXPv-VgzMw1taLg-uB-V5Czcg9nLCf-4BhQ__;CloudFront-Key-Pair-Id=APKAI57VHQVD6DKGLGMQ"
 
 #EXTINF:-1 tvg-id="701" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
