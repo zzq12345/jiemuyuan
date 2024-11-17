@@ -204,6 +204,9 @@ http://127.0.0.1:8081/douyin.php?id=261219709302
 http://127.0.0.1:8081/douyin.php?id=507985990773
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",九洲婺剧团
 http://127.0.0.1:8081/douyin.php?id=455061879508
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",湖北黄梅戏
+http://127.0.0.1:8081/douyin.php?id=303014275747
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",每日经济新闻24小时
 http://127.0.0.1:8081/douyin.php?id=594418047350
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
