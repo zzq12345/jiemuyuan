@@ -4570,7 +4570,8 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 http://127.0.0.1:8081/huanlekan.php?id=hxws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",幸福旅遊
 http://127.0.0.1:8081/huanlekan.php?id=xfly
-#EXTINF:-1 tvg-id="亞洲旅遊台台灣" tvg-name="亞洲旅遊台台灣" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="歡樂看",亞洲旅遊台台灣
+#EXTINF:-1 tvg-id="亞洲旅遊台MOD" tvg-name="亞洲旅遊台MOD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="歡樂看",亞洲旅遊台MOD
+
 http://127.0.0.1:8081/huanlekan.php?id=yzlygn
 #EXTINF:-1 tvg-id="亞洲旅遊台有線" tvg-name="亞洲旅遊台有線" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="歡樂看",亞洲旅遊台有線
 http://127.0.0.1:8081/huanlekan.php?id=yzlygj
