@@ -4655,7 +4655,7 @@ http://127.0.0.1:8081/huanlekan.php?id=dszh
 #EXTINF:-1 tvg-id="Medici-arts" tvg-name="Medici-arts" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/medici-arts.png" group-title="歡樂看",梅迪奇
 http://127.0.0.1:8081/huanlekan.php?id=mdq
 
-#EXTINF:-1 tvg-id="100573" tvg-name="" tvg-logo="" group-title="歡樂看",中天亞洲
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png"  group-title="歡樂看",中天亞洲
 http://127.0.0.1:8081/huanlekan.php?id=ztyz
 #EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="歡樂看",鳳凰中文
 http://127.0.0.1:8081/huanlekan.php?id=fhzw
