@@ -4563,19 +4563,14 @@ http://127.0.0.1:8081/litvapp.php?id=litv-ftv17
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="歡樂看",海峡卫视
 http://127.0.0.1:8081/huanlekan.php?id=hxws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="歡樂看",幸福旅遊
 http://127.0.0.1:8081/huanlekan.php?id=xfly
 #EXTINF:-1 tvg-id="亞洲旅遊台MOD" tvg-name="亞洲旅遊台MOD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="歡樂看",亞洲旅遊台MOD
-
 http://127.0.0.1:8081/huanlekan.php?id=yzlygn
 #EXTINF:-1 tvg-id="亞洲旅遊台有線" tvg-name="亞洲旅遊台有線" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="歡樂看",亞洲旅遊台有線
 http://127.0.0.1:8081/huanlekan.php?id=yzlygj
-
 #EXTINF:-1 tvg-id="7196" tvg-name="寰宇HD綜合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyuzonghe.png" group-title="歡樂看",寰宇HD綜合台
 http://127.0.0.1:8081/huanlekan.php?id=hyzh
 #EXTINF:-1 tvg-id="100143" tvg-name="寰宇新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="歡樂看",寰宇新聞
@@ -4584,7 +4579,7 @@ http://127.0.0.1:8081/huanlekan.php?id=hyxw
 http://127.0.0.1:8081/huanlekan.php?id=hyxwtw
 #EXTINF:-1 tvg-id="7204" tvg-name="寰宇財經" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="歡樂看",寰宇財經台
 http://127.0.0.1:8081/huanlekan.php?id=hycj
-#EXTINF:-1 tvg-id="7195" tvg-name="亞洲綜合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiazonghe.png" group-title="歡樂看",亞洲綜合
+#EXTINF:-1 tvg-id="亞洲綜合台" tvg-name="亞洲綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiazonghe.png" group-title="歡樂看",亞洲綜合台
 http://127.0.0.1:8081/huanlekan.php?id=yzzh
 #EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="歡樂看",美食星球
 http://127.0.0.1:8081/huanlekan.php?id=msxq
@@ -4618,13 +4613,13 @@ http://127.0.0.1:8081/huanlekan.php?id=jtzx
 http://127.0.0.1:8081/huanlekan.php?id=jtyh
 #EXTINF:-1 tvg-id="7159" tvg-name="靖天戲劇台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戲劇.png" group-title="歡樂看",靖天戲劇
 http://127.0.0.1:8081/huanlekan.php?id=jtxj
-#EXTINF:-1 tvg-id="6150" tvg-name="靖天歡樂台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天歡樂.png" group-title="歡樂看",靖天歡樂
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天歡樂.png" group-title="歡樂看",Nice TV 靖天歡樂台
 http://127.0.0.1:8081/huanlekan.php?id=jthl
 #EXTINF:-1 tvg-id="6098" tvg-name="靖天綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天綜合.png" group-title="歡樂看",靖天綜合
 http://127.0.0.1:8081/huanlekan.php?id=jtzh
 #EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="歡樂看",靖天日本
 http://127.0.0.1:8081/huanlekan.php?id=jtrb
-#EXTINF:-1 tvg-id="7187" tvg-name="靖天國際" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天國際.png" group-title="歡樂看",靖天國際
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天國際.png" group-title="歡樂看",KLT-靖天國際台
 http://127.0.0.1:8081/huanlekan.php?id=jtgj
 #EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="歡樂看",靖天卡通
 http://127.0.0.1:8081/huanlekan.php?id=jtkt
@@ -4634,7 +4629,7 @@ http://127.0.0.1:8081/huanlekan.php?id=jykt
 http://127.0.0.1:8081/huanlekan.php?id=msxw
 #EXTINF:-1 tvg-id="7135" tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="歡樂看",民視
 http://127.0.0.1:8081/huanlekan.php?id=ms
-#EXTINF:-1 tvg-id="7134" tvg-name="民視臺灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="歡樂看",民視臺灣
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="歡樂看",民視台灣台
 http://127.0.0.1:8081/huanlekan.php?id=mstw
 #EXTINF:-1 tvg-id="7145" tvg-name="民視綜藝台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="歡樂看",民視綜藝
 http://127.0.0.1:8081/huanlekan.php?id=mszy
@@ -4643,9 +4638,9 @@ http://127.0.0.1:8081/huanlekan.php?id=mszy
 http://127.0.0.1:8081/huanlekan.php?id=bswq
 #EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力網" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="歡樂看",博斯魅力
 http://127.0.0.1:8081/huanlekan.php?id=bsml
-#EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="歡樂看",博斯高球1
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="歡樂看",博斯高球一台
 http://127.0.0.1:8081/huanlekan.php?id=bsgq1
-#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="歡樂看",博斯高球2
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="歡樂看",博斯高球二台
 http://127.0.0.1:8081/huanlekan.php?id=bsgq2
 #EXTINF:-1 tvg-id="6180" tvg-name="博斯運動一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="歡樂看",博斯運動1
 http://127.0.0.1:8081/huanlekan.php?id=bsyd1
@@ -4657,7 +4652,7 @@ http://127.0.0.1:8081/huanlekan.php?id=bswx1
 http://127.0.0.1:8081/huanlekan.php?id=bswx2
 #EXTINF:-1 tvg-id="6050" tvg-name="東森綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="歡樂看",東森綜合
 http://127.0.0.1:8081/huanlekan.php?id=dszh
-#EXTINF:-1 tvg-id="6173" tvg-name="梅迪奇藝術" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/medici-arts.png" group-title="歡樂看",梅迪奇
+#EXTINF:-1 tvg-id="Medici-arts" tvg-name="Medici-arts" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/medici-arts.png" group-title="歡樂看",梅迪奇
 http://127.0.0.1:8081/huanlekan.php?id=mdq
 
 #EXTINF:-1 tvg-id="100573" tvg-name="" tvg-logo="" group-title="歡樂看",中天亞洲
@@ -4683,6 +4678,9 @@ http://127.0.0.1:8081/huanlekan.php?id=hxx2
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" tvg-id="6035" tvg-name="客家電視臺" group-title="歡樂看",客家
 http://127.0.0.1:8081/huanlekan.php?id=kj
+
+
+
 
 
 
