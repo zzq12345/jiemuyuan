@@ -4946,14 +4946,15 @@ http://127.0.0.1:8081/shanghai.php?id=dfws
 http://127.0.0.1:8081/shanghai.php?id=xwzh
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://assets.livednow.com/logo/哈哈炫动.png" group-title="地方",哈哈炫动
 http://127.0.0.1:8081/shanghai.php?id=hhxd
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市
+#EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://assets.livednow.com/logo/上海都市.png"  group-title="地方",上海都市
 http://127.0.0.1:8081/shanghai.php?id=dspd
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
 http://127.0.0.1:8081/shanghai.php?id=dycj
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实人文
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.v1.mk/logo/纪实人文.png" group-title="地方",上海纪实人文
 http://127.0.0.1:8081/shanghai.php?id=jsrw
 #EXTINF:-1 tvg-id="外语频道" tvg-name="外语频道" tvg-logo="" group-title="地方",外语频道
 http://127.0.0.1:8081/shanghai.php?id=shics
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",清华大学
 http://127.0.0.1:8081/qinghuatv.php
