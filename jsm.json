@@ -8,7 +8,8 @@
     "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
     "searchable": 1,
     "changeable": 1,
-    "categories": {
+    "categories": 
+    {
     "国产动漫",
     "国产剧",
     "香港剧",
