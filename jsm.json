@@ -40,33 +40,7 @@
     "港台动漫",
     "日本动漫"
       ]
-    },	
 
-        {
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"ext":"./lib/tokenm.json"
-		},
-	{	
-        
-     "key" : "MTV",
-    "name" : "🎧无损音乐┃MV",
-    "type" : 3,
-    "api" : "csp_Bili",
-    "style" :{
-      "type" : "rect",
-      "ratio" : 1.597
-    },
-    "searchable" : 0,
-    "quickSearch" : 0,
-    "changeable" : 0,
-    "ext" : "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json",
-    "jar" : "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
-  },
 {
       "key": "guoguo",
       "name": "果果┃4K",
