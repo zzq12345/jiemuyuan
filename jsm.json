@@ -1,9 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[	
-
-
-	{
+    {
     "key": "黑木",
     "name": "黑木",
     "type": 1,
@@ -39,13 +37,12 @@
     "经典剧",
     "网络电影",
     "重生短剧",
-    
     "港台动漫",
     "日本动漫"
       ]
     },	
 
-{
+        {
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
 			"type": 3,
@@ -56,14 +53,14 @@
 		},
 	{	
         
-"key" : "MTV",
+     "key" : "MTV",
     "name" : "🎧无损音乐┃MV",
     "type" : 3,
     "api" : "csp_Bili",
-    "style" : {
+    "style" : [
       "type" : "rect",
       "ratio" : 1.597
-    },
+    ],
     "searchable" : 0,
     "quickSearch" : 0,
     "changeable" : 0,
@@ -82,7 +79,7 @@
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
-		{
+     {
       "key": "mgtv",
       "name": "芒果┃4k",
       "type": 3,
@@ -95,7 +92,7 @@
       "ext": "https://d.kstore.dev/download/11116/js/guoguo.js"
     },
 
-		{
+     {
       "key": "Iktv",
       "name": "IKTV",
       "type": 3,
