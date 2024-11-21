@@ -1,7 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[	
-{
+
 
 	{
     "key": "黑木",
@@ -54,7 +54,7 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		
+	{	
         
 "key" : "MTV",
     "name" : "🎧无损音乐┃MV",
