@@ -1,6 +1,45 @@
 {
 	"spider":"./pg.jar",
-	"sites":[		
+	"sites":[	
+{
+    "key" : "MTV",
+    "name" : "🎧无损音乐┃MV",
+    "type" : 3,
+    "api" : "csp_Bili",
+    "style" : {
+      "type" : "rect",
+      "ratio" : 1.597
+    },
+    "searchable" : 0,
+    "quickSearch" : 0,
+    "changeable" : 0,
+    "ext" : "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json",
+    "jar" : "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85"
+  },
+{
+      "key": "guoguo",
+      "name": "果果┃4K",
+      "type": 3,
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+    },
+		{
+      "key": "mgtv",
+      "name": "芒果┃4k",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,	
+      "ext": "https://d.kstore.dev/download/11116/js/guoguo.js"
+    },
 	{
     "key": "黑木",
     "name": "黑木",
