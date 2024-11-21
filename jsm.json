@@ -57,10 +57,10 @@
     "name" : "🎧无损音乐┃MV",
     "type" : 3,
     "api" : "csp_Bili",
-    "style" : [
+    "style" :{
       "type" : "rect",
       "ratio" : 1.597
-    ],
+    },
     "searchable" : 0,
     "quickSearch" : 0,
     "changeable" : 0,
