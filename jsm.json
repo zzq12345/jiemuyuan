@@ -42,41 +42,6 @@
     ]
   },
     
-{
-      "key": "guoguo",
-      "name": "果果┃4K",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-    },
-     {
-      "key": "mgtv",
-      "name": "芒果┃4k",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,	
-      "ext": "https://d.kstore.dev/download/11116/js/guoguo.js"
-    },
-
-     {
-      "key": "Iktv",
-      "name": "IKTV",
-      "type": 3,
-      "api": "csp_WexIktv",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
-      "searchable": 1,
-      "changeable": 0
-    },
-
         
 
 {
