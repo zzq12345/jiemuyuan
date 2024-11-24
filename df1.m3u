@@ -4497,7 +4497,8 @@ http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv063
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv045
 #EXTINF:-1 tvg-id="4gtv-4gtv046" tvg-name="靖天綜合台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv046_pc.png" group-title="litv",靖天綜合台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv046
-#EXTINF:-1 tvg-id="4gtv-4gtv054" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv054_pc.png" group-title="litv",Nice TV靖天歡樂台
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv054_pc.png" group-title="litv",Nice TV靖天歡樂台
+
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv054
 #EXTINF:-1 tvg-id="4gtv-4gtv065" tvg-name="靖天資訊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_4gtv-4gtv065_pc.png" group-title="litv",靖天資訊台
 http://127.0.0.1:8081/litvapp.php?id=4gtv-4gtv065
