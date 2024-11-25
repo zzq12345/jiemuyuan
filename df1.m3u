@@ -4017,9 +4017,7 @@ http://127.0.0.1:8081/youtube.php?v=XWq5kBlakcQ
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其国际英语台TRTWORLD
 http://127.0.0.1:8081/trtenglish.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",伊朗presstv
 
-https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-152/7qkv-vxy6/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",伊朗presstv
 http://127.0.0.1:8081/presstv.php
