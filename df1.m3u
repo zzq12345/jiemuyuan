@@ -3708,9 +3708,7 @@ http://127.0.0.1:8081/nhk.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube
 http://127.0.0.1:8081/skynewsweb.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube
-http://127.0.0.1:8081/skynews.php?id=1
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News youtube 
-http://127.0.0.1:8081/skynews.php?id=2
+http://127.0.0.1:8081/skynews.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
 http://127.0.0.1:8081/skynewsweblive.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
@@ -3731,21 +3729,7 @@ http://127.0.0.1:8081/wion.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnn18
 http://127.0.0.1:8081/cnn18.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",foxnbusiness
-http://127.0.0.1:8081/foxbusiness.php?id=1
-#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="youtube world news",CNN International
-http://127.0.0.1:8081/cnn2.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cbc
-http://127.0.0.1:8081/cbc.php?id=1
-#EXTINF:-1 tvg-id="CNBC Asia Channel" tvg-name="CNBC Asia Channel" tvg-logo="" group-title="youtube world news",CNBC Asia Channel
-http://127.0.0.1:8081/cnbc.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",mscbn
-http://127.0.0.1:8081/mscbn.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",hln
-http://127.0.0.1:8081/hln.php?id=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",foxnews5cleveland
-http://127.0.0.1:8081/foxnews5cleveland.php 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NewsNOW from FOX
 http://127.0.0.1:8081/foxnewsnow.php?id=1
 
@@ -4122,8 +4106,7 @@ http://127.0.0.1:8081/kbsworldweb.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",kbsworld
 http://127.0.0.1:8081/kbsworld.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",K-POP
-http://127.0.0.1:8081/kpop.php
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",K-POP
 http://127.0.0.1:8081/kpop1.php
 
