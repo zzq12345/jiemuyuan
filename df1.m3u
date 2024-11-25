@@ -4294,8 +4294,7 @@ http://127.0.0.1:8081/ofiii.php?id=litv-longturn20
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn01
 #EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",亞洲旅遊台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn17
-#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_pc.png" group-title="litv",中天亞洲
-http://127.0.0.1:8081/ofiii.php?id=ofiii36
+
 
 #EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_pc.png" group-title="litv",Smart知識台
 http://127.0.0.1:8081/ofiii.php?id=litv-longturn19
