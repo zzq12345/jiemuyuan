@@ -3491,18 +3491,7 @@ http://127.0.0.1:8081/huashinews.php
 http://127.0.0.1:8081/youtube.php?v=ylYJSBUgaMA
 
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台1
-http://127.0.0.1:8081/minshinews.php?id=1
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台2
-http://127.0.0.1:8081/minshinews.php?id=2
-
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台3
-http://127.0.0.1:8081/minshinews.php?id=3
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台4
-http://127.0.0.1:8081/minshinews.php?id=4
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台5
-http://127.0.0.1:8081/minshinews.php?id=5
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台6
-http://127.0.0.1:8081/minshinews.php?id=6
+http://127.0.0.1:8081/minshinews.php
 
 
 
