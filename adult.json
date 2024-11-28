@@ -73,7 +73,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-           ###"jar": "./lib/xbpq1.jar",
+           "jar": "./lib/xbpq1.jar",
             "ext": {
                 "主页url": "https://nowav.tv",
                 "数组": "<div class=td-module-thumb&&</a></h3></div>",
@@ -92,7 +92,7 @@
             }
         },
        {
-            "api":"./jar/吃瓜大队.py",
+            "api":"./lib/吃瓜大队.py",
             "filterable": 1,
             "key": "吃瓜大队py",
             "name": "🔞吃瓜大队",
@@ -110,7 +110,7 @@
             "name": "🔞 农夫与少妇",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
+            "jar": "./lib/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -144,6 +144,7 @@
       "name": "🐰飞兔成人",
       "type": 3,
       "api": "csp_XPathFilter",
+     "jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
