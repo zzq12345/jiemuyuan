@@ -1,7 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-{
+
 
 		
     {
@@ -44,7 +44,8 @@
     "日本动漫"
     ]
   },
-    "key": "hipy_js_腾云驾雾[官]",
+   {
+   "key": "hipy_js_腾云驾雾[官]",
       "name": "🌞腾腾┃解析",
       "type": 3,
       "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
