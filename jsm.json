@@ -1872,7 +1872,7 @@
 				"name": "mytvsuper",
 				 "ua": "okhttp/3.12",
 	                         "playerType": 2,
-	       "url":"https://tv.iill.top/m3u/MyTV",
+	       "url":"http://127.0.0.1:8081/mytvsuper.php",
 		
 	"epg":"https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgmytvsuper.xml",
                       "logo": "https://epg.112114.xyz/logo/{name}.png"
