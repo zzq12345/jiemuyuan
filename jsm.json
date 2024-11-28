@@ -1,9 +1,6 @@
 {
 	"spider":"./pg.jar",
-	"sites":[
-
-
-		
+	"sites":[	
     {
     "key": "黑木",
     "name": "黑木",
