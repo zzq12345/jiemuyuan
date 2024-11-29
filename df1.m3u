@@ -214,6 +214,14 @@ http://127.0.0.1:8081/douyin.php?id=80017709309
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",清华大学
+http://127.0.0.1:8081/douyin.php?id=821345581870
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",燃（燃乐团
+http://127.0.0.1:8081/douyin.php?id=856761123728
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",胡桃里
+http://127.0.0.1:8081/douyin.php?id=541252291945
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",北京文艺频道
 http://127.0.0.1:8081/douyin.php?id=939337875720
 
