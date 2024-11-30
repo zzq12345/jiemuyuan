@@ -3464,6 +3464,13 @@ http://127.0.0.1:8081/taishi.php?id=2
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="youtube中文新闻",台視
 http://127.0.0.1:8081/taishi.php?id=1
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
+http://127.0.0.1:8081/huanyutaiwan.php
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
+
+http://127.0.0.1:8081/huanyunews1.php
+
+
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
 http://127.0.0.1:8081/youtube.php?v=w87VGpgd90U
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 
