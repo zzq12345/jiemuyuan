@@ -1847,15 +1847,7 @@
 
                        },
 			
-        {   
-		"name": "APTV",   
-		"url": "http://diyp.uk.to/zb/1728806094.txt",  
-		"epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-		
-                "ua": "AptvPlayer/1.3.9",   
-		"timeout": "3",    
-		"playerType": 2   
-	},   
+        
         {
             "name": "海外{限制大陆台湾}",
             "url": "https://www.stream-link.org/stream-link.m3u",
