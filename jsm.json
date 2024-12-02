@@ -51,7 +51,7 @@
       "ext": {
         "commonConfig": "./js/peizhi.json",
         "siteUrl": "http://www.mucpan.cc",
-        "filter": "./js/wogg.json"
+        "filter": "./lib/wogg.json"
       }
     },
 
