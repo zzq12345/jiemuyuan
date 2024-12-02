@@ -5052,25 +5052,26 @@ http://127.0.0.1:8081/zhejiang.php?id=zjzjjl
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建少儿
-http://127.0.0.1:80811/fujian.php?id=665248553475870720
+http://127.0.0.1:8081/fujian.php?id=665248553475870720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海峡卫视
-http://127.0.0.1:80811/fujian.php?id=665248523855695872
+http://127.0.0.1:8081/fujian.php?id=665248523855695872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建综合
-http://127.0.0.1:80811/fujian.php?id=665248990102917120
+http://127.0.0.1:8081/fujian.php?id=665248990102917120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东南卫视
-http://127.0.0.1:80811/fujian.php?id=665248966136664064
+http://127.0.0.1:8081/fujian.php?id=665248966136664064
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建公共
-http://127.0.0.1:80811/fujian.php?id=665248940467523584
+http://127.0.0.1:8081/fujian.php?id=665248940467523584
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建电视剧
-http://127.0.0.1:80811/fujian.php?id=665248891478052864
+http://127.0.0.1:8081/fujian.php?id=665248891478052864
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建旅游
-http://127.0.0.1/fujian.php?id=665248752898248704
+http://127.0.0.1:8081/fujian.php?id=665248752898248704
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建经视
-http://127.0.0.1:80811/fujian.php?id=665248614498799616
+http://127.0.0.1:8081/fujian.php?id=665248614498799616
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建文体
-http://127.0.0.1:80811/fujian.php?id=665248584991870976
+http://127.0.0.1:8081/fujian.php?id=665248584991870976
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建新闻
-http://127.0.0.1:80811/fujian.php?id=665248914378952704
+http://127.0.0.1:8081/fujian.php?id=665248914378952704
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门1
 http://127.0.0.1:8081/hoge.php?id=xmtv1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门2
