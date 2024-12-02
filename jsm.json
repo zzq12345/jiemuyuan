@@ -49,9 +49,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "./js/peizhi.json",
         "siteUrl": "http://www.mucpan.cc",
-        "filter": "./json/wogg.json"
+        "filter": "./js/wogg.json"
       }
     },
 
