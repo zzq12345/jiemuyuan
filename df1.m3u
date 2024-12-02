@@ -3521,10 +3521,10 @@ http://127.0.0.1:8081/sanliinewsweb.php
 
 
 #EXTINF:-1 tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立新聞台
-http://127.0.0.1:8081/sanlinews.php?id=1
+http://127.0.0.1:8081/sanlinews.php
 
 #EXTINF:-1 tvg-id="三立財經新聞台" tvg-name="三立財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立財經新聞台
-http://127.0.0.1:8081/sanliinews.php?id=1
+http://127.0.0.1:8081/sanliinews.php
 
 
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="youtube中文新闻",鏡電視新聞台
