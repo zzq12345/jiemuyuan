@@ -46,6 +46,7 @@
       "name": "💿小米┃网盘（墙外）",
       "type": 3,
       "api": "csp_kongbai",
+	"jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": {
