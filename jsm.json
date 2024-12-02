@@ -41,6 +41,21 @@
     "日本动漫"
     ]
   },
+{
+      "key": "玩偶┃小米",
+      "name": "💿小米┃网盘（墙外）",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "http://www.mucpan.cc",
+        "filter": "./json/wogg.json"
+      }
+    },
+
+		
    {
       
    "key": "hipy_js_腾云驾雾[官]",
