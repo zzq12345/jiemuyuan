@@ -3430,8 +3430,9 @@ http://127.0.0.1:8081/diyicaijinglive.php?id=2
 
 #EXTINF:-1 tvg-id="100284" tvg-name="中台灣生活網頻道" tvg-logo="" group-title="youtube中文新闻",中台灣生活網頻道
 http://127.0.0.1:8081/linetv.php?id=taiwanshenghuonews
-#EXTINF:-1 tvg-id="Hami韓劇台(免費)" tvg-name="Hami韓劇台(免費)" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@21@2073_20240603102039.jpg"  group-title="youtube中文新闻",Hami韓劇台
+#EXTINF:-1   tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/4gtv_4gtv-live032_mobile.png"   group-title="youtube中文新闻",Nick Jr. 兒童頻道
 https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="中視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  tvg-name="中視新聞台" group-title="youtube中文新闻",中視新聞台
 http://127.0.0.1:8081/zhongshinews.php
