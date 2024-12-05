@@ -3471,11 +3471,6 @@ http://127.0.0.1:8081/huanyutaiwan.php
 http://127.0.0.1:8081/huanyunews1.php
 
 
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
-http://127.0.0.1:8081/youtube.php?v=w87VGpgd90U
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
-
-http://127.0.0.1:8081/youtube.php?v=6IquAgfvYmc
 
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
 http://127.0.0.1:8081/huanyunews.php?id=1
@@ -3503,8 +3498,7 @@ http://127.0.0.1:8081/yuanchuan.php?id=1
 
 #EXTINF:-1 tvg-id="華視新聞資訊台" tvg-name="華視新聞資訊台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="youtube中文新闻",華視新聞資訊台
 http://127.0.0.1:8081/huashinews.php
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台
-http://127.0.0.1:8081/youtube.php?v=ylYJSBUgaMA
+
 
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台1
 http://127.0.0.1:8081/minshinews.php
@@ -3545,9 +3539,7 @@ http://127.0.0.1:8081/gongshi15.php
 
 #EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 
-https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",人生清洁员
 https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
 
@@ -3574,24 +3566,6 @@ http://127.0.0.1:8081/daai.php?id=2
 http://127.0.0.1:8081/daai.php?id=3
 #EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="youtube中文新闻",大爱-1台湾
 http://127.0.0.1:8081/daai.php?id=4
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="youtube中文新闻",大愛電視台
-http://127.0.0.1:8081/youtube.php?v=oV_i3Hsl_zg&t=0s
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="youtube中文新闻",大愛二台
-http://127.0.0.1:8081/youtube.php?v=DTNkEm6jaqQ&t=0s
-
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="youtube中文新闻",大愛二台
-http://127.0.0.1:8081/youtube.php?v=OKvWtVoDR8I
-#EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="youtube中文新闻",大愛電視台
-http://127.0.0.1:8081/youtube.php?v=MIqUplvSRWA&t=0s
-
-
-
 
 #EXTINF:-1 tvg-id="運通財經綜合台" tvg-name="運通財經綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="youtube中文新闻",運通財經綜合台
 http://127.0.0.1:8081/yuntongfinance.php
