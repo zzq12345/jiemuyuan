@@ -3491,6 +3491,10 @@ http://127.0.0.1:8081/gongshi13.php
 http://127.0.0.1:8081/gongshi14.php
 #EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 http://127.0.0.1:8081/gongshi15.php
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
+
+https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",人生清洁员
 https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",公视新聞
