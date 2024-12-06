@@ -3417,7 +3417,6 @@ http://127.0.0.1:8081/kankanlive.php?id=1
 http://127.0.0.1:8081/kankanlive.php?id=2
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播
 http://127.0.0.1:8081/kankanlive.php?id=3
-
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
 http://127.0.0.1:8081/kankanriview.php?id=1
 #EXTINF:-1 tvg-id="看看新聞直播" tvg-name="看看新聞直播" tvg-logo="" group-title="youtube中文新闻",看看新聞直播回看
@@ -3426,14 +3425,10 @@ http://127.0.0.1:8081/kankanriview.php?id=2
 http://127.0.0.1:8081/diyicaijinglive.php?id=1
 #EXTINF:-1 tvg-id="第一財經直播" tvg-name="第一財經直播" tvg-logo="" group-title="youtube中文新闻",第一財經直播
 http://127.0.0.1:8081/diyicaijinglive.php?id=2
-
-
 #EXTINF:-1 tvg-id="100284" tvg-name="中台灣生活網頻道" tvg-logo="" group-title="youtube中文新闻",中台灣生活網頻道
 http://127.0.0.1:8081/linetv.php?id=taiwanshenghuonews
 #EXTINF:-1   tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/4gtv_4gtv-live032_mobile.png"   group-title="youtube中文新闻",Nick Jr. 兒童頻道
 https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8
-
-
 #EXTINF:-1 tvg-id="中視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png"  tvg-name="中視新聞台" group-title="youtube中文新闻",中視新聞台
 http://127.0.0.1:8081/zhongshinews.php
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="youtube中文新闻",中天新聞台
@@ -3442,17 +3437,10 @@ http://127.0.0.1:8081/zhongtiannews.php
 http://127.0.0.1:8081/zhongtiannews2.php
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="" group-title="youtube中文新闻",中天亞洲台
 http://127.0.0.1:8081/zhongtianasia.php
-
-
-
 #EXTINF:-1 tvg-id="TVBS 新聞台" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube中文新闻",TVBS 新聞台
 http://127.0.0.1:8081/linetv.php?id=tvbsnews
-
-
-
 #EXTINF:-1 tvg-id="4gtv-4gtv073" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png"  tvg-name="TVBS" group-title="youtube中文新闻",TVBS+
 http://127.0.0.1:8081/tvbs561.php
-
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="youtube中文新闻",台視新聞台
 http://127.0.0.1:8081/taishi.php?id=2
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="youtube中文新闻",台視
@@ -3460,61 +3448,37 @@ http://127.0.0.1:8081/taishi.php?id=1
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
 http://127.0.0.1:8081/huanyutaiwan.php
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
-
 http://127.0.0.1:8081/huanyunews1.php
-
-
-
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台灣台
 http://127.0.0.1:8081/huanyunews.php?id=1
-
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://127.0.0.1:8081/huanyunews.php?id=2
-
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube中文新闻",寰宇新聞台
 http://127.0.0.1:8081/huanyunews.php?id=3
 #EXTINF:-1 tvg-id="litv-longturn23" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn23_mobile.png" group-title="youtube中文新闻",寰宇財經台
 http://127.0.0.1:8081/huanyufince.php
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube中文新闻",東森新聞台
 http://127.0.0.1:8081/dongsennews2.php?id=1
-
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube中文新闻",東森新聞台
 http://127.0.0.1:8081/dongsennews.php
-
-
-
-
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube中文新闻",東森財經新聞台
 http://127.0.0.1:8081/dongsenfinince.php
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="" group-title="youtube中文新闻",非凡新聞台
 http://127.0.0.1:8081/yuanchuan.php?id=1
-
 #EXTINF:-1 tvg-id="華視新聞資訊台" tvg-name="華視新聞資訊台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="youtube中文新闻",華視新聞資訊台
 http://127.0.0.1:8081/huashinews.php
-
-
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台1
 http://127.0.0.1:8081/minshinews.php
-
-
-
-
 #EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube中文新闻",民視新聞台
 http://127.0.0.1:8081/linetv.php?id=minshinews
 #EXTINF:-1 tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立新聞台
 http://127.0.0.1:8081/sanlinewsweb.php
-
 #EXTINF:-1 tvg-id="三立財經新聞台" tvg-name="三立財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立財經新聞台
 http://127.0.0.1:8081/sanliinewsweb.php
-
-
 #EXTINF:-1 tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立新聞台
 http://127.0.0.1:8081/sanlinews.php
-
 #EXTINF:-1 tvg-id="三立財經新聞台" tvg-name="三立財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="youtube中文新闻",三立財經新聞台
 http://127.0.0.1:8081/sanliinews.php
-
-
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="youtube中文新闻",鏡電視新聞台
 http://127.0.0.1:8081/jingnews.php
 #EXTINF:-1 tvg-id="4gtv-live050"  tvg-name="新唐人亞太台"  tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live050_mobile.png"  group-title="youtube中文新闻",新唐人亞太台
@@ -3527,30 +3491,16 @@ http://127.0.0.1:8081/gongshi13.php
 http://127.0.0.1:8081/gongshi14.php
 #EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
 http://127.0.0.1:8081/gongshi15.php
-
-
-
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="youtube中文新闻",小公視
-https://livecdn9.ptsplus.tv/pts-youth-A/6000k.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",人生清洁员
 https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",公视新聞
 http://127.0.0.1:8081/gongshinews.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",taiwanplus
 http://127.0.0.1:8081/taiwanplus.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時英文新聞
-
 http://127.0.0.1:8081/nizhen24.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時中文新聞
-
 http://127.0.0.1:8081/nizhen24.php?id=2
-
-
-
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="youtube中文新闻",大爱-2台湾
 http://127.0.0.1:8081/daai.php?id=1
 #EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="youtube中文新闻",大爱-1全球
@@ -3559,81 +3509,56 @@ http://127.0.0.1:8081/daai.php?id=2
 http://127.0.0.1:8081/daai.php?id=3
 #EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="youtube中文新闻",大爱-1台湾
 http://127.0.0.1:8081/daai.php?id=4
-
 #EXTINF:-1 tvg-id="運通財經綜合台" tvg-name="運通財經綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="youtube中文新闻",運通財經綜合台
 http://127.0.0.1:8081/yuntongfinance.php
-
 #EXTINF:-1 tvg-id="全球財經網頻道"  tvg-name="全球財經網頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png"    group-title="youtube中文新闻",全球財經網頻道
 http://127.0.0.1:8081/quanqiucaijing.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",三大有線電視
 http://127.0.0.1:8081/sanda.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",亞美衛視
 http://127.0.0.1:8081/yameiweishi.php
-
 #EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="" tvg-logo="" group-title="youtube中文新闻",國會1
 http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
-
 #EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube中文新闻",國會2
 http://127.0.0.1:8081/youtube.php?v=RAP4h3q6_Sg
-
-
-
 #EXTINF:-1 tvg-id="4gtv-4gtv008" tvg-name="人間衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="youtube中文新闻",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/manifest.mpd
 #EXTINF:-1 tvg-id="生命電視台" tvg-name="生命電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png" group-title="youtube中文新闻",生命電視台
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.mpd
-
-
 #EXTINF:-1 tvg-id="正德電視台" tvg-name="正德電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengTeTV.png" group-title="youtube中文新闻",正德電視台
 http://127.0.0.1:8081/zhengde.php
-
 #EXTINF:-1 tvg-id="華藏衛視" tvg-name="華藏衛視" tvg-logo="" group-title="youtube中文新闻",華藏衛視
 http://127.0.0.1:8081/huazang.php
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",桐瑛台南電視臺
 http://127.0.0.1:8081/tongyingtainan.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",桐瑛台中電視臺
 http://127.0.0.1:8081/tongyingtaizhong.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",桐瑛虎尾電視臺
 http://127.0.0.1:8081/tongyingthuwei.php
-
 #EXTINF:-1 tvg-id="三聖電視台" tvg-name="三聖電視台" tvg-logo="" group-title="youtube中文新闻",三聖電視台
 http://127.0.0.1:8081/sansheng.php
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",SupremeMasterTV Live
 http://127.0.0.1:8081/youtube.php?v=qHIk_qdNFy0
-
 #EXTINF:-1 tvg-id="海豚綜合台" tvg-name="海豚綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/海豚綜合.png" group-title="youtube中文新闻",海豚綜合台
 http://127.0.0.1:8081/haitun.php
-
 #EXTINF:-1 tvg-id="誠心電視台" tvg-name="誠心電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" group-title="youtube中文新闻",誠心電視台
 http://127.0.0.1:8081/chengxin.php
-
 #EXTINF:-1 tvg-id="信大電視台"  tvg-name="信大電視台"  tvg-logo="" group-title="youtube中文新闻",信大電視台
 http://127.0.0.1:8081/xinda.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",talk7x24
 http://127.0.0.1:8081/talk7x24.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",AriseNewsChannel
 http://127.0.0.1:8081/AriseNewsChannel.php
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NatGeoyoutube
 http://127.0.0.1:8081/NatGeo.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NatGeoWildyoutube
 http://127.0.0.1:8081/NatGeoWild.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",yahoofinace
 http://127.0.0.1:8081/yahoofinace.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",USATODAY
 http://127.0.0.1:8081/USATODAY.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",scrippsnews
 http://127.0.0.1:8081/scrippsnews.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",schwab
 http://127.0.0.1:8081/schwab.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",scrippsnews
@@ -3646,15 +3571,12 @@ https://ntd02.akamaized.net/NTDA/index.m3u8
 http://127.0.0.1:8081/olympic.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台Euronews English Live
 http://127.0.0.1:8081/europenews.php
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台Euronews English Live
 http://127.0.0.1:8081/Euronews.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台Euronews spain Live
 http://127.0.0.1:8081/europenewsspain.php
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台euronewses
 http://127.0.0.1:8081/euronewses.php
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台法語euronewsfr
 http://127.0.0.1:8081/euronewsfr.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台西班牙語euronewspt
@@ -3663,14 +3585,12 @@ http://127.0.0.1:8081/euronewspt.php
 http://127.0.0.1:8081/euronewsru.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台德語euronewsde
 http://127.0.0.1:8081/euronewsde.php
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台希臘語euronewsGreek
 http://127.0.0.1:8081/euronewsGreek.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台語euronewsmagyarul
 http://127.0.0.1:8081/euronewsmagyarul.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="100159" tvg-name="Euronews" group-title="youtube world news",欧洲新闻台意大利語euronewsItaliano
 http://127.0.0.1:8081/euronewsItaliano.php
-
 #EXTINF:-1 tvg-id="100162" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-name="NHKWorld"  group-title="youtube world news",nhkpremium
 http://127.0.0.1:8081/nhkpremium.php
 #EXTINF:-1 tvg-id="100162" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-name="NHKWorld"  group-title="youtube world news",日本nhk world news
@@ -3685,8 +3605,6 @@ http://127.0.0.1:8081/skynews.php
 http://127.0.0.1:8081/skynewsweblive.php
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-
-
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News Extra 1 Australi
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115" group-title="youtube world news",World Fashion Channel (10
@@ -3697,17 +3615,12 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://127.0.0.1:8081/globalnews.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",wion
 http://127.0.0.1:8081/wion.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnn18
 http://127.0.0.1:8081/cnn18.php
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NewsNOW from FOX
 http://127.0.0.1:8081/foxnewsnow.php?id=1
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",FOX 11 Los Angeles
 http://127.0.0.1:8081/foxnews11.php?id=1
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",LiveNOW from FOX
 http://127.0.0.1:8081/foxnews11.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",FOX Soul
