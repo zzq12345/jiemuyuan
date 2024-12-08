@@ -1868,6 +1868,18 @@
                                  "logo": "https://epg.112114.xyz/logo/{name}.png"
 	                  
 			},    
+
+					{
+				"name": "df1测试",
+				 "ua": "okhttp/3.12",
+	                         "playerType": 2,  
+	                         "url":".df1.m3u",
+			        "epg": "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgastro.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epgshanghai.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/112114.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epgmytvsuper.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epg4gtv2.xml,https://raw.githubusercontent.com/zzq12345/tvepg/main/epganywhere.xml,https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgpixman.xml",	
+	
+		
+                               "logo": "https://epg.112114.xyz/logo/{name}.png"
+ 
+            },  
 			{
 				"name": "yang1989适合国内",
 				 "ua": "okhttp/3.12",
