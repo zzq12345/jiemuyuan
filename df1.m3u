@@ -3368,28 +3368,7 @@ http://127.0.0.1:8081/huya.php?id=637218
 http://127.0.0.1:8081/fenghuangyoutube.php
 
 
-#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube中文新闻",cgtn俄语
-http://127.0.0.1:8081/cgtnrussia.php
 
-#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
-http://127.0.0.1:8081/cctvfrench.php
-
-#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube中文新闻",CCTV NEWS欧洲
-http://127.0.0.1:8081/cgtnweb.php?id=cgtn
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" group-title="youtube中文新闻",cgtn英文记录片
-http://127.0.0.1:8081/cgtnweb.php?id=cgtnd
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" group-title="youtube中文新闻",cgtn西班牙语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtne
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn法语" tvg-name="cgtn法语" group-title="youtube中文新闻",cgtn法语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtnf
-#EXTINF:-1 tvg-logo="" tvg-id="cgtn阿拉伯语" tvg-name="cgtn阿拉伯语" group-title="youtube中文新闻",cgtn阿拉伯语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtna
-#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube中文新闻",cgtn俄语
-http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
-
-#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube中文新闻",上海eye
-
-http://127.0.0.1:8081/shanghaieye1.php
 
 
 #EXTINF:-1 tvg-id="cctv4亚洲" tvg-name="cctv4亚洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="youtube中文新闻",cctv-4亚洲
@@ -3549,6 +3528,31 @@ http://127.0.0.1:8081/haitun.php
 http://127.0.0.1:8081/chengxin.php
 #EXTINF:-1 tvg-id="信大電視台"  tvg-name="信大電視台"  tvg-logo="" group-title="youtube中文新闻",信大電視台
 http://127.0.0.1:8081/xinda.php
+
+#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube world news",cgtn俄语
+http://127.0.0.1:8081/cgtnrussia.php
+
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube world news",CCTV NEWS欧洲
+http://127.0.0.1:8081/cctvfrench.php
+
+#EXTINF:-1 tvg-id="20" tvg-name="cgtn" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"  group-title="youtube world news",CCTV NEWS欧洲
+http://127.0.0.1:8081/cgtnweb.php?id=cgtn
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn英文记录片" tvg-name="cgtn英文记录片" group-title="youtube world news",cgtn英文记录片
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnd
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" group-title="youtube world news",cgtn西班牙语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtne
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn法语" tvg-name="cgtn法语" group-title="youtube world news",cgtn法语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnf
+#EXTINF:-1 tvg-logo="" tvg-id="cgtn阿拉伯语" tvg-name="cgtn阿拉伯语" group-title="youtube world news",cgtn阿拉伯语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtna
+#EXTINF:-1 tvg-logo="" tvg-id=""cgtn俄语" tvg-name=""cgtn俄语" group-title="youtube world news",cgtn俄语
+http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
+
+#EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube world news",上海eye
+
+http://127.0.0.1:8081/shanghaieye1.php
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",talk7x24
 http://127.0.0.1:8081/talk7x24.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",AriseNewsChannel
@@ -3612,7 +3616,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="youtube world news",Sky News Extra 1 Australi
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115" group-title="youtube world news",World Fashion Channel (10
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+https://stream-us-east-1.getpublica.com/cl/241213ctdspvirev5pg3psilog/1920x1080_5448240_0_f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="youtube world news",World Poker Tour (1080p) 
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",globalnews
