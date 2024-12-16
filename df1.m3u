@@ -3478,10 +3478,7 @@ https://livecdn9.ptsplus.tv/pts-youth-A/1.m3u8
 https://livecdn9.ptsplus.tv/pts-FastTV-A/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",公视新聞
 http://127.0.0.1:8081/gongshinews.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",taiwanplus
-http://127.0.0.1:8081/taiwanplus.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時英文新聞
-http://127.0.0.1:8081/nizhen24.php?id=1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",倪珍24小時中文新聞
 http://127.0.0.1:8081/nizhen24.php?id=2
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="youtube中文新闻",大爱-2台湾
@@ -3551,7 +3548,10 @@ http://127.0.0.1:8081/cgtnweb.php?id=cgtnr
 #EXTINF:-1 tvg-logo="" tvg-id=" " tvg-name=" " group-title="youtube world news",上海eye
 
 http://127.0.0.1:8081/shanghaieye1.php
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",taiwanplus
+http://127.0.0.1:8081/taiwanplus.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",倪珍24小時英文新聞
+http://127.0.0.1:8081/nizhen24.php?id=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",talk7x24
 http://127.0.0.1:8081/talk7x24.php
