@@ -13,9 +13,13 @@ http://127.0.0.1:8081/douyin.php?id=643319157189
 http://127.0.0.1:8081/douyin.php?id=594418047350
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",东方甄选
 http://127.0.0.1:8081/douyin.php?id=80017709309
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
 http://127.0.0.1:8081/douyin.php?id=802975310822
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
+http://127.0.0.1:8081/douyin.php?id=664365142456
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
+http://127.0.0.1:8081/douyin.php?id=697422715541
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",清华大学
 http://127.0.0.1:8081/douyin.php?id=821345581870
@@ -27,8 +31,7 @@ http://127.0.0.1:8081/douyin.php?id=541252291945
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",北京文艺频道
 http://127.0.0.1:8081/douyin.php?id=939337875720
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",抖音演出
-http://127.0.0.1:8081/douyin.php?id=697422715541
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",看看新闻
 http://127.0.0.1:8081/douyin.php?id=808207714751
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="抖音直播",第一财经
