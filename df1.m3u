@@ -3499,10 +3499,7 @@ http://127.0.0.1:8081/daai.php?id=4
 http://127.0.0.1:8081/yuntongfinance.php
 #EXTINF:-1 tvg-id="全球財經網頻道"  tvg-name="全球財經網頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png"    group-title="youtube中文新闻",全球財經網頻道
 http://127.0.0.1:8081/quanqiucaijing.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",三大有線電視
-http://127.0.0.1:8081/sanda.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube中文新闻",亞美衛視
-http://127.0.0.1:8081/yameiweishi.php
+
 #EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="" tvg-logo="" group-title="youtube中文新闻",國會1
 http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
 #EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube中文新闻",國會2
