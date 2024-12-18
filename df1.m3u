@@ -3445,6 +3445,9 @@ http://127.0.0.1:8081/dongsennews2.php?id=1
 http://127.0.0.1:8081/dongsennews.php
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube中文新闻",東森財經新聞台
 http://127.0.0.1:8081/dongsenfinince.php
+#EXTINF:-1 tvg-id="東森財經股市" tvg-name="東森財經股市" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube中文新闻",東森財經股市
+http://127.0.0.1:8081/dongsenstock.php
+
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="" group-title="youtube中文新闻",非凡新聞台
 http://127.0.0.1:8081/yuanchuan.php?id=1
 #EXTINF:-1 tvg-id="華視新聞資訊台" tvg-name="華視新聞資訊台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="youtube中文新闻",華視新聞資訊台
