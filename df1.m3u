@@ -3626,6 +3626,8 @@ http://127.0.0.1:8081/cnn18.php
 http://127.0.0.1:8081/cnbc18.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnbc18 stock
 http://127.0.0.1:8081/cnbc181.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NDTVProfitIndia
+http://127.0.0.1:8081/NDTVProfitIndia.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NewsNOW from FOX
 http://127.0.0.1:8081/foxnewsnow.php?id=1
