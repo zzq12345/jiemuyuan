@@ -3497,7 +3497,7 @@ http://127.0.0.1:8081/quanqiucaijing.php
 #EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="" tvg-logo="" group-title="youtube中文新闻",國會1
 http://127.0.0.1:8081/youtube.php?v=4HysYHJ6GkY
 #EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="" tvg-logo="" group-title="youtube中文新闻",國會2
-http://127.0.0.1:8081/youtube.php?v=RAP4h3q6_Sg
+http://127.0.0.1:8081/youtube.php?v=Lj8OWF6nzcg
 #EXTINF:-1 tvg-id="4gtv-4gtv008" tvg-name="人間衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="youtube中文新闻",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/manifest.mpd
 #EXTINF:-1 tvg-id="生命電視台" tvg-name="生命電視台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/shengming.png" group-title="youtube中文新闻",生命電視台
