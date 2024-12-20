@@ -4000,6 +4000,8 @@ http://127.0.0.1:8081/kbsworldweb.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",kbsworld
 http://127.0.0.1:8081/kbsworld.php
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",KBS-POP
+http://127.0.0.1:8081/kbspop.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",K-POP
 http://127.0.0.1:8081/kpop1.php
