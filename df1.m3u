@@ -5079,89 +5079,36 @@ http://127.0.0.1:8081/henan.php?id=16
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄新闻
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄娱乐
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄生活
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",石家庄都市
-http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",唐山新闻综合
-http://127.0.0.1:8081/tangshan.php?id=1
-#EXTINF:-1 tvg-id="400369" tvg-name="" tvg-logo="" group-title="地方",唐山生活服务
-http://127.0.0.1:8081/tangshan.php?id=2
-#EXTINF:-1 tvg-id="400370" tvg-name="" tvg-logo="" group-title="地方",唐山影视
-http://127.0.0.1:8081/tangshan.php?id=3
-#EXTINF:-1 tvg-id="400371" tvg-name="" tvg-logo="" group-title="地方",唐山公共
-http://127.0.0.1:8081/tangshan.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州新闻综合
-http://127.0.0.1:8081/cangzhou.php?id=czxwzh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州公共
-http://127.0.0.1:8081/cangzhou.php?id=czgg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州影视娱乐
-http://127.0.0.1:8081/cangzhou.php?id=czysyl
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州新闻综合
-https://czlive.czgd.tv:8813/live/czyt_czytzm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州公共
-https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州影视娱乐
-https://czlive.czgd.tv:8813/live/czet_czetzm.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",保定新闻综合
-http://127.0.0.1:8081/baoding.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",保定公共
-http://127.0.0.1:8081/baoding.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",保定生活健康
-http://127.0.0.1:8081/baoding.php?id=3
-
-
-#EXTINF:-1 tvg-id="400374" tvg-name="" tvg-logo="" group-title="地方",张家口一套
-http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
-#EXTINF:-1 tvg-id="400376" tvg-name="" tvg-logo="" group-title="地方",张家口手机台
-rtmp://nlive.zjkgdcs.com:1935/live/zjksjt
-#EXTINF:-1 tvg-id="400360" tvg-name="邯郸新闻综合" tvg-logo="" group-title="地方",邯郸新闻综合
-http://127.0.0.1:8081/handan.php?id=93
-#EXTINF:-1 tvg-id="400361" tvg-name="" tvg-logo="" group-title="地方",邯郸公共
-http://127.0.0.1:8081/handan.php?id=91
-#EXTINF:-1 tvg-id="400362" tvg-name="" tvg-logo="" group-title="地方",邯郸科技教育
-http://127.0.0.1:8081/handan.php?id=90
-
-
-#EXTINF:-1 tvg-id="400360" tvg-name="" tvg-logo="" group-title="地方",邯郸新闻综合
-http://127.0.0.1:8081/handan1.php?id=1
-#EXTINF:-1 tvg-id="400361" tvg-name="邯郸公共" tvg-logo="" group-title="地方",邯郸公共
-http://127.0.0.1:8081/handan1.php?id=2
-#EXTINF:-1 tvg-id="400362" tvg-name="" tvg-logo="" group-title="地方",邯郸科技教育
-http://127.0.0.1:8081/handan1.php?id=3
-
-
-#EXTINF:-1 tvg-id="400372" tvg-name="" tvg-logo="" group-title="地方",邢台综合
-http://127.0.0.1:8081/xingtai.php?id=62
-#EXTINF:-1 tvg-id="400373" tvg-name="" tvg-logo="" group-title="地方",邢台公共
-http://127.0.0.1:8081/xingtai.php?id=64
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CCTV-1
-http://127.0.0.1:8081/xingtai.php?id=155
-
-#EXTINF:-1 tvg-id="400372" tvg-name="" tvg-logo="" group-title="地方",邢台综合
-https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
-
-#EXTINF:-1 tvg-id="400363" tvg-name="" tvg-logo="" group-title="地方",衡水新闻综合
-rtmp://hls.hsrtv.cn:1935/hls/hstv1
-#EXTINF:-1 tvg-id="400364" tvg-name="" tvg-logo="" group-title="地方",衡水公共
-rtmp://hls.hsrtv.cn:1935/hls/hstv2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",衡水电视-3
-rtmp://hls.hsrtv.cn:1935/hls/hstv3
-#EXTINF:-1 tvg-id="400365" tvg-name="" tvg-logo="" group-title="地方",秦皇岛新闻
-http://vod.qhdcm.com:1935/live/qhdtv1/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="400366" tvg-name="" tvg-logo="" group-title="地方",秦皇岛政法
-http://vod.qhdcm.com:1935/live/qhdtv2/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="400367" tvg-name="" tvg-logo="" group-title="地方",秦皇岛影视
-http://vod.qhdcm.com:1935/live/qhdtv3/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",高邑融媒
+http://127.0.0.1:8081/hebeidifang.php?id=gy1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",鹿泉综合
+http://127.0.0.1:8081/hebeidifang.php?id=lq1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",鹿泉电视台
+http://127.0.0.1:8081/hebeidifang.php?id=lq2
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",保定新闻综合
+http://127.0.0.1:8081/hebeidifang.php?id=bd1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",保定公共x
+http://127.0.0.1:8081/hebeidifang.php?id=bd2
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",保定生活健康
+http://127.0.0.1:8081/hebeidifang.php?id=bd3
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",定州新闻综合
+http://127.0.0.1:8081/hebeidifang.php?id=dz1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",定州生活
+http://127.0.0.1:8081/hebeidifang.php?id=dz2
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",定州国学影视
+http://127.0.0.1:8081/hebeidifang.php?id=dz3
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",涞水综合
+http://127.0.0.1:8081/hebeidifang.php?id=ls1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",涞源综合
+http://127.0.0.1:8081/hebeidifang.php?id=ly1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",清苑新闻
+http://127.0.0.1:8081/hebeidifang.php?id=qy1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",清苑生活
+http://127.0.0.1:8081/hebeidifang.php?id=qy2
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",望都TV1套
+http://127.0.0.1:8081/hebeidifang.php?id=wd1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" group-title="地方",徐水TV1套
+http://127.0.0.1:8081/hebeidifang.php?id=xs1
 
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="地方",山东卫视
 http://127.0.0.1:8081/shandong.php?id=sdtv
