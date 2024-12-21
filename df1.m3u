@@ -5287,6 +5287,22 @@ http://127.0.0.1:8081/wuhanapp.php?id=2
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WETV.png" tvg-id="1795" tvg-name="武汉教育电视台" group-title="地方",武汉教育
 http://127.0.0.1:8081/wuhanapp.php?id=16
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古卫视
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古蒙古语卫视
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmmyws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古新闻综合
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmxwzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古经济生活
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmjjsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古少儿频道
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古文体娱乐
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmwtyl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古农牧频道
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmnm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",内蒙古蒙古语文化
+http://127.0.0.1:8081/neimenggurongmei.php?id=nmwh
 
 
 
