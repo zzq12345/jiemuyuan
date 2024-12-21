@@ -1892,8 +1892,40 @@
  
             },  
                         
-			
+			{
+				"name": "悦城",
+				 "ua": "okhttp/3.12",
+	                         "playerType": 2,  
+	"url":"https://bit.ly/yuechan-aptv",
+			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
+	
+		
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ 
+            },
                       
+			{
+				"name": "aptv",
+				 "ua": "okhttp/3.12",
+	                         "playerType": 2,  
+	"url":"https://bit.ly/iptv-aptv",
+			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
+	
+		
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ 
+            },
+				{
+				"name": "范明明ip6",
+				 "ua": "okhttp/3.12",
+	                         "playerType": 2,  
+	"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+			"epg": "https://epg.v1.mk/json?ch={name}&date={date}",	
+	
+		
+                      "logo": "https://epg.112114.xyz/logo/{name}.png"
+ 
+            },
 
 			                        {
 				"name": "jedi-sambora",
