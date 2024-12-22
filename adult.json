@@ -33,35 +33,8 @@
 
                 
       {
-            "key": "csp_顶级网曝",
-            "name": "顶级网曝",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
             
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "请求头": "手机",
-                "站名": "顶级网曝",
-                "主页url": "https://www.djwb3.top/",
-                "数组": "<li class=\"content-item\">&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "播放数组": "<td>&&</td>",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
-                "免嗅": "0",
-                "搜索url": "https://www.djwb3.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "嗅探词": ".m3u8#.mp4",
-                "分类url": "https://www.djwb3.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
-                "分类ID": "/index.php/vod/type/id/&&.html"
-            }
-        },
-{
+
             "key": "NOWAV系列一",
             "name": "️NOWAV.TV|热门女优",
             "type": 3,
@@ -86,7 +59,7 @@
                 "分类url": "https://nowav.tv/tag/{cateId}/page/{catePg}",
                 "分类": "波多野結衣&深田えいみ&田中ねね&美谷朱里&松本いちか&篠田ゆう&明里つむぎ&逢見リカ&木下ひまり&浜崎真緒&姫咲はな&さつき芽衣&宮崎あやね&宮崎あや&森沢かな&浅野奈都紀&椎名空&JULIA&あや&立花メアリー&橘瑪麗&橘友美&市川悠子&夏目ゆみ&りあ&メアリさん&メアリー&椎名そら&橘メアリー&素人",
                 "分类值": "波多野結衣&深田えいみ&田中ねね&美谷朱里&松本いちか&篠田ゆう&明里つむぎ&逢見リカ&木下ひまり&浜崎真緒&姫咲はな&さつき芽衣&宮崎あやね&宮崎あや&森沢かな&浅野奈都紀&椎名空&JULIA&あや&立花メアリー&橘瑪麗&橘友美&市川悠子&夏目ゆみ&りあ&メアリさん&メアリー&椎名そら&橘メアリー&素人",
-                "页面代理": "127.0.0.1:10172"
+                ####"页面代理": "127.0.0.1:10172"
             }
         },
        
@@ -125,17 +98,7 @@
         },
 
 
-    {
-      "key": "csp_xpath_飞兔成人",
-      "name": "🐰飞兔成人",
-      "type": 3,
-      "api": "csp_XPathFilter",
-     "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/feitucr.json"
-    },
+    
 
 	  
 {
@@ -145,7 +108,7 @@
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
             "style": {
-"type": "rect",
+            "type": "rect",
                 "ratio": 1.5
             },
             "ext": {
@@ -164,54 +127,13 @@
 
 		    
         
-         {
-            "key": "KanAV",
-            "name": "🔞KanAV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://kanav.info/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"video-item\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#自拍泄密$30#探花约炮$31#主播录制$32#动漫番剧$20#里番$25#泡面番$26#Motion Anime$27#3D动画$28#同人作品$29"
-            }
-        },
+         
+        
+            
 
-     {
-            "key": "亚色影库",
-            "name": "🔞亚瑟影库",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://www.yasetube.com/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "分类url": "https://www.yasetube.com/video/category/{cateId}/page/{catePg}",
-                "分类": "女厕偷拍$nvce#海角系列$hj#FC2 PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou"
-            }
-        },
+     
 
-       {
-            "key": "色最色",
-            "name": "🔞色最色",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://xn--zovv42dba.com/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
-                "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"
-            }
-        },
+       
    {
   "key": "JAVDAY",
   "name": "🔞JAVDAY",
@@ -232,40 +154,7 @@
   }
    },
 	  
-{
-            "key": "PPT",
-            "name": "❤️‍🔥〔PPT丨XP™〕",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "首页": "电视剧$30",
-                "数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "class=\"badge badge-success\">&&</span>",
-                "链接": "href=\"/v/&&\"",
-                "链接前缀": "https://ptt.red/",
-                "搜索url": "https://ptt.red/node/search?title={wd}",
-                "搜索数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-                "搜索副标题": "class=\"badge badge-success\">&&</span>",
-                "搜索链接": "href=\"/v/&&\"",
-                "搜索链接前缀": "https://ptt.red/",
-                "多线二次截取": "class=\"tabbable fullwidth\">&&</div",
-                "多线数组": "class=\"nav-item\">&&</li",
-                "多线链接": "href=\"&&\"",
-                "多线链接前缀": "https://ptt.red",
-                "多线链接后缀": "",
-                "线路数组": "class=\"nav-item\">&&</li",
-                "线路标题": "title=\"&&\"",
-                "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "直接播放": "体育",
-                "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53伦理$1/c/33",
-                "分类url": "https://ptt.red/p/{cateId}?page={catePg}"
-            }
-        },
+
 
 	  {
 		"key": "蛙视频",
@@ -284,24 +173,8 @@
                 "分类": "电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"
             }
         },
-{
-            "key": "JAVMMM25",
-            "name": "JAVMMM25",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-            "数组": "class=\"col-6 col- md-4 col-lg-3 col-xl-3\">&&class=\"video-block video-with-trailer",
-    "图片": "data-src=\"&&\"",
-    "标题": "title\">&&</span>",
-    "链接": "href=\"&&\"",
-    "播放标题": "title\">&&</span>",
-    "播放链接": "href=\"&&\"",
-    "直接播放": "1",
-    "分类": "日本有码$464#日本无码$465#国产情色$466#激情欧美$467#制服丝袜$468#熟女人妻$470#中文字幕$471#巨乳肥臀$472#国产传媒$478",
-    "分类url": "https://xn--2mxw8hnvi.javmmm25.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-  }
-        },
+
+
 	  {
       "key": "nu",
       "name": "Nuu|XBPQ",
@@ -314,49 +187,12 @@
        }
 	
     },
-{
-            "key": "农夫与少妇",
-            "name": "农夫与少妇",
-            "type": 3,
-            "api": "csp_XBPQ",
-            #####"jar": "./XBPQ.jar",
-	    "jar": "./lib/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/农夫与少妇.json"
-        },
-{
-      "key": "✨R撸巴✨",
-      "name": "✨R撸吧✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch":1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout":120,
-      "ext": {"数组": "img-box cover-md\"&&<p class=\"sub-title\">","标题": ">&&</a></h6>","图片": "data-src=\"&&\"","副标题":"✨多看少撸✨","链接": "href=\"&&\"","分类url": "https://www.rluba-mod.sbs/index.php/vodtype/{cateId}-{catePg}.html;;z","分类": "卡通动漫$49#无码中文$34#强奸中文$35#巨乳中文$36#乱伦中文$37#制服中文$38#人妻中文$39#调教中文$40#出轨中文$41#中文字幕$59#欧美性爱$29#性爱音乐视频-PMV$93#人兽$30#人妖$31#MomsTeachSex$95#男同$32#女同$33#Fake Taxi$83#Barzzers$87#Wow Girls$117#FamilyStrokes$116#骑兵有码$27#步兵无码$28#制服师生$50#强奸乱伦$51#人妻熟女$53#三级剧情$55#丝袜美腿$56#亚洲情色$58#麻豆视频$161#91制片厂$162#天美传媒$163#蜜桃传媒$164#皇家华人$165#星空传媒$166#精东影业$167#大象传媒$168#91茄子$169#性视界传媒$170#兔子先生$171#杏吧原创$172#香蕉传媒$174#SA国际传媒$175#EDmosaic$176#PsychoPorn$177#糖心Vlog$178#葫芦影业$179#果冻传媒$180#国产精品$10#精品三级$11#主播大秀$12#抖阴视频$13#国模私拍$14#颜射瞬间$15#女神学生$16#美熟少妇$17#娇妻素人$18#空姐模特$19#国产乱伦$20#专题$26#自慰群交$21#野合车震$22#职场同事$23#国产名人$24#网曝门事件$25#偷拍自拍$57#北京天使$119"}
-    },
+
+            
+
 
   
-{
-            "key": "emby18",
-            "name": "EMBY18",
-            "type": 3,
-            "api": "./lib/emby.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "server": "https://cherrytv.one:443",
-                "username": "ghost",
-                "password": "ghost",
-                "thread": 0
-            }
-        },
+
 
 
 
@@ -377,49 +213,10 @@
                 "图片": "img src=\"&&\"",
                 "标题": "alt=\"&&\"",
                 "链接": "href=\"&&\"",
-  
-                "分类url": "https://v3.bi888.link/vodtype/{cateId}-{catePg}.html",
-                "分类": "精品推荐$20#国产精品$21#日韩精品$22#欧美精品$23#中文字幕$24#日韩无码$25#日韩有码$26#网红主播$27#卡通动漫$28#探花系列$29#SM重味$30#自拍偷拍$31#强奸乱伦$32#口交视频$33#自慰系列$34#教师学生$35#3P合辑$36#巨乳系列$37#颜射系列$38#制服诱惑$39#萝莉少女$40#人兽之恋$41#人妻熟女$42#女同性恋$43#稀缺资源$45#三级伦理$44#空姐模特$48#国产盗摄$49#人妖系列$50#虚拟VR$51"
-            }
-        },
-	  
-	{"key": "SOAV",
-            "name": "🔞SOAV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://www.wantav.co/",
-                "搜索url": "https://777080.xyz/?s={wd}",
-                "数组": "data-video-uid=&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "</i>&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "⚠️少看点，再看你就废了！！！",
-                "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
-                "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
-            }
-        },
+
 	
-{
-            "api": "./py/吃瓜大队.py",
-            "filterable": 1,
-            "key": "吃瓜大队py",
-            "name": "吃瓜大队py🔞(梯子)",
-            "quickSearch": 1,
-            "searchable": 1,
-       "style": {
-                "type": "rect",
-                "ratio": 1.485
-            },
-            "type": 3
-        },
-	  
+
+            
             
 	  
 { 
@@ -471,42 +268,11 @@
             "searchable": 1,
             "changeable": 1
         },
-	  {
-            "key": "drpy_js",
-            "name": "xvideos",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/XVIDEOS.js",
-            "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            }
-        },
+	
 
 
-	  {
-"key":"18insta",
-"name":"💗┃💋18insta┃💠",
-"type":3,
-"api":"csp_XBPQ",
-"jar":"./lib/XBPQ.jar",
-"ext":{
-"数组二次截取":"models\":[&&]",
-"数组":"{&&}",
-"图片":"previewUrlThumbBig:\"https+://static-cdn.strpst.com/+https://static-cdn.strpst.com/&&\"",
-"标题":"username\":\"&&\"",
-"副标题":"id\":\"&&\"",
-"链接":"hlsPlaylist\":\"&&_+_480p.m3u8",
-"分类url":"https://zh.18insta.com/api/front/models?primaryTag=girls&sortBy=viewersRating&userRole=guest&groupId=6&limit=20&filterGroupTags=[[\"tagLanguageChinese\"]]&{cateId};;m",
-"直接播放":1,
-"播放请求头":"手机",
-"分类":"中文$offset=0#中文2$offset=60#最新$autoTagNew"
-}
-},
+	  
+
 
 
 	  
@@ -626,7 +392,7 @@
 	  {
 		"key": "xrbsp.com",
 		"name": "淫水机",
-		"type": 0,
+		"type": 1,
 		"api": "https://www.xrbsp.com/api/xml.php",
 		"quickSearch": 1,
 		"searchable": 1,
@@ -705,81 +471,15 @@
 		"searchable": 0,
 		"quickSearch": 0
 	  },
-        {
-            "key": "Cable",
-            "name": "🔞CableAV(vpn)",
-            "type": 3,
-            "api": "csp_Cable",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60
-        },
+        
 
 {
-  "key": "小幺女|床吧",
-  "name": "小幺女",
-  "type": 3,
-  "playerType": 2,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "站名": "小幺女",
-    "主页url": "https://xxynhkaa1.buzz/sort/id/245.html",
-    "数组": "class=\"vod_box\">&&</li>",
-    "图片": "url('&&'",
-    "标题": "title=\"&&\"",
-    "链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
-    "跳转播放链接": "var playUrl = '&&'",
-    "直接播放": "1",
-    "嗅探词": "index.m3u8",
-    "分类数组": "<a&&</a",
-    "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
-    "分类ID": "href=\"/sort/id/&&.html\"",
-    "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
-  }
-},
+
  
       
-{"key": "csp_黄瓜TV",
-"name": "黄瓜TV",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"请求头":"手机",
-"直接播放":"1",
-"分类url":"https://nbqlyfdhoe.xyz/vod/list.html?type_id={cateId}&page={catePg}",
-"分类":"日韩无码$1068#欧美无码$1069#中文字幕$1070#日韩有码$1071#国产自拍$1072#国产偷拍$1073#卡通动漫$1074#三级剧情$1075",
-"数组":"class=\"listpic\"&&</a>",
-"标题":"class=\"vodname\"&&</div>",
-"链接":"href=\"&&\"",
-"图片":"data-original=\"&&\"",
-"链接前缀":"https://nbqlyfdhoe.xyz",
-"链接后缀":"",
-"跳转播放链接":"<source src=\"&&\""
-},
-"jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-},
 
     
     
-          {
-            "key": "X视频",
-            "name": "xvideos",
-            "type": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/XVIDEOS.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
         {
             "key": "*色猫资源",
             "name": "*色猫资源",
@@ -788,22 +488,8 @@
             "searchable": 1,
             "quickSearch": 0
         },
-        {
-            "key": "*色南国资源",
-            "name": "*色南国资源",
-            "type": 1,
-            "api": "https://api.sexnguon.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "*抖阴视频",
-            "name": "*抖阴视频",
-            "type": 1,
-            "api": "https://www.888dav.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 0
-        },
+        
+        
         {
             "key": "*91麻豆",
             "name": "*91麻豆",
@@ -812,19 +498,11 @@
             "searchable": 1,
             "quickSearch": 0
         },
-        {
-            "key": "ms4nii",
-            "name": "美少女资源(已修复)",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         {
             "key": "KxrbspE",
             "name": "淫水机资源(已修复)",
-            "type": 0,
+            "type": 1,
             "api": "https://www.xrbsp.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
