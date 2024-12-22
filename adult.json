@@ -66,12 +66,12 @@
             "name": "️NOWAV.TV|热门女优",
             "type": 3,
             "api": "csp_XBPQ",
-	    "jar": "./lib/XBPQ.jar",
+	    ###"jar": "./lib/XBPQ.jar",
             
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-          ###"jar": "./lib/xbpq1.jar",
+          "jar": "./lib/xbpq1.jar",
             "ext": {
                 "主页url": "https://nowav.tv",
                 "数组": "<div class=td-module-thumb&&</a></h3></div>",
