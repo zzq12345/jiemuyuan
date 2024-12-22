@@ -166,38 +166,7 @@
 
 
 
-{
-            "key": "Bi8TV",
-            "name": "Bi8TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-                "style": {
-                "type": "rect",
-                "ratio": 1.485
-            },
-            "ext": {
-                 "主页url": "https://v3.bi888.link/",
-                "直接播放": "1",
-                "图片": "img src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\""
-
-	
-},
             
-            
-	  
-{ 
-	"key":"黄AV资源", 
-	"name":"黄AV资源", 
-	"type":0, 
-	"api":"https://www.pgxdy.com/api/xml.php",
-	"searchable":1,
-	"jar": "./pg.jar",
-	"quickSearch":1,
-	"filterable":1
-},
 
 
 
