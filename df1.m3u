@@ -3908,10 +3908,26 @@ http://127.0.0.1:8081/franceinfo.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" tvg-id="6139" tvg-name="ChannelNewsAsia" group-title="youtube world news",新加坡亚洲新闻CNA
 http://127.0.0.1:8081/youtube.php?v=XWq5kBlakcQ
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其国际英语台TRTWORLD
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其国际英语台TRTWORLD
 http://127.0.0.1:8081/trtenglish.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其国际英语台TRTWORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其体育
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",土耳其KURD1
+
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",伊朗presstv
