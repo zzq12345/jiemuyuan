@@ -3570,6 +3570,16 @@ http://127.0.0.1:8081/schwab.php
 http://127.0.0.1:8081/scrippsnews.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",zeebusiness
 http://127.0.0.1:8081/zeebusiness.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",wion
+http://127.0.0.1:8081/wion.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnn18
+http://127.0.0.1:8081/cnn18.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnbc18
+http://127.0.0.1:8081/cnbc18.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnbc18 stock
+http://127.0.0.1:8081/cnbc181.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NDTVProfitIndia
+http://127.0.0.1:8081/NDTVProfitIndia.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",ntd news
 https://ntd02.akamaized.net/NTDA/index.m3u8
 #EXTINF:-1 tvg-id="100680" tvg-name="" tvg-logo="" group-title="youtube world news",奥林匹克官网直播
@@ -3618,16 +3628,7 @@ http://127.0.0.1:8081/fashiontv.php
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",globalnews
 http://127.0.0.1:8081/globalnews.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",wion
-http://127.0.0.1:8081/wion.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnn18
-http://127.0.0.1:8081/cnn18.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnbc18
-http://127.0.0.1:8081/cnbc18.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",cnbc18 stock
-http://127.0.0.1:8081/cnbc181.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NDTVProfitIndia
-http://127.0.0.1:8081/NDTVProfitIndia.php
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube world news",NewsNOW from FOX
 http://127.0.0.1:8081/foxnewsnow.php?id=1
